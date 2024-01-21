@@ -1,5 +1,5 @@
 ---
-title: Foo Bar Identity
+title: Foo Bar Identity 1
 excerpt: Foo Bar design system including logo mark, website design, and branding applications.
 image: /assets/images/KR_Logo.png
 teaser: /assets/images/KR_Logo.png
