@@ -128,6 +128,7 @@ Rapid Prototyping
 table, th, td {
   border: 0px solid red;
   border-collapse: collapse;
+  width: 100%;
 }
 </style>
 </head>
