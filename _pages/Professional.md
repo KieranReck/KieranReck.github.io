@@ -4,13 +4,18 @@ layout: splash
 permalink: /professional/
 ---
 
+# centre align with width set
 ![](/assets/images/Bio(4x5vertical).png){: .align-center}
 
 
-
+# no slash
 ![](assets/images/Bio(4x5vertical).png){: .align-right}
 
+# slash
 ![](/assets/images/Bio(4x5vertical).png){: .align-right}
+
+# no slash without align
+![](assets/images/Bio(4x5vertical).png)
 
 # Hi, I’m Kieran,
 
