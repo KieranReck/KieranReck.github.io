@@ -164,7 +164,7 @@ table, th, td {
 </html>
 
 
-# some heading
+# some heading 0px
 
 
 
@@ -172,7 +172,7 @@ table, th, td {
 <head>
 <style>
 table, th, td {
-  border: 1px solid red;
+  border: 0px solid red;
   border-collapse: collapse;
 }
 </style>
