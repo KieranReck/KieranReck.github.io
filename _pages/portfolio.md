@@ -123,7 +123,7 @@ Rapid Prototyping
 <head>
 <style>
 table, th, td {
-  border: 1px solid white;
+  border: 0px solid white;
   border-collapse: collapse;
 }
 th, td {
