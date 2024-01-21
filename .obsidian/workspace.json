@@ -148,9 +148,9 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "_pages/Professional.md",
-    "_pages/Image Tests.md",
     "_pages/portfolio.md",
+    "_pages/Image Tests.md",
+    "_pages/Professional.md",
     "assets/images/Bio(4x5vertical).png",
     "assets/images/KR_Logo.png",
     "_posts/{{.md",

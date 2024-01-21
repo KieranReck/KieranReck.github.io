@@ -1,6 +1,7 @@
 ---
 title: Image Tests
 layout: splash
+permalink: /image_tests/
 ---
 
 # centre align with width set
