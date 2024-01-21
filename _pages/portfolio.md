@@ -126,7 +126,7 @@ Rapid Prototyping
 <head>
 <style>
 table, th, td {
-  border: 0px solid red;
+  border: 1px solid red;
   border-collapse: collapse;
   width: 100%;
   text-align: center;
@@ -142,7 +142,7 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
-    <th style="width:70%">>Lastname</th> 
+    <th style="width:60%">Lastname</th> 
     <th>Age</th>
   </tr>
   <tr>
