@@ -121,7 +121,8 @@ Rapid Prototyping
 </html>
 
 
-
+# You can make a table with invisible border using
+border: 0px
 ```
 <html>
 <head>
@@ -207,6 +208,14 @@ table, th, td {
 # Having 2 tables like this in a single page would mean that they have to share style settings
 
 
+# You can make a table with invisible border using
+border: 0px
+
+# Table format is already defined by the theme, i wonder if this is classing. I should look into making a custom css class for transparent tables and various alignment table types
+
+# Try pasting the existing table css class into an online generator to see if it matches the website
+
+
 
 IEC60601 for Medical Electrical Equipment
 
@@ -225,6 +234,7 @@ Mechanical Design
 # Competencies
 
 --insert gallary here--
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 # Career
 
