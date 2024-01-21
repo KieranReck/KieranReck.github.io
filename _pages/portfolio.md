@@ -122,12 +122,14 @@ Rapid Prototyping
 
 
 
+```
 <html>
 <head>
 <style>
 table, th, td {
   border: 1px solid red;
   border-collapse: collapse;
+  width: 100%;
   text-align: center;
 }
 </style>
@@ -163,7 +165,44 @@ table, th, td {
 
 </body>
 </html>
+```
 
+
+<html>
+<style>
+table, th, td {
+  border: 1px solid red;
+  border-collapse: collapse;
+  text-align: center;
+}
+</style>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th style="width:70%">Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 # Having 2 tables like this in a single page would mean that they have to share style settings
 
