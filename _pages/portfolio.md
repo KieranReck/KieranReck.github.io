@@ -129,6 +129,7 @@ table, th, td {
   border: 0px solid red;
   border-collapse: collapse;
   width: 100%;
+  text-align: center;
 }
 </style>
 </head>
@@ -141,7 +142,7 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
-    <th>Lastname</th> 
+    <th style="width:70%">>Lastname</th> 
     <th>Age</th>
   </tr>
   <tr>
@@ -165,44 +166,7 @@ table, th, td {
 </html>
 
 
-# some heading 0px
-
-
-
-<html>
-<head>
-<style>
-table, th, td {
-  border: 0px solid red;
-  border-collapse: collapse;
-}
-</style>
-</head>
-<body>
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-</body>
-</html>
+# Having 2 tables like this in a single page would mean that they have to share style settings
 
 
 
