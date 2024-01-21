@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_portfolio/foo-bar-website.md",
+                "file": "_pages/Professional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_portfolio/foo-bar-website.md",
+                "file": "_pages/Professional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_portfolio/foo-bar-website.md",
+                "file": "_pages/Professional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_portfolio/foo-bar-website.md"
+                "file": "_pages/Professional.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "9c8352a94d991323",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "assets/images/Bio(4x5vertical).png",
+    "_pages/portfolio.md",
+    "_pages/Professional.md",
+    "_portfolio/foo-bar-website.md"
+  ]
 }
