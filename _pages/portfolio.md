@@ -123,11 +123,8 @@ Rapid Prototyping
 <head>
 <style>
 table, th, td {
-  border: 0px solid white;
+  border: 0px solid red;
   border-collapse: collapse;
-}
-th, td {
-  background-color: #96D4D4;
 }
 </style>
 </head>
