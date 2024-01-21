@@ -160,23 +160,22 @@ table, th, td {
 </body>
 </html>
 
+
+
+
+
+
 <html>
 <head>
 <style>
 table, th, td {
-  border: 0px solid red;
+  border: 1px solid red;
   border-collapse: collapse;
-  width: 100%;
-  }
+}
 </style>
 </head>
 <body>
-
-<h2>Table With Invisible Borders</h2>
-
-<p>Style the table with white borders and a background color of the cells to make the impression of invisible borders.</p>
-
-<table>
+<table style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -198,9 +197,9 @@ table, th, td {
     <td>80</td>
   </tr>
 </table>
-
 </body>
 </html>
+
 
 
 IEC60601 for Medical Electrical Equipment
