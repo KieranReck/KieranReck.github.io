@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/Professional.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "assets/images/Bio(4x5vertical).png",
-    "_pages/portfolio.md",
+    "_posts/{{.md",
     "_pages/Professional.md",
-    "_portfolio/foo-bar-website.md"
+    "_pages/portfolio.md",
+    "_portfolio/foo-bar-website.md",
+    "assets/images/Bio(4x5vertical).png"
   ]
 }

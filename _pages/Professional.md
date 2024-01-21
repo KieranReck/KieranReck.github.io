@@ -4,6 +4,13 @@ layout: splash
 permalink: /professional/
 ---
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Bio(4x5vertical).png){: .align-center}
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/Bio(4x5vertical).png){: .align-center}
+
+![](/assets/images/Bio(4x5vertical).png){: .align-center}
+
+
 
 ![](assets/images/Bio(4x5vertical).png)
 # Hi, I’m Kieran,
