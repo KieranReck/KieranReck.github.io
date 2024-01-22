@@ -793,7 +793,7 @@ The previous table shows are grey divider between the column heading and the col
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: table;
+  display: inline flex;
   clear: both;
 }
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
