@@ -181,6 +181,11 @@ classes: wide
 
 ***
 <h1>Download CV</h1>
+
+[Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger}
+
+[Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger .align-center width="100px"}
+
 [Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger .align-center width="100px"}
 
 <a href="https://www.kieranreck.co.uk/professional" class="btn--danger" style="text-align: center;">Download CV</a>
