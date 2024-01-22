@@ -48,16 +48,13 @@ classes: wide
 </style>
 </head>
 <body>
-
-<h2>Two Unequal Columns</h2>
-
 <div class="row">
-  <div class="column left" style="background-color:#aaa;">
+  <div class="column left">
     <p> <img src="/assets/images/test.png"> </p>
     <p> </p>
   </div>
-  <div class="column middle" style="background-color:#ccc;">
-    <p>Hi, Im Kieran</p>
+  <div class="column middle">
+    <h2>Hi, Im Kieran</h2>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
   </div>
 </div>
