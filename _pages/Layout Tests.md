@@ -783,6 +783,7 @@ The previous table shows are grey divider between the column heading and the col
 .column {
   float: left;
   padding: 10px;
+  height: fit-content;
 }
 .left {
   width: 30%;
