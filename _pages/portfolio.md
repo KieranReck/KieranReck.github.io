@@ -60,6 +60,67 @@ classes: wide
 ***
 
 # Expertise
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+.left {
+  width: 50%;
+}
+.middle {
+  width: 50%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    height: max-content;
+  }
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column left">
+    <p>Electromechanical Design and Development</p>
+    <p>ISO 13485 Quality Management Systems</p>
+    <p>Medical Device Directive (MDD)</p>
+    <p>Design for Injection Moulding</p>
+    <p>Continuous Improvement</p>
+    <p>Consumer Devices</p>
+    <p>Rapid Prototyping</p>
+  </div>
+  <div class="column middle">
+    <p>IEC60601 for Medical Electrical Equipment</p>
+    <p>CSWP Certified Solidworks Professional</p>
+    <p>Corrosive Marine Environments</p>
+    <p>Sheet Metal Assemblies</p>
+    <p>Design for Assembly</p>
+    <p>Mechanical Design</p>
+    <p>3D Printing</p>
+  </div>
+</div>
+</body>
+</html>
+
+***
+
+
 Electromechanical Design and Development
 
 ISO 13485 Quality Management Systems
