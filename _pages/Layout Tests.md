@@ -526,3 +526,70 @@ The previous table shows are grey divider between the column heading and the col
 
 </body>
 </html>
+
+
+***
+
+
+# Lets try aligning some images
+
+# Put it all together:
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+</style>
+</head>
+<body>
+
+<h2>Three Unequal Columns</h2>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <p>relative MD Link</p>
+    <p>![test](../assets/images/test.png)</p>
+  </div>
+  <div class="column middle" style="background-color:#aab;">
+    <p>HTML source link</p>
+    <p><img src="/assets/images/test.png"></p>
+  </div>
+  <div class="column right" style="background-color:#aac;">
+    <p style="text-align:center;">nothing here</p>
+    <p style="text-align:right;">nothing here either</p>
+  </div>
+</div>
+
+</body>
+</html>
