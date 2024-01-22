@@ -117,6 +117,14 @@ classes: wide
 </body>
 
 ***
+# Competencies
+
+--insert gallary here--
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
+
+***
+
+
 
 <h1>Career</h1>
 
@@ -179,7 +187,6 @@ classes: wide
   </div>
 </body>
 
-***
 <h1>Download CV</h1>
 
 [Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger}
@@ -194,19 +201,8 @@ classes: wide
 
 <a href="https://www.kieranreck.co.uk/professional" class="btn--danger" text-align="center">Download CV</a>
 
-
-
 ***
 
-
-
-
-
-***
-# Competencies
-
---insert gallary here--
-https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
-
-# Career
+# More Projects
+Click on a project to learn more...
 
