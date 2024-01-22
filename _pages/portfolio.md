@@ -15,36 +15,30 @@ classes: wide
 * {
   box-sizing: border-box;
 }
-
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 375px; /* Should be removed. Only for demonstration */
 }
-
 .left {
   width: 25%;
 }
-
 .middle {
   width: 75%;
 }
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
 }
-
 </style>
 </head>
 <body>
@@ -54,11 +48,10 @@ classes: wide
     <p> </p>
   </div>
   <div class="column middle">
-    <h2>Hi, Im Kieran</h2>
+    <h2>Hi, I'm Kieran</h2>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
   </div>
 </div>
-
 </body>
 </html>
 
