@@ -462,5 +462,69 @@ The previous table shows are grey divider between the column heading and the col
 </html>
 
 
+***
+
+
+
+# Put it all together:
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+</style>
+</head>
+<body>
+
+<h2>Three Unequal Columns</h2>
+
+<div class="row">
+  <div class="column left">
+    <p>Column 25% wide<p>
+    <p>Some more text..</p>
+  </div>
+  <div class="column middle">
+    <p>Column 50% wide</p>
+    <p>Some more text..</p>
+  </div>
+  <div class="column right">
+    <p style="text-align:center;">Some text..aligned center</p>
+    <p style="text-align:right;">Some text..aligned right</p>
+  </div>
+</div>
+
+</body>
+</html>
 
 
