@@ -185,6 +185,10 @@ classes: wide
 
 <a href="https://www.kieranreck.co.uk/professional" class="btn--danger" style="text-align: center;">Download CV</a>
 
+<a href="https://www.kieranreck.co.uk/professional" class="btn--danger" style="align: center;">Download CV</a>
+
+<a href="https://www.kieranreck.co.uk/professional" class="btn--danger" text-align="center">Download CV</a>
+
 
 
 ***
