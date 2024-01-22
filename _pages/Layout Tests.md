@@ -353,8 +353,7 @@ The previous table shows are grey divider between the column heading and the col
 <p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide).</p>
 
 <div class="row">
-  <div {
-    class="column">
+  <div class="column">
     <p style="text-align:center;">Some text..aligned center</p>
     <p>Some more text..</p>
   </div>
