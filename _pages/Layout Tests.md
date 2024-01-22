@@ -783,7 +783,7 @@ The previous table shows are grey divider between the column heading and the col
 .column {
   float: left;
   padding: 10px;
-  height: min-content; /* Should be removed. Only for demonstration */
+  height: max-content; /* Should be removed. Only for demonstration */
 }
 .left {
   width: 30%;
@@ -807,7 +807,7 @@ The previous table shows are grey divider between the column heading and the col
 </style>
 </head>
 <body>
-<h2> The solution is to add "height: min-content;" to your react code </h2>
+<h2> The solution is to add "height: max-content;" to your react code </h2>
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <p><img src="/assets/images/Bio(4x5vertical).png"></p>
