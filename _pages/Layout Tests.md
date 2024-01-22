@@ -646,8 +646,8 @@ The previous table shows are grey divider between the column heading and the col
     <p>![test](../assets/images/test.png)</p>
   </div>
   <div class="column middle" style="background-color:#aab;">
-    <p>1000px wide HTML Image</p>
-    <p><img src="/assets/images/test.png" width="1000"></p>
+    <p>1200px wide HTML Image willreactively adjust to the width of the column</p>
+    <p><img src="/assets/images/test.png" width="1200"></p>
   </div>
   <div class="column right" style="background-color:#aac;">
     <p style="text-align:center;">nothing here</p>
