@@ -187,19 +187,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-<h1>Download CV</h1>
-
 [Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger}
-
-[Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger .align-center width="100px"}
-
-[Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger .align-center width="100px"}
-
-<a href="https://www.kieranreck.co.uk/professional" class="btn--danger" style="text-align: center;">Download CV</a>
-
-<a href="https://www.kieranreck.co.uk/professional" class="btn--danger" style="align: center;">Download CV</a>
-
-<a href="https://www.kieranreck.co.uk/professional" class="btn--danger" text-align="center">Download CV</a>
 
 ***
 
