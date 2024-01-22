@@ -783,7 +783,7 @@ The previous table shows are grey divider between the column heading and the col
 .column {
   float: left;
   padding: 10px;
-  height: 375px; /* Should be removed. Only for demonstration */
+  height: min-content; /* Should be removed. Only for demonstration */
 }
 .left {
   width: 30%;
@@ -801,7 +801,7 @@ The previous table shows are grey divider between the column heading and the col
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
-    height: min-content;
+    height: max-content;
   }
 }
 </style>
