@@ -155,84 +155,35 @@ classes: wide
 <body>
   <div class="column left">
   	<div class="row">
-   	 <h3>Medical Device Development</h3>
-   	 <p>2018 - 2019</p>
-     </div>
-     </div>
+   	  <h3>Medical Device Development</h3>
+   	  <p>2018 - 2019</p>
+    </div>
+  </div>
     <div class="column middle">
       <div class="row">	
       <h3>Marine Optical Instruments</h3>
-    <p>2019 - 2020</p>
-  </div>
+      <p>2019 - 2020</p>
+    </div>
   </div>
   <div class="column left">
     <div class="row">
-    <h3>Electron Microscopy</h3>
-    <p>2020 - 2023</p>
+      <h3>Electron Microscopy</h3>
+      <p>2020 - 2023</p>
     </div>
   </div>	
     <div class="column middle">
       <div class="row">
       <h3>Infectious Disease Diagnostics</h3>
       <p>2023 - Present</p>
-      </div>
+    </div>
   </div>
 </body>
 
 ***
 
-<h1>Career</h1>
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
-.left {
-  width: 50%;
-}
-.middle {
-  width: 50%;
-}
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    height: max-content;
-  }
-}
-</style>
-</head>
-<body>
-<div class="row">
-  <div class="column left">
-    <h3>Medical Device Development</h3>
-    <p>2018 - 2019</p>
-    <h3>Marine Optical Instruments</h3>
-    <p>2019 - 2020</p>
-  </div>
-  <div class="column middle">
-    <h3>Electron Microscopy</h3>
-    <p>2020 - 2023</p>
-    <h3>Infectious Disease Diagnostics</h3>
-    <p>2023 - Present</p>
-  </div>
-</div>
-</body>
 
 ***
+
 
 
 
