@@ -37,7 +37,7 @@ classes: wide
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
-    max-height: 100px;
+    height: max-content;
   }
 }
 </style>
