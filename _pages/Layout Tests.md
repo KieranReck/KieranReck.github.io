@@ -820,3 +820,5 @@ The previous table shows are grey divider between the column heading and the col
 </div>
 </body>
 </html>
+
+# Turns out I dont really know how it works, so take all of this with a pinch of salt
