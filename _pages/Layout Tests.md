@@ -450,7 +450,7 @@ The previous table shows are grey divider between the column heading and the col
     <p>Some text..</p>
   </div>
   <div class="column middle" style="background-color:#ccc;">
-    <h2>Right Column</h2>
+    <h2>Middle Column</h2>
     <p>Some text..</p>
   </div>
 </div>
