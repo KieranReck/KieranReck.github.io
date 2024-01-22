@@ -409,7 +409,7 @@ The previous table shows are grey divider between the column heading and the col
   box-sizing: border-box;
 }
 
-/* Create three unequal columns that floats next to each other */
+/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
@@ -420,7 +420,7 @@ The previous table shows are grey divider between the column heading and the col
   width: 25%;
 }
 
-.right {
+.middle {
   width: 75%;
 }
 
@@ -442,14 +442,14 @@ The previous table shows are grey divider between the column heading and the col
 </head>
 <body>
 
-<h2>Three Unequal Columns</h2>
+<h2>Two Unequal Columns</h2>
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <h2>Left Column</h2>
     <p>Some text..</p>
   </div>
-  <div class="column right" style="background-color:#ccc;">
+  <div class="column middle" style="background-color:#ccc;">
     <h2>Right Column</h2>
     <p>Some text..</p>
   </div>
