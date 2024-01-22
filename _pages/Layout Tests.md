@@ -510,15 +510,15 @@ The previous table shows are grey divider between the column heading and the col
 <h2>Three Unequal Columns</h2>
 
 <div class="row">
-  <div class="column left">
+  <div class="column left" style="background-color:#aaa;">
     <p>Column 25% wide<p>
     <p>Some more text..</p>
   </div>
-  <div class="column middle">
+  <div class="column middle" style="background-color:#aab;">
     <p>Column 50% wide</p>
     <p>Some more text..</p>
   </div>
-  <div class="column right">
+  <div class="column right" style="background-color:#aac;">
     <p style="text-align:center;">Some text..aligned center</p>
     <p style="text-align:right;">Some text..aligned right</p>
   </div>
@@ -526,5 +526,3 @@ The previous table shows are grey divider between the column heading and the col
 
 </body>
 </html>
-
-
