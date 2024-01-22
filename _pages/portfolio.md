@@ -22,10 +22,10 @@ classes: wide
   height: 375px; /* Should be removed. Only for demonstration */
 }
 .left {
-  width: 25%;
+  width: 30%;
 }
 .middle {
-  width: 75%;
+  width: 70%;
 }
 /* Clear floats after the columns */
 .row:after {
