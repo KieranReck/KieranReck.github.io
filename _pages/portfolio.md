@@ -157,14 +157,12 @@ classes: wide
   <div class="column left">
     <h3>Medical Device Development</h3>
     <p>2018 - 2019</p>
-    <p>&nbsp</p>
     <h3>Marine Optical Instruments</h3>
     <p>2019 - 2020</p>
   </div>
   <div class="column middle">
     <h3>Electron Microscopy</h3>
     <p>2020 - 2023</p>
-    <p>&nbsp</p>
     <h3>Infectious Disease Diagnostics</h3>
     <p>2023 - Present</p>
   </div>
