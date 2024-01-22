@@ -22,10 +22,10 @@ classes: wide
   height: max-content; /* Should be removed. Only for demonstration */
 }
 .left {
-  width: 30%;
+  width: 20%;
 }
 .middle {
-  width: 70%;
+  width: 80%;
 }
 /* Clear floats after the columns */
 .row:after {
