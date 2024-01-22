@@ -180,6 +180,8 @@ classes: wide
 </body>
 
 ***
+<h1>Download CV</h1>
+[Download CV](https://www.kieranreck.co.uk/professional){: .btn .btn--danger}
 
 
 ***
