@@ -19,7 +19,7 @@ classes: wide
 .column {
   float: left;
   padding: 10px;
-  height: 375px; /* Should be removed. Only for demonstration */
+  height: max-content; /* Should be removed. Only for demonstration */
 }
 .left {
   width: 30%;
@@ -59,9 +59,8 @@ classes: wide
 
 ***
 
-# Expertise
+<h1>Expertise</h1>
 
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -116,7 +115,6 @@ classes: wide
   </div>
 </div>
 </body>
-</html>
 
 ***
 
