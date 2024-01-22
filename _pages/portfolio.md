@@ -44,11 +44,11 @@ classes: wide
 </head>
 <body>
 <div class="row">
-  <div class="column left" style="background-color:#aaa;">
+  <div class="column left">
     <p><img src="/assets/images/Bio(4x5vertical).png"></p>
     <p></p>
   </div>
-  <div class="column middle" style="background-color:#bbb;">
+  <div class="column middle">
     <h2>Hi, I'm Kieran</h2>
     <p></p>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
