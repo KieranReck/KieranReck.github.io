@@ -45,7 +45,7 @@ classes: wide
 <body>
 <div class="row">
   <div class="column left">
-    <p><img src="/assets/images/Bio(4x5vertical).png"></p>
+    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:350px;width:100%"></p>
     <p></p>
   </div>
   <div class="column middle">
