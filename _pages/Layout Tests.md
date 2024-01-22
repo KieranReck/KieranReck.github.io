@@ -801,13 +801,13 @@ The previous table shows are grey divider between the column heading and the col
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
-    height: max-content;
+    height: min-content;
   }
 }
 </style>
 </head>
 <body>
-<h2> The solution is to add "height: max-content;" to your react code </h2>
+<h2> The solution is to add "height: min-content;" to your react code </h2>
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <p><img src="/assets/images/Bio(4x5vertical).png"></p>
