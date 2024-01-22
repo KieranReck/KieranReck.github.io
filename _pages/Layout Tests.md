@@ -511,11 +511,11 @@ The previous table shows are grey divider between the column heading and the col
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
-    <p>Column 25% wide<p>
+    <p>Column1</p>
     <p>Some more text..</p>
   </div>
   <div class="column middle" style="background-color:#aab;">
-    <p>Column 50% wide</p>
+    <p>Column half width</p>
     <p>Some more text..</p>
   </div>
   <div class="column right" style="background-color:#aac;">
