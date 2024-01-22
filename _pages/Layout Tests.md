@@ -750,13 +750,12 @@ The previous table shows are grey divider between the column heading and the col
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
-    height: max-content;
   }
 }
 </style>
 </head>
 <body>
-<h2> example of the problem</h2>
+<h2> When you make the window smaller, the image ends up behind the text</h2>
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <p><img src="/assets/images/Bio(4x5vertical).png"></p>
@@ -770,53 +769,8 @@ The previous table shows are grey divider between the column heading and the col
 </div>
 </body>
 </html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 375px; /* Should be removed. Only for demonstration */
-}
-.left {
-  width: 30%;
-}
-.middle {
-  width: 70%;
-}
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-</head>
-<body>
-<div class="row">
-  <div class="column left" style="background-color:#aaa;">
-    <p><img src="/assets/images/Bio(4x5vertical).png"></p>
-    <p></p>
-  </div>
-  <div class="column middle" style="background-color:#bbb;">
-    <h2>Hi, I'm Kieran</h2>
-    <p></p>
-    <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
-  </div>
-</div>
-</body>
-</html>
+
+***
 
 <html>
 <head>
