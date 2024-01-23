@@ -94,16 +94,7 @@ classes: wide
     }
   } */
 /* add some HTML button classes */
-  .HTMLbutton {
-    background-color: #04AA6D;
-    color: white;
-    padding: 15px 25px;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-  @import "https://github.com/KieranReck/KieranReck.github.io/blob/f465a8e0b015112d3d9264e8ec32edd6d4859ef8/_sass/minimal-mistakes/_buttons.scss"; 
+  /*@import "https://github.com/KieranReck/KieranReck.github.io/blob/f465a8e0b015112d3d9264e8ec32edd6d4859ef8/_sass/minimal-mistakes/_buttons.scss";*/ 
 
 </style>
 </head>
@@ -187,7 +178,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-[Visit My Linked In...](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
+[Visit My Linked In..](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
 
 ***
 
@@ -202,7 +193,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk..</a>
   </div>
 </div>
 </body>
@@ -214,7 +205,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk..</a>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
@@ -232,7 +223,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Medical Airflow Calibrator</h2>
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk..</a>
   </div>
 </div>
 </body>
