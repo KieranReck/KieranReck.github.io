@@ -190,8 +190,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <p> href button </p>
-    <a href="https://kieranreck.co.uk"><img scr="/assets/images/button_learn-more.jpg"></a>
+    <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
   </div>
 </div>
 </body>
@@ -203,6 +202,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
+    <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
@@ -219,7 +219,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
   <div class="column-highlight right-highlight">
     <h2>Medical Airflow Calibrator</h2>
-    <p>hrefbutton</p>
+    <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
   </div>
