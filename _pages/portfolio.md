@@ -103,7 +103,7 @@ classes: wide
     margin: 4px 2px;
     cursor: pointer;
   }
-  @import "https://github.com/KieranReck/KieranReck.github.io/blob/c897c4aa25f6361c58b106c9e6aab46eda4ae25f/_sass/minimal-mistakes.scss"; 
+  @import "https://github.com/KieranReck/KieranReck.github.io/blob/f465a8e0b015112d3d9264e8ec32edd6d4859ef8/_sass/minimal-mistakes/_buttons.scss"; 
 
 </style>
 </head>
@@ -233,7 +233,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <p>import with github permalink to minimal-mistakes.sass</p>
+    <p>import with github permalink to buttons.scss</p>
     <a target="_blank" class="btn" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
