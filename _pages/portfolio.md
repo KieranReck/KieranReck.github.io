@@ -15,33 +15,61 @@ classes: wide
 * {
   box-sizing: border-box;
 }
+/* Create your layouts. Here, I start by defining an uneven 2column style (-intro)
+/* followed by defining an even 2column style (-dual-even) which is used across multiple secions*/
+/* ....*/
 /* Create two unequal columns that floats next to each other */
-.column-intro {
-  float: left;
-  padding: 10px;
-  height: max-content; /* Should be removed. Only for demonstration */
-}
-.left-intro {
-  width: 35%;
-}
-.right-intro {
-  width: 65%;
-}
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
   .column-intro {
-    width: 100%;
-    height: max-content;
+    float: left;
+    padding: 10px;
+    height: max-content; /* Should be removed. Only for demonstration */
   }
-}
+  .left-intro {
+    width: 35%;
+  }
+  .right-intro {
+    width: 65%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column-intro {
+      width: 100%;
+      height: max-content;
+    }
+  }
+/* Now Create two equal columns that floats next to each other */
+  .column-dual-even {
+    float: left;
+    padding: 10px;
+  }
+  .left-dual-even {
+    width: 50%;
+  }
+  .right-dual-even {
+    width: 50%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - makes the columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column-dual-even {
+      width: 100%;
+      height: max-content;
+    }
+  }
 </style>
 </head>
+
 <body>
 <div class="row">
   <div class="column-intro left-intro">
@@ -61,38 +89,6 @@ classes: wide
 
 <h1>Expertise</h1>
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two unequal columns that floats next to each other */
-.column-dual-even {
-  float: left;
-  padding: 10px;
-}
-.left-dual-even {
-  width: 50%;
-}
-.right-dual-even {
-  width: 50%;
-}
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column-dual-even {
-    width: 100%;
-    height: max-content;
-  }
-}
-</style>
-</head>
 <body>
 <div class="row">
   <div class="column-dual-even left-dual-even">
