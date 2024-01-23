@@ -178,9 +178,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-<a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk"><i class="fa fa-linkedin-square"></i>Linked In..</a>
-
-[Linked In..](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
+[Linked In..](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--large}
 
 ***
 
