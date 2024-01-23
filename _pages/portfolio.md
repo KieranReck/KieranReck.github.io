@@ -190,7 +190,9 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <p><a href="https://kieranreck.co.uk"><img scr="/assets/images/button_learn-more.jpg"></p>
+    <p><a href="https://kieranreck.co.uk"><img scr="/assets/images/button_learn-more.jpg"></a></p>
+    <div class="btn">
+    </div>
   </div>
 </div>
 </body>
