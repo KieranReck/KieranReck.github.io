@@ -206,7 +206,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <p><button class="button button1">Learn More</button></p>
+    <a class="button button1" href="https://kieranreck.co.uk">Learn More</a>
   </div>
 </div>
 </body>
