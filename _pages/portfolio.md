@@ -74,10 +74,10 @@ classes: wide
     height: max-content; /* Should be removed. Only for demonstration */
   }
   .left-highlight {
-    width: 55%;
+    width: 50%;
   }
   .right-highlight {
-    width: 45%;
+    width: 50%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -190,6 +190,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
+    <p> href button </p>
     <a href="https://kieranreck.co.uk"><img scr="/assets/images/button_learn-more.jpg"></a>
   </div>
 </div>
