@@ -85,13 +85,14 @@ classes: wide
     display: table;
     clear: both;
   }
-  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  /* Chose to remove the responsive layout because otherwise it stacks weirdly due to the pictures alternating sides 
+    Responsive layout - makes the three columns stack on top of each other instead of next to each other 
   @media screen and (max-width: 600px) {
     .column-highlight {
       width: 100%;
       height: max-content;
     }
-  }
+  } */
 
 </style>
 </head>
