@@ -93,6 +93,20 @@ classes: wide
       height: max-content;
     }
   } */
+/* add some HTML button classes */
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {background-color: #04AA6D;} /* Green */
+  .button2 {background-color: #008CBA;} /* Blue */
 
 </style>
 </head>
@@ -192,6 +206,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
+    <p><button class="button button1">Learn More</button></p>
   </div>
 </div>
 </body>
@@ -207,7 +222,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
-    <p></p>
+    <p><button class="button button1">Learn More</button></p>
   </div>
 </div>
 </body>
@@ -223,6 +238,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
+    <p><button class="button button1">Learn More</button></p>
   </div>
 </div>
 </body>
