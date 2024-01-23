@@ -67,13 +67,38 @@ classes: wide
       height: max-content;
     }
   }
+/* Create highlight projects layout */
+  .column-highlight {
+    float: left;
+    padding: 10px;
+    height: max-content; /* Should be removed. Only for demonstration */
+  }
+  .left-highlight {
+    width: 55%;
+  }
+  .right-highlight {
+    width: 45%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column-highlight {
+      width: 100%;
+      height: max-content;
+    }
+  }
 </style>
 </head>
 
 <body>
 <div class="row">
   <div class="column-intro left-intro">
-    <p><img src="https://kieranreck.github.io/assets/images/Bio(4x5vertical).png" style="max-width:300px;width:100%"></p>
+    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:300px;width:100%"></p>
     <p></p>
   </div>
   <div class="column-intro right-intro">
@@ -120,8 +145,6 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 ***
 
-
-
 <h1>Career</h1>
 
 <body>
@@ -139,7 +162,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
   <div class="column-dual-even left-dual-even">
     <div class="row">
-      <h3>Electron Microscopy</h3>
+      <h3>Scanning Electron Microscopy</h3>
       <p>2020 - 2023</p>
     </div>
   </div>	
@@ -151,9 +174,24 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-[Linked In](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger}
+[Visit My Linked In](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger}
 
 ***
+
+<h1>Highlight Projects</h1>
+<body>
+<div class="row">
+  <div class="column-highlight left-highlight">
+    <p><img src="/assets/images/SemipermeableTubes_highlight" style="max-width:500px;width:100%"></p>
+    <p></p>
+  </div>
+  <div class="column-highlight right-highlight">
+    <h2>Semipermeable Breathing Tubes</h2>
+    <p></p>
+    <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
+  </div>
+</div>
+</body>
 
 # More Projects
 Click on a project to learn more...
