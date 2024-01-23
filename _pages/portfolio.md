@@ -187,7 +187,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-[Visit My Linked In](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
+[Visit My Linked In...](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
 
 ***
 
