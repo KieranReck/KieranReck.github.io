@@ -182,7 +182,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 <body>
 <div class="row">
   <div class="column-highlight left-highlight">
-    <p><img src="/assets/images/SemipermeableTubes_highlight" style="max-width:500px;width:100%"></p>
+    <p><img src="/assets/images/SemipermeableTubes_highlight.jpg" style="max-width:500px;width:100%"></p>
     <p></p>
   </div>
   <div class="column-highlight right-highlight">
