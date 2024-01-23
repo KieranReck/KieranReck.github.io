@@ -103,7 +103,7 @@ classes: wide
     margin: 4px 2px;
     cursor: pointer;
   }
-
+  @import '../_sass/minimal-mistakes.scss'; 
 
 </style>
 </head>
