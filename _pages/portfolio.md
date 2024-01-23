@@ -233,7 +233,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
+    <a target="_blank" class="btn" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
 </body>
