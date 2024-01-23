@@ -236,7 +236,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p>changed skin link colour</p>
     <a target="_blank" class="btn" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
     <p> tried it with a colour class</p>
-    <a target="_blank" class="btn--danger" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
+    <a target="_blank" class="btn btn--danger" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
 </body>
