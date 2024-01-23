@@ -187,7 +187,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-[Visit My Linked In](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger}
+[Visit My Linked In](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--x-large}
 
 ***
 
@@ -202,7 +202,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
   </div>
 </div>
 </body>
@@ -214,7 +214,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
-    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
@@ -232,9 +232,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Medical Airflow Calibrator</h2>
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
-    <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <p> 2px 5px</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk...</a>
   </div>
 </div>
 </body>
