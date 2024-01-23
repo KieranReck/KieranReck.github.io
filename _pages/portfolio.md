@@ -103,7 +103,7 @@ classes: wide
     margin: 4px 2px;
     cursor: pointer;
   }
-  @import "/_sass/minimal-mistakes/_buttons.scss"; 
+  @import "https://github.com/KieranReck/KieranReck.github.io/blob/c897c4aa25f6361c58b106c9e6aab46eda4ae25f/_sass/minimal-mistakes.scss"; 
 
 </style>
 </head>
