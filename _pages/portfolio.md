@@ -21,10 +21,10 @@ classes: wide
   padding: 10px;
   height: max-content; /* Should be removed. Only for demonstration */
 }
-.left {
+.left1 {
   width: 30%;
 }
-.middle {
+.middle1 {
   width: 70%;
 }
 /* Clear floats after the columns */
@@ -44,11 +44,11 @@ classes: wide
 </head>
 <body>
 <div class="row">
-  <div class="column left">
+  <div class="column left1">
     <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:300px;width:100%"></p>
     <p></p>
   </div>
-  <div class="column middle">
+  <div class="column middle1">
     <h2>Hi, I'm Kieran</h2>
     <p></p>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
