@@ -235,7 +235,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
     <p>changed skin link colour</p>
     <a target="_blank" class="btn" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
-    <p> tried it with a colour class and xl class</p>
+    <p> 2em 4em</p>
     <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
