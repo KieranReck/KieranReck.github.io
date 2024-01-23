@@ -94,19 +94,16 @@ classes: wide
     }
   } */
 /* add some HTML button classes */
-  .button {
-    border: none;
+  .HTMLbutton {
+    background-color: #04AA6D;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
+    padding: 15px 25px;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
   }
-  .button1 {background-color: #04AA6D;} /* Green */
-  .button2 {background-color: #008CBA;} /* Blue */
+
 
 </style>
 </head>
@@ -205,8 +202,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <a class="button button1" href="https://kieranreck.co.uk">Learn More</a>
+    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
 </body>
@@ -218,11 +214,10 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
-    <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
+    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
-    <p><button class="button button1">Learn More</button></p>
   </div>
 </div>
 </body>
@@ -238,7 +233,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
     <p><a href="default.asp"><img src="https://kieranreck.github.io/assets/images/button_learn-more.JPG" alt="HTML tutorial"></a></p>
-    <p><button class="button button1">Learn More</button></p>
+    <a target="_blank" class="HTMLbutton" href="https://www.kieranreck.co.uk">kieranreck.co.uk</a>
   </div>
 </div>
 </body>
