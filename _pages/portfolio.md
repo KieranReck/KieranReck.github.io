@@ -49,10 +49,10 @@ classes: wide
     padding: 10px;
   }
   .left-triple {
-    width: 20%;
+    width: 24%;
   }
   .right-triple, .middle-triple {
-    width: 40%;
+    width: 38%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -119,7 +119,7 @@ classes: wide
 <body>
 <div class="row">
   <div class="column-triple left-triple">
-    <h1>Expertise</h1>
+    <h2>Expertise</h2>
   </div>
   <div class="column-triple middle-triple">
     <p>Electromechanical Design and Development</p>
@@ -152,7 +152,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 <body>
   <div class="column-triple left-triple">
-    <h1>Career</h1>
+    <h2>Career</h2>
   </div>
   <div class="column-triple middle-triple">
   	<div class="row">
@@ -181,8 +181,6 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     </div>
   </div>
 </body>
-
-[Linked In..](https://www.linkedin.com/in/kieran-reck-780842229){: .btn .btn--danger .btn--large}
 
 ***
 
