@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-2nd attempt at removing sidebar from single
+3rd attempt at removing sidebar from single
 
 You have stumbled across my test page for working out how the hell to add HTML layouts to this mostly Markdown based website.
 Whilst my blog is almost entierly markdown, my Professional page needed a little more customisation to make it pop. I have achieved this partially thanks to the layout tests below:
