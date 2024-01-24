@@ -49,10 +49,10 @@ classes: wide
     padding: 10px;
   }
   .left-triple {
-    width: 28%;
+    width: 20%;
   }
   .right-triple, .middle-triple {
-    width: 36%;
+    width: 40%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -102,7 +102,7 @@ classes: wide
 <body>
 <div class="row">
   <div class="column-intro left-intro">
-    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:300px;width:100%"></p>
+    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:400px;width:100%"></p>
     <p></p>
   </div>
   <div class="column-intro right-intro">
