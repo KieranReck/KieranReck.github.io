@@ -106,6 +106,7 @@ classes: wide
     <p></p>
   </div>
   <div class="column-intro right-intro">
+    <h1></h1>
     <h1>Hi, I'm Kieran</h1>
     <p></p>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
@@ -113,6 +114,9 @@ classes: wide
 </div>
 </body>
 </html>
+
+
+# Add buttons here for professional (directs down below) or Hobby(archive page) or Blog(archive list) 
 
 ***
 
