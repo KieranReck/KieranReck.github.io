@@ -182,9 +182,6 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 <hr style="width:100%">
 </body>
-
-<hr style="width:100%">
-***
  
 
 <h1>Highlight Projects</h1>
