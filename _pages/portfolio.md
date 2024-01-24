@@ -182,7 +182,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
-
+<hr>
 ***
  
 
