@@ -230,4 +230,5 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 # More Projects 
 Click on a project to learn more... 
+(ARCHIVE LAYOUT UPDATED WITH NO ERRORS)
 
