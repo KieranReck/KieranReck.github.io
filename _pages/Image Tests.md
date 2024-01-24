@@ -4,23 +4,24 @@ layout: splash
 permalink: /image_tests/
 ---
 
-# centre align with width set
+# centre align with width set - Works
 ![](/assets/images/Bio(4x5vertical).png){: .align-center width="50px"}
 
 
-# no slash
+# no slash - Does not Works
 ![](assets/images/Bio(4x5vertical).png){: .align-right}
 
-# slash
+# slash - Works
 ![](/assets/images/Bio(4x5vertical).png){: .align-right}
 
-# no slash without align
+# no slash without align - Does Not Work
 ![](assets/images/Bio(4x5vertical).png)
 
-# relative auto link
+# relative auto link - Works
 
 ![Bio(4x5vertical)](../assets/images/Bio(4x5vertical).png)
-# absolute auto link
+
+# absolute auto link - Does Not Work
 
 
 # Hi, I’m Kieran,

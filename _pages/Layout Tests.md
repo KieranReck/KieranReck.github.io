@@ -2,6 +2,8 @@
 title: Layout Tests
 layout: single
 permalink: /layout_tests/
+author_profile: true
+toc: true
 ---
 
 You have stumbled across my test page for working out how the hell to add HTML layouts to this mostly Markdown based website.
