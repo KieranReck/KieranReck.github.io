@@ -180,9 +180,10 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
       <p>2023 - Present</p>
     </div>
   </div>
+<hr>
 </body>
 
-<hr>
+
 ***
  
 
