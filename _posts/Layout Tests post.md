@@ -1,7 +1,7 @@
 ---
-title: Layout Tests
+title: Layout Tests Post
 layout: single
-permalink: /layout_tests/
+permalink: /layout_tests_post/
 author_profile: false
 toc: true
 remove_sidebar_spacing: true
