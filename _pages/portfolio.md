@@ -25,10 +25,10 @@ classes: wide
     height: max-content; /* Should be removed. Only for demonstration */
   }
   .left-intro {
-    width: 30%;
+    width: 35%;
   }
   .right-intro {
-    width: 70%;
+    width: 65%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -49,10 +49,10 @@ classes: wide
     padding: 10px;
   }
   .left-triple {
-    width: 30%;
+    width: 28%;
   }
   .right-triple, .middle-triple {
-    width: 35%;
+    width: 36%;
   }
   /* Clear floats after the columns */
   .row:after {
