@@ -43,16 +43,16 @@ classes: wide
       height: max-content;
     }
   }
-/* Now Create two equal columns that floats next to each other */
-  .column-dual-even {
+/* Now Create a three column layout */
+  .column-triple {
     float: left;
     padding: 10px;
   }
-  .left-dual-even {
-    width: 50%;
+  .left-triple {
+    width: 35%;
   }
-  .right-dual-even {
-    width: 50%;
+  .right-triple, .middle-triple {
+    width: 32%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -62,7 +62,7 @@ classes: wide
   }
   /* Responsive layout - makes the columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 600px) {
-    .column-dual-even {
+    .column-triple {
       width: 100%;
       height: max-content;
     }
@@ -116,11 +116,12 @@ classes: wide
 
 ***
 
-<h1>Expertise</h1>
-
 <body>
 <div class="row">
-  <div class="column-dual-even left-dual-even">
+  <div class="column-triple left-triple">
+    <h1>Expertise</h1>
+  </div>
+  <div class="column-triple middle-triple">
     <p>Electromechanical Design and Development</p>
     <p>ISO 13485 Quality Management Systems</p>
     <p>Medical Device Directive (MDD)</p>
@@ -129,7 +130,7 @@ classes: wide
     <p>Consumer Devices</p>
     <p>Rapid Prototyping</p>
   </div>
-  <div class="column-dual-even right-dual-even">
+  <div class="column-triple right-triple">
     <p>IEC60601 for Medical Electrical Equipment</p>
     <p>CSWP Certified Solidworks Professional</p>
     <p>Corrosive Marine Environments</p>
@@ -149,28 +150,31 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 ***
 
-<h1>Career</h1>
-
 <body>
-  <div class="column-dual-even left-dual-even">
+  <div class="column-triple left-triple">
+    <h1>Career</h1>
+  </div>
+  <div class="column-triple middle-triple">
   	<div class="row">
    	  <h3>Medical Device Development</h3>
    	  <p>2018 - 2019</p>
     </div>
   </div>
-    <div class="column-dual-even right-dual-even">
+    <div class="column-triple right-triple">
       <div class="row">	
       <h3>Marine Optical Instruments</h3>
       <p>2019 - 2020</p>
     </div>
   </div>
-  <div class="column-dual-even left-dual-even">
+  <div class="column-triple left-triple">
+  </div>
+  <div class="column-triple middle-triple">
     <div class="row">
       <h3>Scanning Electron Microscopy</h3>
       <p>2020 - 2023</p>
     </div>
   </div>	
-    <div class="column-dual-even right-dual-even">
+    <div class="column-triple right-triple">
       <div class="row">
       <h3>Infectious Disease Diagnostics</h3>
       <p>2023 - Present</p>
