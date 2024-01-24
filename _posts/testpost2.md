@@ -7,4 +7,4 @@ related: true
 ---
 hi 2
 
-Are there related posts yet?
+Are there related posts yet? 2
