@@ -25,10 +25,10 @@ header:
         height: max-content; /* Should be removed. Only for demonstration */
     }
     .left-intro {
-        width: 35%;
+        width: 50%;
     }
     .right-intro {
-        width: 65%;
+        width: 50%;
     }
     /* Clear floats after the columns */
     .row:after {
@@ -70,9 +70,13 @@ header:
 
 ## The Solution
 Counterintuitively, the solution implemented was to reduce the nominal distance between the bottom of the Main Body and the Stirrer Arm. With a tweak to the position of the grub screw on the Shaft component, it was possible to add a level of adjustability to the design which allowed the assembly to absorb much larger tolerances.
+<img src="/assets/images/Stirrer_Section_View_(Labelled).png">
+
 ![Stirrer_Section_View_(Labelled)](../assets/images/Stirrer_Section_View_(Labelled).png)
 
 A production jig was also introduced to the assembly process to control this new adjustable design, guaranteeing repeatable results every time.
+<img src="/assets/images/Stirrer_Jig_(both_positions).png">
+
 ![Stirrer_Jig_(both_positions)](../assets/images/Stirrer_Jig_(both_positions).png)
 
 ## The Result
