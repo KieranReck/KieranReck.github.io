@@ -102,11 +102,11 @@ classes: wide
 <body>
 <div class="row">
   <div class="column-intro left-intro">
-    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:400px;width:100%"></p>
+    <p><img src="/assets/images/Bio(4x5vertical).png" style="max-width:350px;width:100%"></p>
     <p></p>
   </div>
   <div class="column-intro right-intro">
-    <h2>Hi, I'm Kieran</h2>
+    <h1>Hi, I'm Kieran</h1>
     <p></p>
     <p>A Mechanical Engineer with a passion for problem-solving. Whether it’s continuous improvement, optimising designs for manufacture, or developing electromechanical devices, my career has led me to an array of work with products from concept through to manufacture and beyond, revealing a love for mechatronics development. I am always interested to hear about exciting opportunities, so reach out.</p>
   </div>
@@ -119,7 +119,7 @@ classes: wide
 <body>
 <div class="row">
   <div class="column-triple left-triple">
-    <h2>Expertise</h2>
+    <h1>Expertise</h1>
   </div>
   <div class="column-triple middle-triple">
     <p>Electromechanical Design and Development</p>
@@ -152,7 +152,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 <body>
   <div class="column-triple left-triple">
-    <h2>Career</h2>
+    <h1>Career</h1>
   </div>
   <div class="column-triple middle-triple">
   	<div class="row">
@@ -182,7 +182,9 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
   </div>
 </body>
 
+
 ***
+ 
 
 <h1>Highlight Projects</h1>
 <body>
@@ -232,5 +234,4 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 # More Projects 
 Click on a project to learn more... 
-(ARCHIVE LAYOUT UPDATED WITH NO ERRORS)
 
