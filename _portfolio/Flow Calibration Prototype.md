@@ -77,8 +77,7 @@ header:
             <p><img src="/assets/images/flow-calibration-initial-prototype.jpg" align="right"></p>
         </div>
     </div>
-<body>
-    <div class="row" style="background-color:$primary-color">
+    <div class="row" style="background-color:red">
         <div class="column-triple left-triple">
             <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left"></p>            
         </div>
@@ -91,7 +90,7 @@ header:
     </div>
     <div class="row">
         <div class="column-intro left-intro">
-            <p><img src="/assets/images/flow-calibration-early-3dprints.jpg" align="left">/p>              
+            <p><img src="/assets/images/flow-calibration-early-3dprints.jpg" align="left"></p>              
         </div>
         <div class="column-intro right-intro">
             <h2>Rapid Prototyping</h2>
@@ -110,7 +109,7 @@ header:
     </div>
     <div class="row">
         <div class="column-intro left-intro">
-            <p><img src="/assets/images/flow-calibration-custom-electronics.jpg" align="left">/p>              
+            <p><img src="/assets/images/flow-calibration-custom-electronics.jpg" align="left"></p>              
         </div>
         <div class="column-intro right-intro">
             <h2>Custom Electronics</h2>
