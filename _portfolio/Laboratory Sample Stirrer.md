@@ -4,8 +4,8 @@ excerpt: "Continuous Improvement project investigating a high reject rate on a m
 layout: single
 classes: wide
 header:
-    image: /assets/images/test.png
-    teaser: /assets/images/test.png
+    image: /assets/images/Stirer_Exploded_View_(Labelled).png
+    teaser: /assets/images/Stirer_Exploded_View_(Labelled).png
 ---
 
 <html>
@@ -70,22 +70,18 @@ header:
 
 ## The Solution
 Counterintuitively, the solution implemented was to reduce the nominal distance between the bottom of the Main Body and the Stirrer Arm. With a tweak to the position of the grub screw on the Shaft component, it was possible to add a level of adjustability to the design which allowed the assembly to absorb much larger tolerances.
+<body>
 <img src="/assets/images/Stirrer_Section_View_(Labelled).png">
-
-![Stirrer_Section_View_(Labelled)](../assets/images/Stirrer_Section_View_(Labelled).png)
+</body>
 
 A production jig was also introduced to the assembly process to control this new adjustable design, guaranteeing repeatable results every time.
+<body>
 <img src="/assets/images/Stirrer_Jig_(both_positions).png">
-
-![Stirrer_Jig_(both_positions)](../assets/images/Stirrer_Jig_(both_positions).png)
+</body>
 
 ## The Result
 These solutions reduced the rejection rate to almost zero, adding adjustability that allowed for tighter control and greater consistency of the assemblies produced.
 
 The few remaining ‘rejections’ were also now detectable earlier in the assembly phase, before significant time investment, and it was now possible to swap the Motor in a problematic assembly for an alternative with a more favourable tolerance stack-up in a small scale ‘selective assembly’ process, reducing scrap to almost nil.
-
-
-
-# Laboratory Sample Stirrer
 
 
