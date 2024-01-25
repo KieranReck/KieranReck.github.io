@@ -1,6 +1,7 @@
 ---
 title: "Laboratory Sample Stirrer"
 excerpt: "Continuous Improvement project investigating a high reject rate on a motorised assembly."
+permalink: /laboratory-sample-strirrer/
 layout: single
 classes: wide
 header:
