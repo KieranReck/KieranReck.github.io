@@ -66,7 +66,7 @@ header:
     </style>
 </head>
 <body>
-<h1>Project Brief</h1>
+<h2>Project Brief</h2>
 <p>Lead the production of a concept gas flow meter to be sold as an accessory for calibrating critical care medical devices in the field. Combine an off-the-shelf mass flow sensor with an LED display and a pressure sensor to provide full functionality whist outperforming competitor devices whilst retailing at a vastly cheaper price point. </p>
     <div class="row">
         <div class="column-intro left-intro">
@@ -116,7 +116,6 @@ header:
             <p>Working with the electrical engineering team the components were condensed onto a custom PCB and work began on the code and user interface. The device used a single button to cycle between Flow Rate, Temperature, Humidity, Pressure, and a summary screen displaying all four measurements, as well as the ability to begin data logging to a microSD card.</p>
         </div>
     </div>
-    <hr style="width:100%">
     <h2>The Final Prototype</h2>
     <div class="row">
         <p><img src="/assets/images/flow-calibration-final1.jpg" align="center"></p>
