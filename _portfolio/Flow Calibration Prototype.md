@@ -1,7 +1,6 @@
 ---
-title: "Flow Calibration Device"
+title: "Flow Calibration Prototype"
 excerpt: "production of a concept gas flow meter to be sold as an accessory for calibrating critical care medical devices in the field."
-permalink: /flow-calibration-device/
 layout: single
 classes: wide
 header:
