@@ -65,23 +65,19 @@ header:
             <p><img src="/assets/images/Stirer_Exploded_View_(Labelled).png"></p>
         </div>
     </div>
+    <div class="row">
+        <h2>The Solution</h2>
+        <p>Counterintuitively, the solution implemented was to reduce the nominal distance between the bottom of the Main Body and the Stirrer Arm. With a tweak to the position of the grub screw on the Shaft component, it was possible to add a level of adjustability to the design which allowed the assembly to absorb much larger tolerances.</p>
+        <p><img src="/assets/images/Stirrer_Section_View_(Labelled).png"  align="center"></p>
+        <p>A production jig was also introduced to the assembly process to control this new adjustable design, guaranteeing repeatable results every time.</p>
+        <p><img src="/assets/images/Stirrer_Jig_(both_positions).png" align="center"></p>
+    </div>
+    <div class="row">
+        <h2>The Result</h2>
+        <p>These solutions reduced the rejection rate to almost zero, adding adjustability that allowed for tighter control and greater consistency of the assemblies produced.</p>
+        <p>The few remaining ‘rejections’ were also now detectable earlier in the assembly phase, before significant time investment, and it was now possible to swap the Motor in a problematic assembly for an alternative with a more favourable tolerance stack-up in a small scale ‘selective assembly’ process, reducing scrap to almost nil.</p>
+    </div>
 </body>
 </html>
-
-## The Solution
-Counterintuitively, the solution implemented was to reduce the nominal distance between the bottom of the Main Body and the Stirrer Arm. With a tweak to the position of the grub screw on the Shaft component, it was possible to add a level of adjustability to the design which allowed the assembly to absorb much larger tolerances.
-<body>
-<img src="/assets/images/Stirrer_Section_View_(Labelled).png"  align="middle">
-</body>
-
-A production jig was also introduced to the assembly process to control this new adjustable design, guaranteeing repeatable results every time.
-<body>
-<img src="/assets/images/Stirrer_Jig_(both_positions).png" align="middle">
-</body>
-
-## The Result
-These solutions reduced the rejection rate to almost zero, adding adjustability that allowed for tighter control and greater consistency of the assemblies produced.
-
-The few remaining ‘rejections’ were also now detectable earlier in the assembly phase, before significant time investment, and it was now possible to swap the Motor in a problematic assembly for an alternative with a more favourable tolerance stack-up in a small scale ‘selective assembly’ process, reducing scrap to almost nil.
 
 

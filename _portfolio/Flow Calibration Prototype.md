@@ -124,7 +124,6 @@ header:
     <div class="row">
         <p><img src="/assets/images/flow-calibration-final2.jpg" align="center"></p>
     </div>
-    </div>
 </body>
 </html>
 
