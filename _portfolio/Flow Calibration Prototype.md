@@ -52,7 +52,7 @@ header:
     }
     /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
     @media screen and (max-width: 600px) {
-        .column-intro, .column-triple {
+        .column-intro {
         width: 100%;
         height: max-content;
         }
