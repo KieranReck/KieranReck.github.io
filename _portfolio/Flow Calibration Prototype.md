@@ -41,7 +41,7 @@ header:
         padding: 10px;
         height: max-content; /* Should be removed. Only for demonstration */
     }
-    .left-triple, .right-triple {
+    .left-triple, .right-triple, .middle-triple {
         width: 33%;
     }
     /* Clear floats after the columns */
