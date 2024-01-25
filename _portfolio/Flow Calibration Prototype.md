@@ -42,7 +42,7 @@ header:
         height: max-content; /* Should be removed. Only for demonstration */
     }
     .left-triple, .right-triple {
-        width: 33.3%;
+        width: 33%;
     }
     /* Clear floats after the columns */
     .row:after {
@@ -79,13 +79,13 @@ header:
     </div>
     <div class="row" style="background-color:red">
         <div class="column-triple left-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left" style="max-width:100%"></p>            
+            <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left" style="max-width:33%"></p>            
         </div>
         <div class="column-triple middle-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch2.jpg" align="center" style="max-width:100%"></p>
+            <p><img src="/assets/images/flow-calibration-concept-sketch2.jpg" align="center" style="max-width:33%"></p>
         </div>
         <div class="column-triple right-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch3.jpg" align="right" style="max-width:100%"></p>
+            <p><img src="/assets/images/flow-calibration-concept-sketch3.jpg" align="right" style="max-width:33%"></p>
         </div>
     </div>
     <div class="row">
@@ -117,6 +117,14 @@ header:
         </div>
     </div>
     <hr style="width:100%">
+    <h2>The Final Prototype</h2>
+    <div class="row">
+        <p><img src="/assets/images/flow-calibration-final1.jpg" align="center"></p>
+    </div>
+    <div class="row">
+        <p><img src="/assets/images/flow-calibration-final2.jpg" align="center"></p>
+    </div>
+    </div>
 </body>
 </html>
 
