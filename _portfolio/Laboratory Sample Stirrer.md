@@ -31,6 +31,7 @@ header:
         width: 50%;
     }
     .column-center {
+        float: left;
         padding: 10px;
         height: max-content; /* Should be removed. Only for demonstration */
         width: 100%;
