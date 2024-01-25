@@ -85,6 +85,7 @@ header:
         </div>
     </div> 
     <div class="row">    
+        <h1></h1>
         <h2>The Result</h2>
         <p>These solutions reduced the rejection rate to almost zero, adding adjustability that allowed for tighter control and greater consistency of the assemblies produced.</p>
         <p>The few remaining ‘rejections’ were also now detectable earlier in the assembly phase, before significant time investment, and it was now possible to swap the Motor in a problematic assembly for an alternative with a more favourable tolerance stack-up in a small scale ‘selective assembly’ process, reducing scrap to almost nil.</p>
