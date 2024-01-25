@@ -229,7 +229,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Medical Airflow Calibrator</h2>
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="/_portfolio/Flow Calibration Prototype">Learn More..</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="/Flow Calibration Prototype">Learn More2..</a>
   </div>
 </div>
 </body>
