@@ -89,8 +89,8 @@ header:
         </div>
     </div>   
     <div class="row">
-        <div class="column-center">
-            <p><img src="/assets/images/Stirrer_Jig_(both_positions).png" align="center"></p>
+        <div class="column-center" text-align="center";>
+            <p><img src="/assets/images/Stirrer_Jig_(both_positions).png"></p>
         </div>
     </div>   
     <div class="row">
