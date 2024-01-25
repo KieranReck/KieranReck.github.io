@@ -80,7 +80,7 @@ header:
     </div>
     <div class="row">
         <div class="column-center">
-            <p><img src="/assets/images/Stirrer_Section_View_(Labelled).png" align="right"></p>
+            <p><img src="/assets/images/Stirrer_Section_View_(Labelled).png" align="center"></p>
         </div>
     </div>    
     <div class="row">
@@ -90,7 +90,7 @@ header:
     </div>   
     <div class="row">
         <div class="column-center">
-            <p><img src="/assets/images/Stirrer_Jig_(both_positions).png" align="right"></p>
+            <p><img src="/assets/images/Stirrer_Jig_(both_positions).png" align="center"></p>
         </div>
     </div>   
     <div class="row">
