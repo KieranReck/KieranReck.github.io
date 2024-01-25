@@ -79,13 +79,13 @@ header:
     </div>
     <div class="row" style="background-color:red">
         <div class="column-triple left-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left"></p>            
+            <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left" style="max-width:100%"></p>            
         </div>
         <div class="column-triple middle-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch2.jpg" align="center"></p>
+            <p><img src="/assets/images/flow-calibration-concept-sketch2.jpg" align="center" style="max-width:100%"></p>
         </div>
         <div class="column-triple right-triple">
-            <p><img src="/assets/images/flow-calibration-concept-sketch3.jpg" align="right"></p>
+            <p><img src="/assets/images/flow-calibration-concept-sketch3.jpg" align="right" style="max-width:100%"></p>
         </div>
     </div>
     <div class="row">
