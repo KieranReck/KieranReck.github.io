@@ -77,7 +77,7 @@ header:
             <p><img src="/assets/images/flow-calibration-initial-prototype.jpg" align="right"></p>
         </div>
     </div>
-    <div class="row" style="background-color:red">
+    <div class="row">
         <div class="column-triple left-triple">
             <p><img src="/assets/images/flow-calibration-concept-sketch1.jpg" align="left" style="max-width:100%"></p>            
         </div>
