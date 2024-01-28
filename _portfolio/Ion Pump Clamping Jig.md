@@ -47,10 +47,10 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
         height: max-content; /* Should be removed. Only for demonstration */
     }
     .left-photos {
-        width: 35%;
+        width: 38%;
     }
     .right-photos {
-        width: 65%;
+        width: 62%;
     }
     /* Clear floats after the columns */
     .row:after {
@@ -70,10 +70,10 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 <body>
     <div class="row">
         <div class="column-photos left-photos">
-            <p><img src="/assets/images/IonPumpClampingJig_highlight.png"></p>           
+            <p><img src="/assets/images/IonPumpClampingJig_highlight.png" align="center"></p>           
         </div>
         <div class="column-photos right-photos">
-            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.png"></p>
+            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.png" align="center"></p>
         </div>
     </div>
     <div class="row">
