@@ -12,7 +12,7 @@ Electron Microscopes need to be sealed tight against the outside environment, an
 
 A ConFlat seal is a thin piece of metal that you deform between your two components by literally crushing it. This ensures that the seal plugs up any gaps but requires a fairly high crushing/clamping force to do so. Usually, this is fine, other than the spanner making your hands a little sore, but there is one component in the SEM that feels like it is designed to ruin your day, the Ion Pump.
 
-![Ion-Pump-Nut-Problem](../assets/images/Ion-Pump-Nut-Problem.jpg){: .align-center}
+![Ion-Pump-Nut-Problem](/assets/images/Ion-Pump-Nut-Problem.jpg){: .align-center width="600px"}
 
 On this specific Ion Pump, when you try to use your spanner the connector gets in the way. You have to use a thinner spanner, but that means you are compromising on the strength of the tool. This is causing them to break regularly, and with the Ion Pump assembly weighing 40kg you have a recipe for things getting dropped and technicians getting hurt. 
 
@@ -45,10 +45,10 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
         height: max-content; /* Should be removed. Only for demonstration */
     }
     .left-photos {
-        width: 30%;
+        width: 35%;
     }
     .right-photos {
-        width: 70%;
+        width: 65%;
     }
     /* Clear floats after the columns */
     .row:after {
@@ -60,7 +60,7 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
     @media screen and (max-width: 600px) {
         .column-photos {
         width: 100%;
-        height: max-content;
+        height: min-content;
         }
     }
     </style>
@@ -85,11 +85,11 @@ The resounding feedback from the engineers who use it was "please can we have mo
 
 ## Lessons Learned
 
-    - The limits of how close holes can be to a sheet metal bend (learn more in this blog post)
+- The limits of how close holes can be to a sheet metal bend (learn more in this blog post)
 
-    - Designing and working with welded sheet metal assemblies.
+- Designing and working with welded sheet metal assemblies.
 
-    - https://geomiq.com/ offer an extensive and free sheet metal design guide.
+- https://geomiq.com/ offer an extensive and free sheet metal design guide.
 
-    - Sometimes the goalposts move (learn more in this blog post), ensure that you involve the technicians who will work directly with the jig, even if they aren't the main authority.
+- Sometimes the goalposts move (learn more in this blog post), ensure that you involve the technicians who will work directly with the jig, even if they aren't the main authority.
 
