@@ -8,7 +8,7 @@ header:
     teaser: /assets/images/Hamilton H900 Brething Circuits.png
 ---
 
-### A 2021 Analysis of the issues faced by Active Humidification
+A 2021 Analysis of the issues faced by Active Humidification{.notice--info}
 
 The human respiratory system is a humid place, with your breath carrying water vapour wherever it goes. Numerous processes rely on this moisture for their daily activities and it helps to clear mucous and other nasties which might find their way into your system. 
 
@@ -47,7 +47,7 @@ There are three trains of thought when it comes to solving this problem:
 
 The concept for **Option 3** is to use a slightly porous material for the tubes, one whose structure is fine enough to retain air molecules and bacteria but porous enough to allow any condensation to simply pass through and out of the system. It works incredibly well and requires no intervention from nurses/doctors to ‘drain’ the condensation from the system and the tubes can be manufactured and sold at a significantly lower cost than Options 1 or 2. The market offering for Option 3 is limited, with F&P holding the patent since it was first conceived, however, the patent ends sometime in 2021 so expect to see some new players in the field. 
 
-![evaqua 2 explaination.png](/assets/images/evaqua 2 explaination.png){: .align-center width="800px"}
+![evaqua 2 explaination.png](/assets/images/evaqua 2 explaination.png){: .align-center width="600px"}
 
 This article is intended to provide a background into the issues faced by the manufacturers of Active Humidification Devices and is written based on knowledge I gained whilst working in the field. During my time as an Electromechanical Development Engineer I explored many of the solutions mentioned above, producing various prototypes which fall under both Options 2 and 3, attempting to utilise cheaper methods of manufacturing to create tubes with similar performance to F&Ps Evaqua system. 
 
