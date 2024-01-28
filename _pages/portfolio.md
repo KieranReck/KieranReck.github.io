@@ -17,7 +17,7 @@ gallery2:
     image_path: /assets/images/PTC_Creo Transparent.png
   - url: /assets/images/ANSYS_logo.png
     image_path: /assets/images/ANSYS_logo.png
-gallary3:
+gallery3:
   - url: /assets/images/Fusion-360-Logo rectangular transparent.png
     image_path: /assets/images/Fusion-360-Logo rectangular transparent.png
   - url: /assets/images/star-logo transparent.png
@@ -58,7 +58,32 @@ gallary3:
   }
   /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 600px) {
-    .column-intro {
+    .column-Competencies {
+      width: 100%;
+      height: max-content;
+    }
+  }
+  /* now create a two column layout for the copmpetancies*/
+    .column-Competencies {
+    float: left;
+    padding: 10px;
+    height: max-content; /* Should be removed. Only for demonstration */
+  }
+  .left-Competencies {
+    width: 24%;
+  }
+  .right-Competencies {
+    width: 76%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column-Competencies {
       width: 100%;
       height: max-content;
     }
@@ -167,6 +192,21 @@ gallary3:
 </body>
 
 ***
+
+<body>
+<div class="row">
+  <div class="column-competencies left-competencies">
+    <h1>Competencies</h1>
+  </div>
+  <div class="column-highlight right-highlight">
+    <p>{% include gallery id="gallery1" %}</p>
+    <p>{% include gallery id="gallery2" %}</p>
+    <p>{% include gallery id="gallery3" %}</p>
+  </div>
+</div>
+</body>
+
+
 # Competencies
 {% include gallery id="gallery1" %}
 
