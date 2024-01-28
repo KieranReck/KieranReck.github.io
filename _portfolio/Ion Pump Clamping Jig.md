@@ -70,10 +70,10 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 <body>
     <div class="row">
         <div class="column-photos left-photos">
-            <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" width="300px" height="400px"></p>           
+            <p><img src="/assets/images/IonPumpClampingJig_highlight.png"></p>           
         </div>
         <div class="column-photos right-photos">
-            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.jpeg" width="533px" height="400px"></p>
+            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.png"></p>
         </div>
     </div>
     <div class="row">
