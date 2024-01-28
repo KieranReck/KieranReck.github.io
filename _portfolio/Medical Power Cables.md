@@ -8,7 +8,7 @@ header:
     teaser: /assets/images/Power Cable(sanitised).png
 ---
 
-Actively Humidified Breathing Circuits require electricity to heat the tubes and get the patient air to 37degrees (as explained in my previous article ‘The Current State of Active Humidification’). This comes from the Humidifier itself, allowing it to adjust the temperature utilising its software control. The objective of this project is it design the cable which connects the tubes to the Humidifier.
+Actively Humidified Breathing Circuits require electricity to heat the tubes and get the patient air to 37degrees (as explained in my previous article [‘The Current State of Active Humidification’](https://kieranreck.github.io/portfolio/The%20Current%20State%20of%20Humidified%20Medical%20Air%20Delivery/)). This comes from the Humidifier itself, allowing it to adjust the temperature utilising its software control. The objective of this project is it design the cable which connects the tubes to the Humidifier.
 
 This cable will need three connectors, one into the Humidifier, one into the Inspiratory Tube, and one into the Expiratory Tube. Setup must be quick and simple so the connectors should be easily distinguishable from one another.
 

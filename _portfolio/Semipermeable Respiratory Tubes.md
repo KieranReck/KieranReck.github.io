@@ -15,7 +15,7 @@ The condensation issue is most pronounced with intensive care treatment of prema
 
 ![Humidifier-Setup-Diagram(Incubator)](/assets/images/Humidifier-Setup-Diagram(Incubator).png){: .align-center width="800px"}
 
-In my previous article [‘The Current State of Humidified Air Delivery’](https://kieranreck.github.io/portfolio/The Current State of Humidified Air Delivery) I went in-depth into why this issue is so pervasive across the industry and introduced how manufacturers have sought improvement in the past. In this article, I want to explore the contributions that I made to help solve this problem.
+In my previous article [‘The Current State of Humidified Air Delivery’]("https://kieranreck.github.io/portfolio/The Current State of Humidified Air Delivery") I went in-depth into why this issue is so pervasive across the industry and introduced how manufacturers have sought improvement in the past. In this article, I want to explore the contributions that I made to help solve this problem.
 
 During my time working in the medical field I led the development of a variety of projects, producing designs and prototypes for double-walled tubes, foamy tubes, insulated tubes, with few making it through to trial manufacturing runs, but one design showed real promise, semipermeable tubes.
 
