@@ -12,7 +12,7 @@ Electron Microscopes need to be sealed tight against the outside environment, an
 
 A ConFlat seal is a thin piece of metal that you deform between your two components by literally crushing it. This ensures that the seal plugs up any gaps but requires a fairly high crushing/clamping force to do so. Usually, this is fine, other than the spanner making your hands a little sore, but there is one component in the SEM that feels like it is designed to ruin your day, the Ion Pump.
 
-![Ion-Pump-Nut-Problem](/assets/images/Ion-Pump-Nut-Problem.jpg){: .align-center width="600px"}
+![Ion-Pump-Nut-Problem](/assets/images/Ion-Pump-Nut-Problem.jpg){: .align-center width="800px"}
 
 On this specific Ion Pump, when you try to use your spanner the connector gets in the way. You have to use a thinner spanner, but that means you are compromising on the strength of the tool. This is causing them to break regularly, and with the Ion Pump assembly weighing 40kg you have a recipe for things getting dropped and technicians getting hurt. 
 
@@ -20,13 +20,13 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 
 ## Design Specification
 
-    - Strong enough to withstand the forces
+- Strong enough to withstand the forces
 
-    - Leave the desk unobstructed when not in use
+- Leave the desk unobstructed when not in use
 
-    - Semi-permanent fixtures
+- Semi-permanent fixtures
 
-    - Quick to set up and use
+- Quick to set up and use
 
 <html>
 <head>
@@ -42,7 +42,7 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
     .column-photos {
         float: left;
         padding: 10px;
-        height: max-content; /* Should be removed. Only for demonstration */
+        height: 400px; /* Should be removed. Only for demonstration */
     }
     .left-photos {
         width: 35%;
@@ -75,6 +75,7 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
         </div>
     </div>
 </body>
+</html>
 
 ## Final Product
 There is a fine line between strong and excessive and this welded 3mm sheet steel assembly walks it wonderfully. It is sturdy, but when put to the test it has an ever so slight flex indicating that it is just the right thickness to withstand a lifetime of use. Whilst the Clamp overall doesn't make it easier to tighten the ConFlat seal, it does make the whole process less fiddly and less dangerous for the engineer. The Ion Pumps fit snugly and are easy to locate, which is important when they weigh so much, and the toggle clamps offer a quick securing mechanism.
