@@ -168,11 +168,11 @@ gallary3:
 
 ***
 # Competencies
-{% include gallery1 %}
+{% include gallery id="gallery1" %}
 
-{% include gallery2 %}
+{% include gallery id="gallery2" %}
 
-{% include gallery3 %}
+{% include gallery id="gallery3" %}
 
 ***
 
