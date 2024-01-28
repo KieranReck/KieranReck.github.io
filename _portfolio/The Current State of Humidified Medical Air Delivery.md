@@ -8,14 +8,8 @@ header:
     teaser: /assets/images/Hamilton H900 Brething Circuits.png
 ---
 
-**Info** A 2021 Analysis of the issues faced by Active Humidification
+An analysis of the issues faced by Active Humidification in 2021
 {: .notice--info}
-
-hi
-
-
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
 
 The human respiratory system is a humid place, with your breath carrying water vapour wherever it goes. Numerous processes rely on this moisture for their daily activities and it helps to clear mucous and other nasties which might find their way into your system. 
 
