@@ -198,7 +198,7 @@ gallery3:
   <div class="column-Competencies left-Competencies">
     <h1>Competencies</h1>
   </div>
-  <div class="column-Competencies right-Competencies" height="100px">
+  <div class="column-Competencies right-Competencies" height="10px">
     <p>{% include gallery id="gallery1" %}</p>
     <p>{% include gallery id="gallery2" %}</p>
     <p>{% include gallery id="gallery3" %}</p>
