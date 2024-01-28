@@ -33,6 +33,8 @@ When I handed the project over, the designs for the new connectors and additiona
 
 ## Update
 They have been released!
+
 [Intersurgical Dri-Therm Dual Heated Wire Breathing System](https://www.intersurgical.com/products/critical-care/dri-therm-dual-heated-wire-breathing-system)
-![Intersurgical-Dri-Therm.jpg](/assets/images/Intersurgical-Dri-Therm.jpg){: .align-left width="300px"}
+
+![Intersurgical-Dri-Therm.jpg](/assets/images/Intersurgical-Dri-Therm.jpg){: .align-left width="600px"}
 

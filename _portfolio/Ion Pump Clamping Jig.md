@@ -42,7 +42,7 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
     .column-photos {
         float: left;
         padding: 10px;
-        height: 400px; /* Should be removed. Only for demonstration */
+        height: max-content; /* Should be removed. Only for demonstration */
     }
     .left-photos {
         width: 35%;
@@ -60,7 +60,7 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
     @media screen and (max-width: 600px) {
         .column-photos {
         width: 100%;
-        height: min-content;
+        height: max-content;
         }
     }
     </style>
@@ -68,12 +68,15 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 <body>
     <div class="row">
         <div class="column-photos left-photos">
-            <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg"></p>           
+            <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" height="400px"></p>           
         </div>
         <div class="column-photos right-photos">
-            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.jpeg"></p>
+            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.jpeg" height="400px"></p>
         </div>
     </div>
+    <div class="row">
+    </div>
+    <br>
 </body>
 </html>
 
