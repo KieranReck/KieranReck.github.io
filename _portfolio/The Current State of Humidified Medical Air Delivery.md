@@ -8,7 +8,8 @@ header:
     teaser: /assets/images/Hamilton H900 Brething Circuits.png
 ---
 
-**Info** A 2021 Analysis of the issues faced by Active Humidification{: .notice--info}
+**Info** A 2021 Analysis of the issues faced by Active Humidification
+{: .notice--info}
 
 hi
 
