@@ -199,7 +199,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk..</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://kieranreck.github.io/portfolio/Semipermeable%20Respiratory%20Tubes/">Learn More..</a>
   </div>
 </div>
 </body>
@@ -211,7 +211,7 @@ https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
-    <a target="_blank" class="btn btn--danger btn--x-large" href="https://www.kieranreck.co.uk">kieranreck.co.uk..</a>
+    <a target="_blank" class="btn btn--danger btn--x-large" href="https://kieranreck.github.io/portfolio/Ion%20Pump%20Clamping%20Jig/">Learn More..</a>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
