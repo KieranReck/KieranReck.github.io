@@ -28,6 +28,8 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 
 - Quick to set up and use
 
+## Final Product
+
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -68,10 +70,10 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 <body>
     <div class="row">
         <div class="column-photos left-photos">
-            <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" height="400px"></p>           
+            <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" width="300px" height="400px"></p>           
         </div>
         <div class="column-photos right-photos">
-            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.jpeg" height="400px"></p>
+            <p><img src="/assets/images/Ion-Pump-Jig-Disassembled.jpeg" width="533px" height="400px"></p>
         </div>
     </div>
     <div class="row">
@@ -80,7 +82,6 @@ To intervene, I undertook a Sustain project to create a Clamp to hold the Ion Pu
 </body>
 </html>
 
-## Final Product
 There is a fine line between strong and excessive and this welded 3mm sheet steel assembly walks it wonderfully. It is sturdy, but when put to the test it has an ever so slight flex indicating that it is just the right thickness to withstand a lifetime of use. Whilst the Clamp overall doesn't make it easier to tighten the ConFlat seal, it does make the whole process less fiddly and less dangerous for the engineer. The Ion Pumps fit snugly and are easy to locate, which is important when they weigh so much, and the toggle clamps offer a quick securing mechanism.
 
 There are permanent brackets fixed to the framework underneath each workbench, offering a secure method of affixing the Clamps whilst leaving the tabletop clear when not in use. Each bracket has a rounded hem to protect the engineers from injury, a feature that they were very happy with. The Clamp is secured to the Brackets using machine screws.

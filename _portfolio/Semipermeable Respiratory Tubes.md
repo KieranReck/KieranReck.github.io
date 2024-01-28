@@ -27,7 +27,7 @@ I wasn’t the first person to think of using permeable breathing tubes for this
 
 As for performance, this picture shows two industry-standard active humidification breathing circuits, both of which have been running for 24hours hooked up to a Humidifier. The only difference, on one circuit I have substituted the 30cm extension with prototype semipermeable tubes. Just the extension. The difference is astounding! The standard circuit is covered in condensation whilst the semipermeable circuit is bone dry. Just 60cm of this new semipermeable material in the worst offending area was enough to stop condensation build-up entirely.
 
-![SemipermeableTubes_highlight](/assets/images/SemipermeableTubes_highlight.jpg){: .align-center width="800px"}
+![SemipermeableTubes_highlight](/assets/images/SemipermeableTubes_highlight.jpg){: .align-center width="600px"}
 
 When I handed the project over, the designs for the new connectors and additional features were close to being finalised and work had begun to optimise the manufacturing process for high volume production. With the F&P patent now expired I am eagerly awaiting the release in Q4 2021 / Q1 2022. I cannot wait to see the final result and how the hard work of many individuals has paid off.
 
