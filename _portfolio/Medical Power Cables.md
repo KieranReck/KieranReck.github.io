@@ -45,7 +45,7 @@ The three connectors are easy to tell apart thanks to their differing shapes (Ov
 
 The shell of the PCB connector displays the Applied Part symbol, moulded into the plastic itself to remove the need for the application of additional labels which would peel over time leaving a residue which would collect germs.
 
-![Power Cable(sanitised).png](/assets/images/Power Cable(sanitised).png){: .align-center}
+![Power Cable(sanitised).png](/assets/images/Power Cable(sanitised).png){: .align-center width="800px"}
 
 ## Lessons Learned
 
