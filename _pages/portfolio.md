@@ -5,6 +5,26 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+gallery1:
+  - url: /assets/images/solidworks-vector-logo-400x172.png
+    image_path: /assets/images/solidworks-vector-logo-400x172.png
+  - url: /assets/images/SAP Logo.png
+    image_path: /assets/images/SAP Logo.png
+  - url: /assets/images/Seimans NX.png
+    image_path: /assets/images/Seimans NX.png
+gallery2:
+  - url: /assets/images/PTC_Creo Transparent.png
+    image_path: /assets/images/PTC_Creo Transparent.png
+  - url: /assets/images/ANSYS_logo.png
+    image_path: /assets/images/ANSYS_logo.png
+gallary3:
+  - url: /assets/images/Fusion-360-Logo rectangular transparent.png
+    image_path: /assets/images/Fusion-360-Logo rectangular transparent.png
+  - url: /assets/images/star-logo transparent.png
+    image_path: /assets/images/star-logo transparent.png
+  - url: /assets/images/Siemens-solidedge_450x200 Transparent.png
+    image_path: /assets/images/Siemens-solidedge_450x200 Transparent.png
+---
 ---
 
 
@@ -148,9 +168,11 @@ classes: wide
 
 ***
 # Competencies
+{% include gallery1 %}
 
---insert gallary here--
-https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
+{% include gallery2 %}
+
+{% include gallery3 %}
 
 ***
 
