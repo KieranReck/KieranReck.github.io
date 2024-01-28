@@ -36,7 +36,6 @@ header:
         height: max-content; /* Should be removed. Only for demonstration */
         width: 100%;
     }
-
     /* Clear floats after the columns */
     .row:after {
         content: "";
