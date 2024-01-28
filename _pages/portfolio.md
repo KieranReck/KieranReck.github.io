@@ -58,7 +58,7 @@ gallery3:
   }
   /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 600px) {
-    .column-Competencies {
+    .column-intro {
       width: 100%;
       height: max-content;
     }
@@ -195,10 +195,23 @@ gallery3:
 
 <body>
 <div class="row">
-  <div class="column-competencies left-competencies">
+  <div class="column-Competencies left-Competencies">
     <h1>Competencies</h1>
   </div>
-  <div class="column-competencies right-competencies">
+  <div class="column-Competencies right-Competencies">
+    <p>{% include gallery id="gallery1" %}</p>
+    <p>{% include gallery id="gallery2" %}</p>
+    <p>{% include gallery id="gallery3" %}</p>
+  </div>
+</div>
+</body>
+
+<body>
+<div class="row">
+  <div class="column-Competencies left-Competencies">
+    <h1>Competencies</h1>
+  </div>
+  <div class="column-Competencies right-Competencies">
     <p>{% include gallery id="gallery1" %}</p>
     <p>{% include gallery id="gallery2" %}</p>
     <p>{% include gallery id="gallery3" %}</p>
