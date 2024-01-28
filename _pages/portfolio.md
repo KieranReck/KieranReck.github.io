@@ -198,34 +198,13 @@ gallery3:
   <div class="column-Competencies left-Competencies">
     <h1>Competencies</h1>
   </div>
-  <div class="column-Competencies right-Competencies">
+  <div class="column-Competencies right-Competencies" height="100px">
     <p>{% include gallery id="gallery1" %}</p>
     <p>{% include gallery id="gallery2" %}</p>
     <p>{% include gallery id="gallery3" %}</p>
   </div>
 </div>
 </body>
-
-<body>
-<div class="row">
-  <div class="column-Competencies left-Competencies">
-    <h1>Competencies</h1>
-  </div>
-  <div class="column-Competencies right-Competencies">
-    <p>{% include gallery id="gallery1" %}</p>
-    <p>{% include gallery id="gallery2" %}</p>
-    <p>{% include gallery id="gallery3" %}</p>
-  </div>
-</div>
-</body>
-
-
-# Competencies
-{% include gallery id="gallery1" %}
-
-{% include gallery id="gallery2" %}
-
-{% include gallery id="gallery3" %}
 
 ***
 
