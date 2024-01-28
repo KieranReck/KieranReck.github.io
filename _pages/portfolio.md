@@ -199,15 +199,9 @@ gallery3:
     <h1>Competencies</h1>
   </div>
   <div class="column-Competencies right-Competencies">
-    <div class="row" height="10px">
-     <p>{% include gallery id="gallery1" %}</p>
-    </div>
-    <div class="row" height="10px">
-      <p>{% include gallery id="gallery2" %}</p>
-    </div>
-    <div class="row" height="10px">
-      <p>{% include gallery id="gallery3" %}</p>
-    </div>
+    <p>{% include gallery id="gallery1" %}</p>
+    <p>{% include gallery id="gallery2" %}</p>
+    <p>{% include gallery id="gallery3" %}</p>
   </div>
 </div>
 </body>
