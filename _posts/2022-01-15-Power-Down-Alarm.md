@@ -1,16 +1,8 @@
 ---
 title: "Power Down Alarm"
 layout: posts
-published: true
 header:
     image: /assets/images/power-down-alarm-beeep.jpg
-    teaser: /assets/images/power-down-alarm-beeep.jpg
- categories:
-  - Hobby
- tags:
-  - all
-  - electronics
-#  - 
 ---
 
 A friend of mine always forgets to put the handbrake on, it’s amazing that her car is ever where she left it. So for Christmas, I gifted her this doohicky.
