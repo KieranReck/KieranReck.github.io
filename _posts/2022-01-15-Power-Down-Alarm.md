@@ -1,7 +1,7 @@
 ---
 title: "Power Down Alarm"
 layout: single
-published: false
+published: true
 header:
     image: /assets/images/power-down-alarm-beeep.jpg
     teaser: /assets/images/power-down-alarm-beeep.jpg
