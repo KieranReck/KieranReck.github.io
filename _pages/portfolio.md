@@ -3,7 +3,7 @@ title: Portfolio
 layout: collection
 permalink: /portfolio/
 collection: portfolio
-entries_layout: list
+entries_layout: grid
 classes: wide
 gallery1:
   - url: /assets/images/solidworks-vector-logo-400x172.png
