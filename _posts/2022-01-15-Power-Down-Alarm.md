@@ -1,6 +1,6 @@
 ---
 title: "Power Down Alarm"
-layout: single
+layout: posts
 published: true
 header:
     image: /assets/images/power-down-alarm-beeep.jpg
