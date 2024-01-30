@@ -18,7 +18,7 @@ excerpt: |
 intro:
     - title: Explore 
 
-feature_row1:
+feature_row_explore:
   - image_path: assets/images/homepage-professional-header.jpg
     alt: "Professional Work"
     title: "Professional Work"
@@ -42,30 +42,57 @@ feature_row1:
 
 latest:
     - title: Latest Blog Posts
+
+extract latest files    
+    {%- assign recent_post1 = site.posts[0] -%}
+    {%- assign recent_post2 = site.posts[1] -%}
+    {%- assign recent_post3 = site.posts[2] -%}
+
+    # extract the file location of the header image in the recent Posts
+    {% assign split_header1 = recent_post1.header | split: '"' %}
+    {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
+    {% assign split_header2 = recent_post2.header | split: '"' %}
+    {% assign header_location2 = split_header2[3] | replace: ' ', '' %}
+    {% assign split_header3 = recent_post3.header | split: '"' %}
+    {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
+    
+    
+feature_row_latest:
+    - image_path: "{{ header_location1 }}""
+      alt: "{{ recent_post1.title }}"
+      title: "{{ recent_post1.title }}"
+      excerpt: "{{ recent_post1.excerpt }}"
+      url: "{{ recent_post1.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
+    - image_path: "{{ header_location2 }}""
+      alt: "{{ recent_post2.title }}"
+      title: "{{ recent_post2.title }}"
+      excerpt: "{{ recent_post2.excerpt }}"
+      url: "{{ recent_post2.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
+    - image_path: "{{ header_location3 }}""
+      alt: "{{ recent_post3.title }}"
+      title: "{{ recent_post3.title }}"
+      excerpt: "{{ recent_post3.excerpt }}"
+      url: "{{ recent_post3.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row_explore" %}
 
 {% include feature_row id="latest" type="center" %}
 
-{%- assign latest_post = site.posts[0] -%}
+{% include feature_row id="feature_row_latest" %}
 
-{% if latest_post.header.teaser %}
-  {% capture teaser %}{{ latest_post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
 
-{% assign split_header = latest_post.header | split: '"' %}
-{% assign header_location = split_header[3] | replace: ' ', '' %}
+# Display latest posts
+#<a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a>
+#Published: <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
+#<img src="{{header_location1}}" style="width:300px">
+#<p>{{ recent_post1.excerpt }}</p>
+#<p>{{recent_post1.header}}</p>
 
-headerlocation
-
-{{ header_location }}
-
-<a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-Published: <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
-<img src="{{header_location}}" style="width:300px">
-<p>{{ latest_post.excerpt}}</p>
-<p>{{latest_post.header}}</p>
