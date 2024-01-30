@@ -58,5 +58,7 @@ Published: <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
-{{teaser}}
-{{latest_post.header }}
+
+<p>{{teaser}}</p>
+<p>{{latest_post.header }}</p>
+<p>{{latest_post.header.url}}</p>
