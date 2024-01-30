@@ -64,4 +64,4 @@ latest:
 Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
 <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 <div>{{ latest_post.content |truncatehtml | truncatewords: 60 }}</div>
-<img src="{{ latest_post.header }}">
+<p><img src="{{ latest_post.header}}" style="max-width:350px;width:100%"></p>
