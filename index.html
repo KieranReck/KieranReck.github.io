@@ -58,31 +58,7 @@ latest:
 {% endif %}
 
 {% assign split_header = latest_post.header | split: '"' %}
-{% assign header_location = split_header[4] | replace: '.html', '' %}
-
-0
-
-{{split_header[0]}}
-
-1
-
-{{split_header[1]}}
-
-2
-
-{{split_header[2]}}
-
-3
-
-{{split_header[3]}}
-
-4
-
-{{split_header[4]}}
-
-5
-
-{{split_header[5]}}
+{% assign header_location = split_header[3] | replace: ' ', '' %}
 
 headerlocation
 
