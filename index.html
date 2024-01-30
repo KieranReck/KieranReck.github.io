@@ -1,4 +1,47 @@
 ---
-layout: collection
-author_profile: false
+title: Kieran Reck
+browser_title: Kieran Reck \| Mechanical Engineer \| Maker  \| Founder
+layout: splash
+classes:
+  - landing
+header:
+  overlay_image: /assets/images/homepage-header.jpg
+  overlay_filter1: "0.0"
+  overlay_filter2: "0.7"
+  overlay_perc: "42" 
+excerpt: | 
+    <span class="nowrap">Mechanical Engineer</span>
+    <span class="nowrap">Founder</span> 
+    <span class="nowrap">Maker</span> 
+
+intro:
+  - title: Welcomed to my place!
+  - excerpt: | 
+      Where I try to explain a little bit about myself and talk about the things I'm interested.   
+      I hope you enjoy!  
+
+feature_row:
+  - image_path: assets/images/homepage-professional-header.jpg
+    alt: "Professional Work"
+    title: "Professional Work"
+    excerpt: "Professional Engineer with a background in mechatronic device development whose portfolio ranges from the development of critical care respiratory devices, to multi-week field service tasks aboard Navy Frigates."
+    url: "/portfolio"
+    btn_label: "Learn More.."
+    btn_class: "btn--primary"
+  - image_path: /assets/images/homepage-hobby-header.jpg
+    alt: "Hobby Projects"
+    title: "Hobby Projects"
+    excerpt: "Passionate about all things engineering I surround myself with technical challenges, problem-solving, and interesting topics from all areas to gain a greater appreciation and expand my skillset."
+    url: "/hobby"
+    btn_label: "Learn More.."
+    btn_class: "btn--primary"
+  - image_path: /assets/images/pages/splash-featurerow-blog.jpg
+    title: "Blog"
+    excerpt: "A blog of posts related to whatever I am working on, giving me a place to share my project and what I learnt along the way"
+    url: "/blog"
+    btn_label: "Learn More.."
+    btn_class: "btn--primary"
 ---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}

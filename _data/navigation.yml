@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Professional"
     url: /portfolio/
   - title: "Hobby"
-    url: 
+    url: /hobby/
   - title: "Blog"
-    url:
+    url: /blog/
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/kieran-reck-780842229"
   - title: "Contact"
