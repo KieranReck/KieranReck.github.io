@@ -62,4 +62,6 @@ latest:
 {%- assign latest_post = site.posts[0] -%}
 
 Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-{ latest_post.header }
+<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
+<div>{{ latest_post.content |truncatehtml | truncatewords: 60 }}</div>
+<img src="{{ latest_post.header }}">
