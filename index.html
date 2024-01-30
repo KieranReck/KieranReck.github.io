@@ -43,18 +43,18 @@ feature_row_explore:
 latest:
     - title: Latest Blog Posts
 
-# extract_latest_files    
-#    {%- assign recent_post1 = site.posts[0] -%}
-#    {%- assign recent_post2 = site.posts[1] -%}
-#    {%- assign recent_post3 = site.posts[2] -%}
-#
-#    # extract the file location of the header image in the recent Posts
-#    {% assign split_header1 = recent_post1.header | split: '"' %}
-#    {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
-#    {% assign split_header2 = recent_post2.header | split: '"' %}
-#    {% assign header_location2 = split_header2[3] | replace: ' ', '' %}
-#    {% assign split_header3 = recent_post3.header | split: '"' %}
-#    {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
+extract_latest_files    
+    {%- assign recent_post1 = site.posts[0] -%}
+    {%- assign recent_post2 = site.posts[1] -%}
+    {%- assign recent_post3 = site.posts[2] -%}
+
+    # extract the file location of the header image in the recent Posts
+    {% assign split_header1 = recent_post1.header | split: '"' %}
+    {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
+    {% assign split_header2 = recent_post2.header | split: '"' %}
+    {% assign header_location2 = split_header2[3] | replace: ' ', '' %}
+    {% assign split_header3 = recent_post3.header | split: '"' %}
+    {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
     
 
 # feature_row_latest:
