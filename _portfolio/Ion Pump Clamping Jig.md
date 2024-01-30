@@ -4,8 +4,8 @@ excerpt: "Breathing Circuits for Active Humidification are plagued by one major 
 layout: single
 classes: wide
 header:
-    image: /assets/images/IonPumpClampingJig_highlight.jpg
-    teaser: /assets/images/IonPumpClampingJig_highlight.jpg
+    image: /assets/images/IonPumpClampingJig_header.jpg
+    teaser: /assets/images/IonPumpClampingJig_header.jpg
 ---
 
 Electron Microscopes need to be sealed tight against the outside environment, and I mean really tight. When looking at things in nano-scale, dirt, particulates, and even air molecules will ruin your image. To avoid this issue, SEMs (Scanning Electron Microscopes) work under a state of "Ultra High Vacuum", a vacuum so empty that you could theoretically travel 40km before bumping into your first air molecule! The negative pressure this creates is huge (-1450psi / -100bar) and all of that pressure is trying to suck the outside air into the SEM. Standard seals won't cut it, so instead, you use something called a ConFlat. 

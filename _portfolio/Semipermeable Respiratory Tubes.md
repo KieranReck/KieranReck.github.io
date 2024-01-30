@@ -4,8 +4,8 @@ excerpt: "Breathing Circuits for Active Humidification are plagued by one major 
 layout: single
 classes: wide
 header:
-    image: /assets/images/SemipermeableTubes_highlight.jpg
-    teaser: /assets/images/SemipermeableTubes_highlight.jpg
+    image: /assets/images/SemipermeableTubes_header.jpg
+    teaser: /assets/images/SemipermeableTubes_header.jpg
 ---
 
 Breathing Circuits for Active Humidification are plagued by one major issue, condensation. As the patient’s warm humid air supply travels down the breathing tubes towards their lungs it condensates on the tube’s cold outer walls, this water collects and if left unattended eventually blocks the patient’s air supply entirely.

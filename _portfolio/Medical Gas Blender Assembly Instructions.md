@@ -4,8 +4,8 @@ excerpt: "Manufacturing electro-mechanical devices can get complex, but when the
 layout: single
 classes: wide
 header:
-    image: /assets/images/Medical-Gas-Blender.png
-    teaser: /assets/images/Medical-Gas-Blender.png
+    image: /assets/images/Medical-Gas-Blender-header.png
+    teaser: /assets/images/Medical-Gas-Blender-header.png
 gallery:
   - url: /assets/images/GB Instructions - Test Gas Connection.png
     image_path: /assets/images/GB Instructions - Test Gas Connection.png

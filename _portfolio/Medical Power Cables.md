@@ -4,8 +4,8 @@ excerpt: "Actively Humidified Breathing Circuits require electricity to heat the
 layout: single
 classes: wide
 header:
-    image: /assets/images/Power Cable(sanitised).png
-    teaser: /assets/images/Power Cable(sanitised).png
+    image: /assets/images/Power Cable - header.png
+    teaser: /assets/images/Power Cable - header.png
 ---
 
 Actively Humidified Breathing Circuits require electricity to heat the tubes and get the patient air to 37degrees (as explained in my previous article [‘The Current State of Active Humidification’](https://kieranreck.github.io/portfolio/The%20Current%20State%20of%20Humidified%20Medical%20Air%20Delivery/)). This comes from the Humidifier itself, allowing it to adjust the temperature utilising its software control. The objective of this project is it design the cable which connects the tubes to the Humidifier.

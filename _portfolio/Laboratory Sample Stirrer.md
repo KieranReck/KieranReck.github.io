@@ -4,8 +4,8 @@ excerpt: "Continuous Improvement project investigating a high reject rate on a m
 layout: single
 classes: wide
 header:
-    image: /assets/images/Stirer_Exploded_View_(Labelled).png
-    teaser: /assets/images/Stirer_Exploded_View_(Labelled).png
+    image: /assets/images/Stirer_Exploded_View_header.png
+    teaser: /assets/images/Stirer_Exploded_View_header.png
 ---
 
 <html>

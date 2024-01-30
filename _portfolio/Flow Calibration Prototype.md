@@ -4,8 +4,8 @@ excerpt: "production of a concept gas flow meter to be sold as an accessory for 
 layout: single
 classes: wide
 header:
-    image: /assets/images/flow-calibration-final1.jpg
-    teaser: /assets/images/flow-calibration-final1.jpg
+    image: /assets/images/flow-calibration-header.jpg
+    teaser: /assets/images/flow-calibration-header.jpg
 ---
 
 <html>
