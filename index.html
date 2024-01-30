@@ -41,8 +41,9 @@ feature_row_explore:
     btn_class: "btn--primary"
 
 latest:
-    - title: Latest Blog Postsz
+    - title: Latest Blog Posts
 ---
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_explore" %}
@@ -59,8 +60,6 @@ latest:
 {% assign header_location2 = split_header2[3] | replace: ' ', '' %}
 {% assign split_header3 = recent_post3.header | split: '"' %}
 {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
-
-{% include feature_row id="feature_row_latest" %}
 
 <html>
 <head>
@@ -98,22 +97,22 @@ latest:
 <body>
     <div class="row">
         <div class="column-triple left-triple">
-            <h3><a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a></h3>
+            <img src="{{header_location1}}">
+            <h2><a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a></h2>
             <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
-            <img src="{{header_location1}}" style="width:300px">
-            <p>{{ recent_post1.excerpt }}</p>
+            <p>{{ recent_post1.excerpt }}...</p>
         </div>
         <div class="column-triple middle-triple">
-            <h3>a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a></h3>
+            <img src="{{header_location2}}">
+            <h2><a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a></h2>
             <p class="blogdate">{{ recent_post2.date | date: "%d %B %Y" }}</p>
-            <img src="{{header_location2}}" style="width:300px">
-            <p>{{ recent_post2.excerpt }}</p>
+            <p>{{ recent_post2.excerpt }}...</p>
         </div>
         <div class="column-triple right-triple">
-            <h3><a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a></h3>
+            <img src="{{header_location3}}">
+            <h2><a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a></h2>
             <p class="blogdate">{{ recent_post3.date | date: "%d %B %Y" }}</p>
-            <img src="{{header_location3}}" style="width:300px">
-            <p>{{ recent_post3.excerpt }}</p>
+            <p>{{ recent_post3.excerpt }}...</p>
         </div>
     </div>
 </body>
