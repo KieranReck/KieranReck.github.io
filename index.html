@@ -58,15 +58,8 @@ latest:
 {% endfor %}
 
 ***
-***
-***
-
 
 {%- assign latest_post = site.posts[0] -%}
-Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title } { latest_post.header}}</a>
 
-{%- assign latest_post1 = site.posts[1] -%}
-Latest post: <a href="{{ latest_post1.url }}">{{ latest_post1.title } { latest_post1.header}}</a>
-
-{%- assign latest_post2 = site.posts[2] -%}
-Latest post: <a href="{{ latest_post2.url }}">{{ latest_post2.title } { latest_post2.header}}</a>
+Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+{{ latest_post.header }}
