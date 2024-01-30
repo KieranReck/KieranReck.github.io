@@ -62,18 +62,58 @@ latest:
 
 {% include feature_row id="feature_row_latest" %}
 
-Display latest posts
-<a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a>
-Published: <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
-<img src="{{header_location1}}" style="width:300px">
-<p>{{ recent_post1.excerpt }}</p>
-
-<a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a>
-Published: <p class="blogdate">{{ recent_post2.date | date: "%d %B %Y" }}</p>
-<img src="{{header_location2}}" style="width:300px">
-<p>{{ recent_post2.excerpt }}</p>
-
-<a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a>
-Published: <p class="blogdate">{{ recent_post3.date | date: "%d %B %Y" }}</p>
-<img src="{{header_location3}}" style="width:300px">
-<p>{{ recent_post3.excerpt }}</p>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create your layouts. Here, I start by defining an uneven 2column style (-intro)
+/* followed by defining an even 2column style (-dual-even) which is used across multiple secions*/
+/* ....*/
+/* Now Create a three column layout */
+  .column-triple {
+    float: left;
+    padding: 10px;
+  }
+  .left-triple, .middle-triple, .right-triple {
+    width: 33%;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - makes the columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column-triple {
+      width: 100%;
+      height: max-content;
+    }
+  }
+</style>
+</head>
+<body>
+    <div class="row">
+        <div class="column-triple left-triple">
+            <h3><a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a></h3>
+            <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
+            <img src="{{header_location1}}" style="width:300px">
+            <p>{{ recent_post1.excerpt }}</p>
+        </div>
+        <div class="column-triple middle-triple">
+            <h3>a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a></h3>
+            <p class="blogdate">{{ recent_post2.date | date: "%d %B %Y" }}</p>
+            <img src="{{header_location2}}" style="width:300px">
+            <p>{{ recent_post2.excerpt }}</p>
+        </div>
+        <div class="column-triple right-triple">
+            <h3><a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a></h3>
+            <p class="blogdate">{{ recent_post3.date | date: "%d %B %Y" }}</p>
+            <img src="{{header_location3}}" style="width:300px">
+            <p>{{ recent_post3.excerpt }}</p>
+        </div>
+    </div>
+</body>
