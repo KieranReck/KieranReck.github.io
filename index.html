@@ -16,10 +16,7 @@ excerpt: |
     <span> <br> </span>
 
 intro:
-    - title: Welcomed to my place!
-    - excerpt: | 
-        Where I try to explain a little bit about myself and talk about the things I'm interested.   
-        I hope you enjoy!    
+    - title: Welcomed to my place!  
 
 feature_row:
   - image_path: assets/images/homepage-professional-header.jpg
@@ -42,7 +39,15 @@ feature_row:
     url: "/blog"
     btn_label: "Learn More.."
     btn_class: "btn--primary"
+
+latest:
+    - title: Latest Blog Posts
+    - excerpt: | 
+        Where I try to explain a little bit about myself and talk about the things I'm interested.   
+        I hope you enjoy!    
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="latest" type="center" %}
