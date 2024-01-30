@@ -76,8 +76,11 @@ latest:
     float: left;
     padding: 10px;
   }
-  .left-triple, .middle-triple, .right-triple {
+  .left-triple, .right-triple {
     width: 33%;
+  }
+  .middle-triple {
+    width: 34%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -98,21 +101,24 @@ latest:
     <div class="row">
         <div class="column-triple left-triple">
             <img src="{{header_location1}}">
-            <h2><a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a></h2>
+            <h2>{{ recent_post1.title }}</h2>
             <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post1.excerpt }}...</p>
+            <p>{{ recent_post1.excerpt }}</p>
+            <a target="_blank" class="btn btn--danger btn--x-large" href="{{ recent_post1.url }}">Read More..</a>
         </div>
         <div class="column-triple middle-triple">
             <img src="{{header_location2}}">
-            <h2><a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a></h2>
+            <h2>{{ recent_post2.title }}</h2>
             <p class="blogdate">{{ recent_post2.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post2.excerpt }}...</p>
+            <p>{{ recent_post2.excerpt }}</p>
+            <a target="_blank" class="btn btn--danger btn--x-large" href="{{ recent_post2.url }}">Read More..</a>
         </div>
         <div class="column-triple right-triple">
             <img src="{{header_location3}}">
-            <h2><a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a></h2>
+            <h2>{{ recent_post3.title }}</h2>
             <p class="blogdate">{{ recent_post3.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post3.excerpt }}...</p>
+            <p>{{ recent_post3.excerpt }}</p>
+            <a target="_blank" class="btn btn--danger btn--x-large" href="{{ recent_post3.url }}">Read More..</a>
         </div>
     </div>
 </body>
