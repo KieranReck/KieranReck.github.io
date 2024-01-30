@@ -57,4 +57,5 @@ latest:
 Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
 <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 <p>{{ latest_post.excerpt}}</p>
+{{ 'laetst post header image' | latest_post.header }}
 <p><img src="{{ latest_post.header}}"></p>
