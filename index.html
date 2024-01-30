@@ -86,13 +86,17 @@ latest:
 
 {% include feature_row id="latest" type="center" %}
 
-#{% include feature_row id="feature_row_latest" %}
+{% include feature_row id="feature_row_latest" %}
+
+{%- assign recent_post1 = site.posts[0] -%}
+{% assign split_header1 = recent_post1.header | split: '"' %}
+{% assign header_location1 = split_header1[3] | replace: ' ', '' %}
 
 
-# Display latest posts
-# <a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a>
-# Published: <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
-# <img src="{{header_location1}}" style="width:300px">
-# <p>{{ recent_post1.excerpt }}</p>
-# <p>{{recent_post1.header}}</p>
+Display latest posts
+<a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a>
+Published: <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
+<img src="{{header_location1}}" style="width:300px">
+<p>{{ recent_post1.excerpt }}</p>
+<p>{{recent_post1.header}}</p>
 
