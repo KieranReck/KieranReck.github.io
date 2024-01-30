@@ -55,14 +55,6 @@ latest:
 
 {%- assign latest_post = site.posts[0] -%}
 Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}{{ latest_post.read_time}}</p>
+<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 <p>{{ latest_post.excerpt}}</p>
-<p><img src="{{ latest_post.header}}" style="max-width:350px;width:100%"></p>
-
-
-
-
-Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}{{ latest_post.read_time}}</p>
-<div>{{ latest_post.content |truncatehtml | truncatewords: 60 }}</div>
-<p><img src="{{ latest_post.header}}" style="max-width:350px;width:100%"></p>
+<p><img src="{{ latest_post.header}}"></p>
