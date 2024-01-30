@@ -49,13 +49,8 @@ latest:
 
 {% include feature_row id="latest" type="center" %}
 
-
-
-***
-
 {%- assign latest_post = site.posts[0] -%}
-Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+<a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
 <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 <p>{{ latest_post.excerpt}}</p>
-{{ 'laetst post header image' | latest_post.header }}
-<p><img src="{{ latest_post.header}}"></p>
+{{latest_post.header }}
