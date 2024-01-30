@@ -91,6 +91,10 @@ latest:
 {%- assign recent_post1 = site.posts[0] -%}
 {% assign split_header1 = recent_post1.header | split: '"' %}
 {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
+{% assign split_header2 = recent_post2.header | split: '"' %}
+{% assign header_location2 = split_header2[3] | replace: ' ', '' %}
+{% assign split_header3 = recent_post3.header | split: '"' %}
+{% assign header_location3 = split_header3[3] | replace: ' ', '' %}
 
 
 Display latest posts
@@ -98,5 +102,13 @@ Display latest posts
 Published: <p class="blogdate">{{ recent_post1.date | date: "%d %B %Y" }}</p>
 <img src="{{header_location1}}" style="width:300px">
 <p>{{ recent_post1.excerpt }}</p>
-<p>{{recent_post1.header}}</p>
 
+<a href="{{ recent_post2.url }}">{{ recent_post2.title }}</a>
+Published: <p class="blogdate">{{ recent_post2.date | date: "%d %B %Y" }}</p>
+<img src="{{header_location2}}" style="width:300px">
+<p>{{ recent_post2.excerpt }}</p>
+
+<a href="{{ recent_post3.url }}">{{ recent_post3.title }}</a>
+Published: <p class="blogdate">{{ recent_post3.date | date: "%d %B %Y" }}</p>
+<img src="{{header_location3}}" style="width:300px">
+<p>{{ recent_post3.excerpt }}</p>
