@@ -57,6 +57,17 @@ latest:
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% assign split_header = latest_post.header | split: '"' %}
+{% assign header_location = split_header[4] | replace: '.html', '' %}
+
+{{split_header[0]}}
+{{split_header[1]}}
+{{split_header[2]}}
+{{split_header[3]}}
+{{split_header[4]}}
+{{split_header[5]}}
+{{ header_location }}
+
 <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
 Published: <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
 <p>{{ latest_post.excerpt}}</p>
