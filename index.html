@@ -50,15 +50,16 @@ latest:
 {% include feature_row id="latest" type="center" %}
 
 {%- assign latest_post = site.posts[0] -%}
-<a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-Published: <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
-<p>{{ latest_post.excerpt}}</p>
+
 {% if latest_post.header.teaser %}
   {% capture teaser %}{{ latest_post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
 
+<a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+Published: <p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
+<p>{{ latest_post.excerpt}}</p>
 <p>{{teaser}}</p>
 <p>{{latest_post.header }}</p>
 <p>{{latest_post.header.url}}</p>
