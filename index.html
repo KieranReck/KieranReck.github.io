@@ -43,48 +43,34 @@ feature_row_explore:
 latest:
     - title: Latest Blog Posts
 
-extract_latest_files:    
-    - {%- assign recent_post1 = site.posts[0] -%}
-    - {%- assign recent_post2 = site.posts[1] -%}
-    - {%- assign recent_post3 = site.posts[2] -%}
-    - {% assign split_header1 = recent_post1.header | split: '"' %}
-    - {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
-    - {% assign split_header2 = recent_post2.header | split: '"' %}
-    - {% assign header_location2 = split_header2[3] | replace: ' ', '' %}
-    - {% assign split_header3 = recent_post3.header | split: '"' %}
-    - {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
-    
-
-# feature_row_latest:
-#    - image_path: "{{ header_location1 }}""
-#      alt: "{{ recent_post1.title }}"
-#      title: "{{ recent_post1.title }}"
-#      excerpt: "{{ recent_post1.excerpt }}"
-#      url: "{{ recent_post1.url }}"
-#      btn_label: "Learn More.."
-#      btn_class: "btn--primary"
-#    - image_path: "{{ header_location2 }}""
-#      alt: "{{ recent_post2.title }}"
-#      title: "{{ recent_post2.title }}"
-#      excerpt: "{{ recent_post2.excerpt }}"
-#      url: "{{ recent_post2.url }}"
-#      btn_label: "Learn More.."
-#      btn_class: "btn--primary"
-#    - image_path: "{{ header_location3 }}""
-#      alt: "{{ recent_post3.title }}"
-#      title: "{{ recent_post3.title }}"
-#      excerpt: "{{ recent_post3.excerpt }}"
-#      url: "{{ recent_post3.url }}"
-#      btn_label: "Learn More.."
-#      btn_class: "btn--primary"
+ feature_row_latest:
+    - image_path: "{{ header_location1 }}""
+      alt: "{{ recent_post1.title }}"
+      title: "{{ recent_post1.title }}"
+      excerpt: "{{ recent_post1.excerpt }}"
+      url: "{{ recent_post1.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
+    - image_path: "{{ header_location2 }}""
+      alt: "{{ recent_post2.title }}"
+      title: "{{ recent_post2.title }}"
+      excerpt: "{{ recent_post2.excerpt }}"
+      url: "{{ recent_post2.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
+    - image_path: "{{ header_location3 }}""
+      alt: "{{ recent_post3.title }}"
+      title: "{{ recent_post3.title }}"
+      excerpt: "{{ recent_post3.excerpt }}"
+      url: "{{ recent_post3.url }}"
+      btn_label: "Learn More.."
+      btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_explore" %}
 
 {% include feature_row id="latest" type="center" %}
-
-{% include feature_row id="feature_row_latest" %}
 
 {%- assign recent_post1 = site.posts[0] -%}
 {%- assign recent_post2 = site.posts[1] -%}
@@ -97,6 +83,7 @@ extract_latest_files:
 {% assign split_header3 = recent_post3.header | split: '"' %}
 {% assign header_location3 = split_header3[3] | replace: ' ', '' %}
 
+{% include feature_row id="feature_row_latest" %}
 
 Display latest posts
 <a href="{{ recent_post1.url }}">{{ recent_post1.title }}</a>
