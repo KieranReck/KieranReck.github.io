@@ -49,19 +49,20 @@ latest:
 
 {% include feature_row id="latest" type="center" %}
 
-{% for post in site.posts limit:1 %}
-... Show the first post all big ...
-{% endfor %}
-<h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:2 %}
-... Show the next two posts ...
-{% endfor %}
+
 
 ***
 
 {%- assign latest_post = site.posts[0] -%}
+Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}{{ latest_post.read_time}}</p>
+<p>{{ latest_post.excerpt}}</p>
+<p><img src="{{ latest_post.header}}" style="max-width:350px;width:100%"></p>
+
+
+
 
 Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
-<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}</p>
+<p class="blogdate">{{ latest_post.date | date: "%d %B %Y" }}{{ latest_post.read_time}}</p>
 <div>{{ latest_post.content |truncatehtml | truncatewords: 60 }}</div>
 <p><img src="{{ latest_post.header}}" style="max-width:350px;width:100%"></p>
