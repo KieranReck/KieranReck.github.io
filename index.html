@@ -89,6 +89,9 @@ latest:
 {% include feature_row id="feature_row_latest" %}
 
 {%- assign recent_post1 = site.posts[0] -%}
+{%- assign recent_post2 = site.posts[1] -%}
+{%- assign recent_post3 = site.posts[2] -%}
+
 {% assign split_header1 = recent_post1.header | split: '"' %}
 {% assign header_location1 = split_header1[3] | replace: ' ', '' %}
 {% assign split_header2 = recent_post2.header | split: '"' %}
