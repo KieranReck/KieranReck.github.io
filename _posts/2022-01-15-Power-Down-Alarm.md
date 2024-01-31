@@ -3,6 +3,7 @@ title: "Power Down Alarm"
 layout: posts
 header:
     image: /assets/images/power-down-alarm-header.jpg
+    teaser: /assets/images/power-down-alarm-header.jpg
 ---
 
 A friend of mine always forgets to put the handbrake on, it’s amazing that her car is ever where she left it. So for Christmas, I gifted her this doohicky.

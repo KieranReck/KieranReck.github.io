@@ -1,5 +1,6 @@
 ---
 title: Portfolio
+browser_title: Portfolio \| Kieran Reck
 layout: collection
 permalink: /portfolio/
 collection: portfolio
