@@ -9,7 +9,7 @@ header:
 A friend of mine always forgets to put the handbrake on, it’s amazing that her car is ever where she left it. So for Christmas, I gifted her this doohicky.
 
 
-![power-down-alarm-main.jpg](/assets/images/power-down-alarm-header.jpg){: .align-center width="600px"}
+![power-down-alarm-main.jpg](/assets/images/power-down-alarm-main.jpg){: .align-center width="600px"}
 
 
 ![power-down-alarm-iso.jpg](/assets/images/power-down-alarm-iso.jpg){: .align-center width="600px"}
