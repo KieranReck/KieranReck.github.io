@@ -2,7 +2,7 @@
 title: "Flow Calibration Prototype"
 excerpt: "production of a concept gas flow meter to be sold as an accessory for calibrating critical care medical devices in the field."
 layout: single
-classes: wide
+classes: blogpost
 header:
     image: /assets/images/flow-calibration-header.jpg
     teaser: /assets/images/flow-calibration-header.jpg
