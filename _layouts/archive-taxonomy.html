@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 author_profile: false
 ---
 

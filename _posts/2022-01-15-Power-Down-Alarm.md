@@ -1,6 +1,8 @@
 ---
 title: "Power Down Alarm"
 layout: posts
+classes:
+    - blogpost
 header:
     image: /assets/images/power-down-alarm-header.jpg
     teaser: /assets/images/power-down-alarm-header.jpg
