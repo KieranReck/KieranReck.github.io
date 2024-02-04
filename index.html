@@ -45,7 +45,9 @@ latest:
     - title: Latest Blog Posts
 ---
 
-{% capture notice-2 %}
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row_explore" %}
 
 {% include feature_row id="latest" type="center" %}
 
@@ -77,11 +79,7 @@ latest:
     padding: 10px;
   }
   .left-triple, .middle-triple, .right-triple {
-    width: 28%;
-  }
-
-  .left-small, .right-small {
-    width: 8%;
+    width: 33%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -100,8 +98,6 @@ latest:
 </head>
 <body>
   <div class="row">
-      <div class="column-triple left-small">
-      </div>
       <div class="column-triple left-triple">
           <img src="{{header_location1}}">
           <h2>{{ recent_post1.title }}</h2>
@@ -123,14 +119,5 @@ latest:
           <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
           <a href="{{ recent_post3.url }}">Read More..</a>
       </div>
-      <div class="column-triple right-small">
-      </div>
   </div>
 </body>
-{% endcapture %}
-
-<div class="notice--success">{{ notice-2 | markdownify }}</div>
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row_explore" %}
