@@ -4,11 +4,6 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/prism-bending-light.jpg
-gallery1:
-  - url: /assets/images/angled-prism.jpg
-    image_path: /assets/images/angled-prism.jpg
-  - url: /assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg)
-    image_path: /assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg)
 ---
 How do you look around corners? Well, for an upcoming project, I'm hoping with this:
 ![angled-prism](../assets/images/angled-prism.jpg)
