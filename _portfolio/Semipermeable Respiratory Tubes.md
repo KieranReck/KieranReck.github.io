@@ -2,6 +2,7 @@
 title: "Semipermeable Respiratory Tubes"
 excerpt: "Breathing Circuit constructed from a semipermeable material which eliminate condensation buildup in Active Humidification Circuits..."
 tagline: "Portfolio Project"
+number: 2
 header:
     overlay_image: /assets/images/SemipermeableTubes_header.jpg
     overlay_filter: "0.3"

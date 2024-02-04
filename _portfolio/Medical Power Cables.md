@@ -2,6 +2,7 @@
 title: "Medical Power Cables"
 excerpt: "IEC60601 approved power cable for Actively Humidified Breathing Circuits, providing electricity to heating circuits used in humid patiant air supplies..."
 tagline: "Portfolio Project"
+number: 7
 header:
     overlay_image: /assets/images/Power Cable - header.png
     overlay_filter: "0.3"

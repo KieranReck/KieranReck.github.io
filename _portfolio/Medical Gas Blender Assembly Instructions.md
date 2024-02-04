@@ -2,6 +2,7 @@
 title: "Medical Gas Blender Assembly Instructions"
 excerpt: "Assembly instructions for an electro-mechanical class 2B medical device performing life-critical respiratory functions..."
 tagline: "Portfolio Project"
+number: 4
 header:
     overlay_image: /assets/images/Medical-Gas-Blender-header.png
     overlay_filter: "0.3"

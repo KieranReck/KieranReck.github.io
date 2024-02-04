@@ -2,6 +2,7 @@
 title: "Ion Pump Clamping Jig"
 excerpt: "Production jig for holding 40kg Ion Pumps during cleanroom assembly of Scanning Electron Microsope Vacuum Components..."
 tagline: "Portfolio Project"
+number: 3
 header:
     overlay_image: /assets/images/IonPumpClampingJig_header.jpg
     overlay_filter: "0.3"

@@ -320,3 +320,5 @@ collections:
     output: true
     permalink: /:collection/:path/
     entries_layout: list
+    sort_by: number
+    sort_order: forward
