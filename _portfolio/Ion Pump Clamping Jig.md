@@ -1,10 +1,10 @@
 ---
 title: "Ion Pump Clamping Jig"
-excerpt: "Breathing Circuits for Active Humidification are plagued by one major issue, condensation. As the patient’s warm humid air supply..."
-layout: single
-classes: wide
+excerpt: "Production jig for holding 40kg Ion Pumps during cleanroom assembly of Scanning Electron Microsope Vacuum Components..."
+tagline: "Portfolio Project"
 header:
-    image: /assets/images/IonPumpClampingJig_header.jpg
+    overlay_image: /assets/images/IonPumpClampingJig_header.jpg
+    overlay_filter: "0.3"
     teaser: /assets/images/IonPumpClampingJig_header.jpg
 ---
 
