@@ -79,11 +79,11 @@ latest:
     padding: 10px;
   }
   .left-triple, .middle-triple, .right-triple {
-    width: 30%;
+    width: 28%;
   }
 
   .left-small, .right-small {
-    width: 5%;
+    width: 8%;
   }
   /* Clear floats after the columns */
   .row:after {
@@ -101,7 +101,19 @@ latest:
 </style>
 </head>
 <body>
-  <div class="row" style="text-align:center"> <h2>Latest Blog Posts</h2> </div>
+  <div class="row">
+    <div class="column-triple left-small">
+    </div>
+    <div class="column-triple left-triple" style="background-color: rgba(63, 166, 63, 0.2)">
+    </div>
+    <div class="column-triple middle-triple" style="background-color: rgba(63, 166, 63, 0.2)">
+      <h2>Latest Blog Posts</h2>
+    </div>
+    <div class="column-triple right-triple" style="background-color: rgba(63, 166, 63, 0.2)">
+    </div>
+    <div class="column-triple right-small">
+    </div>
+  </div>
   <div class="row">
       <div class="column-triple left-small">
       </div>
@@ -110,7 +122,7 @@ latest:
           <h2>{{ recent_post1.title }}</h2>
           <p class="blogdate">Posted: {{ recent_post1.date | date: "%d %B %Y" }}</p>
           <p>{{ recent_post1.excerpt | truncate: 155 }}</p>
-          <a target="_blank" class="btn btn--small btn--primary" href="{{ recent_post1.url }}">Read More..</a>
+          <a target="_blank" href="{{ recent_post1.url }}">Read More..</a>
       </div>
       <div class="column-triple middle-triple" style="background-color: rgba(63, 166, 63, 0.2)">
           <img src="{{header_location2}}">
