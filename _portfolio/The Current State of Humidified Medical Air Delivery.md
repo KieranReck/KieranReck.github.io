@@ -1,10 +1,10 @@
 ---
 title: "The Current State of Humidified Medical Air Delivery"
-excerpt: "A 2021 Analysis of the issues faced by Active Humidification"
-layout: single
-classes: wide
+excerpt: "A 2021 Analysis of the issues faced by Active Humidification Circuits and the approaches taken by various industry leaders to address them..."
+tagline: "Portfolio Project"
 header:
-    image: /assets/images/Hamilton H900 Brething Circuits.png
+    overlay_image: /assets/images/Hamilton H900 Brething Circuits.png
+    overlay_filter: "0.3"
     teaser: /assets/images/Hamilton H900 Brething Circuits.png
 ---
 

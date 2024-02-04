@@ -1,10 +1,10 @@
 ---
 title: "Medical Power Cables"
-excerpt: "Actively Humidified Breathing Circuits require electricity to heat the tubes and get the patient air to 37degrees..."
-layout: single
-classes: wide
+excerpt: "IEC60601 approved power cable for Actively Humidified Breathing Circuits, providing electricity to heating circuits used in humid patiant air supplies..."
+tagline: "Portfolio Project"
 header:
-    image: /assets/images/Power Cable - header.png
+    overlay_image: /assets/images/Power Cable - header.png
+    overlay_filter: "0.3"
     teaser: /assets/images/Power Cable - header.png
 ---
 

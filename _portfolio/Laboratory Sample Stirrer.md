@@ -1,10 +1,10 @@
 ---
 title: "Laboratory Sample Stirrer"
-excerpt: "Continuous Improvement project investigating a high reject rate on a motorised assembly."
-layout: single
-classes: wide
+excerpt: "Continuous Improvement project investigating the high reject rate on a motorised assembly..."
+tagline: "Portfolio Project"
 header:
-    image: /assets/images/Stirer_Exploded_View_header.png
+    overlay_image: /assets/images/Stirer_Exploded_View_header.png
+    overlay_filter: "0.3"
     teaser: /assets/images/Stirer_Exploded_View_header.png
 ---
 

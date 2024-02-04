@@ -1,10 +1,10 @@
 ---
 title: "Medical Gas Blender Assembly Instructions"
-excerpt: "Manufacturing electro-mechanical devices can get complex, but when the device in question is a class 2B medical device performing..."
-layout: single
-classes: wide
+excerpt: "Assembly instructions for an electro-mechanical class 2B medical device performing life-critical respiratory functions..."
+tagline: "Portfolio Project"
 header:
-    image: /assets/images/Medical-Gas-Blender-header.png
+    overlay_image: /assets/images/Medical-Gas-Blender-header.png
+    overlay_filter: "0.3"
     teaser: /assets/images/Medical-Gas-Blender-header.png
 gallery:
   - url: /assets/images/GB Instructions - Test Gas Connection.png
