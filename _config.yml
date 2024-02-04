@@ -313,6 +313,8 @@ defaults:
       classes: wide
       author_profile: false
       share: false
+      sort_by: number
+      sort_order: forward
 
 # collections
 collections:
