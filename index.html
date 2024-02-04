@@ -83,6 +83,10 @@ latest:
   .left-triple, .middle-triple, .right-triple {
     width: 30%;
   }
+
+  .left-small, .right-small {
+    width: 5%;
+  }
   /* Clear floats after the columns */
   .row:after {
     content: "";
@@ -100,6 +104,8 @@ latest:
 </head>
 <body>
       <div class="row">
+          <div class="column-triple left-small">
+          </div>
           <div class="column-triple left-triple">
               <img src="{{header_location1}}">
               <h2>{{ recent_post1.title }}</h2>
@@ -120,6 +126,8 @@ latest:
               <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
               <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
               <a target="_blank" class="btn btn--primary" href="{{ recent_post3.url }}">Read More..</a>
+          </div>
+          <div class="column-triple right-small">
           </div>
       </div>
 </body>
