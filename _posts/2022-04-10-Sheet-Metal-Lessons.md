@@ -15,6 +15,7 @@ On the plus side, the 180degree hem on the lower edge has come out wonderfully!
 ![](../assets/images/sheet-metal-180-hem.jpg){: .align-center}
 ## Lessons Learned
 - For a slot or hole < 25mm in diameter the minimum distance from top surface to the Hole centre should be:
+
 Min. Distance = 2 · Sheet Thickness + Bend Radius 
 {: .notice--primary}
 - [https://geomiq.com/](https://geomiq.com/sheet-metal-design-guide/) offer an extensive and free sheet metal design guide.
