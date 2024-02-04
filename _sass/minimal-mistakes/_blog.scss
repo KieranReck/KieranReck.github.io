@@ -539,7 +539,7 @@ body {
     @include breakpoint($x-large) {
       width: calc(100% - #{$right-sidebar-width});
     }
-/
+
   a {
     color: inherit;
     text-decoration: none;
