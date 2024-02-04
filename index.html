@@ -117,7 +117,7 @@ latest:
           <h2>{{ recent_post3.title }}</h2>
           <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
           <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
-          <a href="{{ recent_post3.url }}">Read More..</a>
+          <p><a href="{{ recent_post3.url }}">Read More..</a></p>
       </div>
   </div>
 </body>
