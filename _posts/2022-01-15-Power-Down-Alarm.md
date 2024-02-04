@@ -3,6 +3,7 @@ title: "Power Down Alarm"
 layout: posts
 header:
     overlay_image: /assets/images/power-down-alarm-header.jpg
+    overlay_filter: "0.3"
     teaser: /assets/images/power-down-alarm-header.jpg
 ---
 
