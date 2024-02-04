@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Professional"
     url: /portfolio/
-  - title: "Hobby"
-    url: /hobby/
+  #- title: "Hobby"
+  #  url: /hobby/
   - title: "Blog"
     url: /blog/
   - title: "LinkedIn"
