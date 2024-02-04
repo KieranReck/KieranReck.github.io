@@ -45,10 +45,6 @@ latest:
     - title: Latest Blog Posts
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row_explore" %}
-
 {% capture notice-2 %}
 
 {% include feature_row id="latest" type="center" %}
@@ -134,3 +130,7 @@ latest:
 {% endcapture %}
 
 <div class="notice--success">{{ notice-2 | markdownify }}</div>
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row_explore" %}
