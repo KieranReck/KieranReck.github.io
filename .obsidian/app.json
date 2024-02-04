@@ -5,6 +5,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets/images",
   "showUnsupportedFiles": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "alwaysUpdateLinks": true
 }
