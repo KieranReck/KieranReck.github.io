@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 browser_title: Portfolio \| Kieran Reck
-layout: collection
+layout: collection_no_sidebar
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
