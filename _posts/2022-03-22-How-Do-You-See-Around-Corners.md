@@ -16,7 +16,7 @@ This is a Beam Deflection Prism typically used in laser beam applications, and i
 
 Just like the prisms you saw in physics class, the glass slows down light waves that travel through it and because one side is thicker than the other, light is bent towards that side. The difference, however, is that this prism is specifically designed to allow all wavelengths of visible light to travel through at the same speed. No dispersion, no rainbow, no Pink Floyd albums.
 
-![](assets/images/No%20Dispersion%20in%20this%20prism!.png){: .align-center width="400px"}
+![](/assets/images/No%20Dispersion%20in%20this%20prism!.png){: .align-center width="400px"}
 
 The results are trippy! Your eyes have a hard time believing what they are seeing, take a look for yourself:
 
