@@ -251,7 +251,7 @@ gallery3:
     <h2>Semipermeable Breathing Tubes</h2>
     <p></p>
     <p>Intensive Care breathing tubes for actively humidified circuits which get humidity to the patient without the risk of dangerous condensation buildup.</p>
-    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Semipermeable Respiratory Tubes.md">Learn More..</a>
+    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Semipermeable Respiratory Tubes/">Learn More..</a>
   </div>
 </div>
 </body>
@@ -263,7 +263,7 @@ gallery3:
     <h2>Ion Pump Production Jig</h2>
     <p></p>
     <p>A sturdy clamp to hold Ion Pumps in place, withstanding the rotational forces induced during ConFlat Vacuum Seal installation.</p>
-    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Ion Pump Clamping Jig.md">Learn More..</a>
+    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Ion Pump Clamping Jig/">Learn More..</a>
   </div>
   <div class="column-highlight right-highlight">
     <p><img src="/assets/images/IonPumpClampingJig_highlight.jpg" style="max-width:500px;width:100%"></p>
@@ -281,7 +281,7 @@ gallery3:
     <h2>Medical Airflow Calibrator</h2>
     <p></p>
     <p>Accessory device that allows customers to calibrate their Medical Gas Blenders in the field, extending service periods and saving hospitals money in the long run.</p>
-    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Flow Calibration Prototype.md">Learn More..</a>
+    <a target="_blank" class="btn btn--primary btn--large" href="/portfolio/Flow Calibration Prototype/">Learn More..</a>
   </div>
 </div>
 </body>
