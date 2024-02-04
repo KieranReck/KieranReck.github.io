@@ -49,8 +49,6 @@ latest:
 
 {% include feature_row id="feature_row_explore" %}
 
-{% capture notice-2 %}
-
 {% include feature_row id="latest" type="center" %}
 
 {%- assign recent_post1 = site.posts[0] -%}
@@ -132,6 +130,3 @@ latest:
       </div>
   </div>
 </body>
-{% endcapture %}
-
-<div class="notice--success">{{ notice-2 | markdownify }}</div>
