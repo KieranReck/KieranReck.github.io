@@ -296,7 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      entries_layout: list
+      entries_layout: grid
   # _pages
   - scope:
       path: ""
