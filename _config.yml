@@ -296,6 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      entries_layout: list
   # _pages
   - scope:
       path: ""
