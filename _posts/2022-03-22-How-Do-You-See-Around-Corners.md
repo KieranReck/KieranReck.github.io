@@ -6,11 +6,9 @@ header:
     teaser: /assets/images/prism-bending-light.jpg
 ---
 How do you look around corners? Well, for an upcoming project, I'm hoping with this:
-![angled-prism](../assets/images/angled-prism.jpg)
-{: .align-center width="400px"}
+![angled-prism](../assets/images/angled-prism.jpg){: .align-center width="400px"}
 
-![](/assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg)
-{: .align-center width="400px"}
+![](/assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg){: .align-center width="400px"}
 
 This is a Beam Deflection Prism typically used in laser beam applications, and it can bend light!
 
