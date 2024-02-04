@@ -3,12 +3,11 @@ title: "Power Down Alarm"
 layout: posts
 header:
     overlay_image: /assets/images/power-down-alarm-header.jpg
-    overlay_filter: "0.3"
+    overlay_filter: "0.4"
     teaser: /assets/images/power-down-alarm-header.jpg
 ---
 
 A friend of mine always forgets to put the handbrake on, it’s amazing that her car is ever where she left it. So for Christmas, I gifted her this doohicky.
-
 
 ![power-down-alarm-main.jpg](/assets/images/power-down-alarm-main.jpg){: .align-center width="600px"}
 
