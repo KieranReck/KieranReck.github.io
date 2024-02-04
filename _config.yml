@@ -313,8 +313,6 @@ defaults:
       classes: wide
       author_profile: false
       share: false
-      sort_by: number
-      sort_order: forward
 
 # collections
 collections:
@@ -322,5 +320,3 @@ collections:
     output: true
     permalink: /:collection/:path/
     entries_layout: list
-    sort_by: number
-    sort_order: forward
