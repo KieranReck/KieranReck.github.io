@@ -11,7 +11,7 @@ gallery1:
     image_path: /assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg)
 ---
 How do you look around corners? Well, for an upcoming project, I'm hoping with this:
-![angled-prism](/assets/images/angled-prism.jpg)
+![angled-prism](../assets/images/angled-prism.jpg)
 {: .align-center width="400px"}
 
 ![](/assets/images/Edmund%20Optics%20Beam%20Bending%20Diagram.jpg)
