@@ -5,7 +5,7 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
-  /*
+  
     @include breakpoint($large) {
       float: right;
       width: calc(100% - #{$right-sidebar-width-narrow});
@@ -16,7 +16,7 @@
       width: calc(100% - #{$right-sidebar-width});
       padding-right: $right-sidebar-width;
     }
-    */
+    
 }
 
 
@@ -136,10 +136,9 @@
 /*
    Grid view
    ========================================================================== */
-/*
   .archive {
     .grid__wrapper {
-      /*extend grid elements to the right 
+      /*extend grid elements to the right */
 
       @include breakpoint($large) {
         margin-right: -1 * $right-sidebar-width-narrow;
@@ -150,7 +149,6 @@
       }
     }
   }
-*/
 
 
 .grid__item {
