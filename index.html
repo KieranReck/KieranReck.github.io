@@ -96,27 +96,29 @@ latest:
 </style>
 </head>
 <body>
-    <div class="row">
-        <div class="column-triple left-triple">
-            <img src="{{header_location1}}">
-            <h2>{{ recent_post1.title }}</h2>
-            <p class="blogdate">Posted: {{ recent_post1.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post1.excerpt | truncate: 155 }}</p>
-            <a target="_blank" class="btn btn--primary" href="{{ recent_post1.url }}">Read More..</a>
-        </div>
-        <div class="column-triple middle-triple">
-            <img src="{{header_location2}}">
-            <h2>{{ recent_post2.title }}</h2>
-            <p class="blogdate">Posted: {{ recent_post2.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post2.excerpt | truncate: 155 }}</p>
-            <a target="_blank" class="btn btn--primary" href="{{ recent_post2.url }}">Read More..</a>
-        </div>
-        <div class="column-triple right-triple">
-            <img src="{{header_location3}}">
-            <h2>{{ recent_post3.title }}</h2>
-            <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
-            <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
-            <a target="_blank" class="btn btn--primary" href="{{ recent_post3.url }}">Read More..</a>
-        </div>
-    </div>
+  <div class="notice">
+      <div class="row">
+          <div class="column-triple left-triple">
+              <img src="{{header_location1}}">
+              <h2>{{ recent_post1.title }}</h2>
+              <p class="blogdate">Posted: {{ recent_post1.date | date: "%d %B %Y" }}</p>
+              <p>{{ recent_post1.excerpt | truncate: 155 }}</p>
+              <a target="_blank" class="btn btn--primary" href="{{ recent_post1.url }}">Read More..</a>
+          </div>
+          <div class="column-triple middle-triple">
+              <img src="{{header_location2}}">
+              <h2>{{ recent_post2.title }}</h2>
+              <p class="blogdate">Posted: {{ recent_post2.date | date: "%d %B %Y" }}</p>
+              <p>{{ recent_post2.excerpt | truncate: 155 }}</p>
+              <a target="_blank" class="btn btn--primary" href="{{ recent_post2.url }}">Read More..</a>
+          </div>
+          <div class="column-triple right-triple">
+              <img src="{{header_location3}}">
+              <h2>{{ recent_post3.title }}</h2>
+              <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
+              <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
+              <a target="_blank" class="btn btn--primary" href="{{ recent_post3.url }}">Read More..</a>
+          </div>
+      </div>
+  </div>
 </body>
