@@ -3,14 +3,10 @@ title: "Goalposts"
 layout: posts
 tagline: ""
 header:
-    teaser: /assets/images/goalposts-jig-doesnt-fit.jpg)
+    teaser: /assets/images/goalposts-jig-doesnt-fit.jpg
 categories:
-#  - Hobby
   - Professional
 tags:
-#  - Electronics
-#  - Modular Synth
-#  - Eurorack Module
   - Lessons Learned
   - Design for Manufacture
 ---
