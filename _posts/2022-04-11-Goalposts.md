@@ -4,6 +4,11 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/goalposts-jig-doesnt-fit.jpg
+categories:
+  - Professional
+tags:
+  - Lessons Learned
+  - Design for Manufacture
 ---
 Sometimes the goalposts move. Projects involve lots of people from different areas of the business each with their own priorities and ideas for how best to progress. Sometimes things change last minute and sometimes new information comes to light only after time and work have been invested.
 
