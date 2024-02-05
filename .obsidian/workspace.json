@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-04-10-Sheet-Metal-Lessons.md",
+                "file": "_posts/2022-04-11-Goalposts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-04-10-Sheet-Metal-Lessons.md",
+                "file": "_posts/2022-04-11-Goalposts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-04-10-Sheet-Metal-Lessons.md",
+                "file": "_posts/2022-04-11-Goalposts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-04-10-Sheet-Metal-Lessons.md"
+                "file": "_posts/2022-04-11-Goalposts.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2022-04-11-Goalposts.md",
+    "_posts/2022-04-10-Sheet-Metal-Lessons.md",
+    "assets/images/goalposts-jig-doesnt-fit.jpg",
+    "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "assets/images/sheet-metal-180-hem.jpg",
     "assets/images/PXL_20211118_153629003 - Copy.jpg",
     "assets/images/sheet-metal-main.jpg",
-    "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
-    "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "assets/images/prism-bending-light.jpg",
     "assets/images/No Dispersion in this prism!.png",
@@ -163,7 +166,6 @@
     "_pages/Image Tests.md",
     "_pages/Professional.md",
     "assets/images/Bio(4x5vertical).png",
-    "assets/images/KR_Logo.png",
     "_posts/{{.md",
     "_portfolio/foo-bar-website.md"
   ]
