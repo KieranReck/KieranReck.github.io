@@ -3,7 +3,7 @@ title: "enter title here..."
 layout: posts
 tagline: ""
 header:
-    teaser: /assets/images/< enter filename + extension here >
+    teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
 categories:
 #  - Hobby
 #  - Professional

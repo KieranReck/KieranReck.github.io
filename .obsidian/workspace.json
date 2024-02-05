@@ -148,9 +148,12 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "assets/images/goalposts-jig-doesnt-fit.jpg",
-    "_posts/2022-04-11-Goalposts.md",
     "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2022-04-11-Goalposts.md",
+    "assets/images/~oalposts-header.tmp",
+    "assets/images/goalposts-header.jpg",
+    "assets/images/goalposts-jig-doesnt-fit - Copy.jpg",
+    "assets/images/goalposts-jig-doesnt-fit.jpg",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "assets/images/sheet-metal-180-hem.jpg",
@@ -162,10 +165,8 @@
     "_pages/portfolio.md",
     "assets/images/Edmund Optics Beam Bending Diagram.jpg",
     "assets/images/angled-prism.jpg",
-    "assets/images/PXL_20220322_143606152.jpg",
     "_pages/Image Tests.md",
     "_pages/Professional.md",
-    "assets/images/Bio(4x5vertical).png",
     "_posts/{{.md",
     "_portfolio/foo-bar-website.md"
   ]
