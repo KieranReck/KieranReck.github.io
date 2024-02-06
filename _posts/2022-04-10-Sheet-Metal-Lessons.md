@@ -21,3 +21,5 @@ Min. Distance = 2 · Sheet Thickness + Bend Radius
 - [https://geomiq.com/](https://geomiq.com/sheet-metal-design-guide/) offer an extensive and free sheet metal design guide.
 - Trust your instincts and design room for manufacturer error into your parts.
 - 'Hems' are a great way to protect people from sharp sheet metal edges.
+
+***

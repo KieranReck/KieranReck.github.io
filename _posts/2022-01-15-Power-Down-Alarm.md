@@ -38,3 +38,5 @@ A great excuse to dip my toes into some circuitry and learn something new, and s
 - Intro to Circuit Sculptures (can you tell I have been looking at [Mohit Bhoite’s](https://www.bhoite.com/sculptures/) work recently?)
 
 - How to draw basic schematics on Fusion360 and that it isn't the best tool for the job. Use KiCAD instead!
+
+***

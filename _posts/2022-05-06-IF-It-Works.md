@@ -21,3 +21,4 @@ These little sticky back pieces of paper are conveniently stacked, sticky, and e
 
 The gap between my camera lens and the camera body was too thin for a washer or lock ring, leaving no way to keep the lens locked into focus. So I found the perfect number of post-its required, cut them into shape, and put them to work.
 
+***

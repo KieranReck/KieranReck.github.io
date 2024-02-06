@@ -23,3 +23,4 @@ Combining cardboard with real switches takes the prototyping abilities to anothe
 
 Wondering what the hell is modular synthesis is...check out the youtube channel that first exposed me to it, [Look Mum No Computer](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw).
 
+***
