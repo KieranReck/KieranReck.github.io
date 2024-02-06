@@ -9,7 +9,7 @@ Sometimes the goalposts move. Projects involve lots of people from different are
 
 Specifically, I am referring to a recent Jig I designed whose concept was okayed, drawings approved, and dimensions four-eyes checked, only to find that when it was put to test in production the Jig was the wrong size.
 
-![](../assets/images/goalposts-jig-doesnt-fit.jpg){: .align-center width="400px"}
+![](../assets/images/goalposts-jig-doesnt-fit.jpg){: .align-center}
 
 It turns out the component that the Jig was designed for was arriving into production with an extra part fitted to the sides, a change that had only been requested after I had begun designing the Jig. I was working off of information that had become obsolete.
 
