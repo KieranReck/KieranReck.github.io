@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md"
+                "file": "_posts/2099-01-01-blogpost-template.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-05-06-IF-It-Works.md",
@@ -170,7 +171,6 @@
     "assets/images/Cardboard-Module - Copy.jpg",
     "assets/images/Erica-Synths-Dual-ASR-EG.jpg",
     "assets/images/~oalposts-header.tmp",
-    "_posts/2022-01-15-Power-Down-Alarm.md",
     "_pages/portfolio.md",
     "_pages/Image Tests.md",
     "_pages/Professional.md",
