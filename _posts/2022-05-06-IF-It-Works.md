@@ -9,7 +9,7 @@ gallery:
     image_path: /assets/images/camera-with-paper-spacer.jpg
     alt: "Camera with paper spacer keeping the lens in focus"
   - url: /assets/images/camera-paper-spacer.jpg
-    image_path: /assets/camera-paper-spacer.jpg
+    image_path: /assets/images/camera-paper-spacer.jpg
     alt: "The paper spacer"
 ---
 
