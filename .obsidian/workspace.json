@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2099-01-01-blogpost-template.md",
+                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2099-01-01-blogpost-template.md",
+                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2099-01-01-blogpost-template.md",
+                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2099-01-01-blogpost-template.md"
+                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "assets/images/7-seg-in-use.gif",
+    "assets/images/7-seg-Meme-Counter.jpg",
+    "assets/images/7-seg-Meme-Counter (2).jpg",
+    "assets/images/Picture2.png",
+    "assets/images/7-seg-display-Diagram.png",
+    "assets/images/7-seg-Digits.png",
+    "assets/images/7-seg-Meme-Counter.png",
+    "assets/images/7-seg-4026-pinout.gif",
+    "assets/images/7-seg-4026-circuit-diagram.gif",
+    "assets/images/Meme Counter.png",
+    "assets/images/4026-pinout.gif",
+    "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
@@ -156,20 +169,9 @@
     "_posts/2022-04-11-Goalposts.md",
     "assets/images/~ardboard-Module.tmp",
     "assets/images/Cardboard-Module.jpg.~tmp",
-    "assets/images/Cardboard-Module.jpg",
-    "assets/images/cardboard-module-header - Copy.jpg",
-    "assets/images/camera-paper-spacer.jpg",
     "assets/images/~amera-with-paper-spacer.tmp",
-    "assets/images/paper-spacer.jpg",
-    "assets/images/camera-with-paper-spacer.jpg",
-    "_posts/2099-01-01-blogpost-template.md",
     "assets/images/~ardboard-module-header.tmp",
     "assets/images/cardboard-module-header.jpg.~tmp",
-    "assets/images/cardboard-module-header.jpg",
-    "assets/images/PXL_20220410_195046920.jpg",
-    "assets/images/Cardboard-Module-header.jpg",
-    "assets/images/Cardboard-Module - Copy.jpg",
-    "assets/images/Erica-Synths-Dual-ASR-EG.jpg",
     "assets/images/~oalposts-header.tmp",
     "_pages/portfolio.md",
     "_pages/Image Tests.md",
