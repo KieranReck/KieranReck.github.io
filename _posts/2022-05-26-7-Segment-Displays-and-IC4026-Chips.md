@@ -5,7 +5,7 @@ tagline: ""
 header:
     teaser: /assets/images/7-seg-in-use.gif
 ---
----
+
 It’s time to undertake a raw unadulterated electronics project, one where I don't use code, using common off-the-shelf IC chips bent to my whim to perform a task. Obviously, IC chips exist for all sorts of applications, so there won't be much 'bending', but it will give me a chance to dive deeper into electronic circuitry and understand what goes into developing it.
 
 It’s January, so why not make a digital counter to keep a tally of how many days I have stuck to my new years resolution. Every time I push the button, it adds 1 to the count. The code for something like this would be simple, you can probably find it packaged up as an introduction-to-Arduino kit somewhere, but restricting the project to off-the-shelf components is going to require me to do some research and stretch my electronics knowledge.
@@ -20,12 +20,12 @@ Typically, the IC4026 is paired with a timing chip to make a clock. Instead, if 
 
 A 7seg display can only display one-digit numbers (0 to 9), as can the IC4026, any additional pulses roll the count back over to 0. That's not very useful on its own, so the IC4026 includes an additional pin which sends a pulse every time the count rolls over, known as the 'cascade' pin. If you fed this pulse into a second IC4026, you can now count an extra digit, or in other words, you can now count 'tens' as well as 'ones', allowing you to display values up to 99.
 
-![7-seg-Digits](../assets/images/7-seg-Digits.png) {: .align-center width="300px"}
+![7-seg-Digits](../assets/images/7-seg-Digits.png){: .align-center width="300px"}
 
 ## Circuit/Schematic
-![7-seg-4026-circuit-diagram](../assets/images/7-seg-4026-circuit-diagram.gif) {: .align-center width="500px"}
+![7-seg-4026-circuit-diagram](../assets/images/7-seg-4026-circuit-diagram.gif){: .align-center width="500px"}
 
-![7-seg-4026-pinout](../assets/images/7-seg-4026-pinout.gif) {: .align-center width="300px"}
+![7-seg-4026-pinout](../assets/images/7-seg-4026-pinout.gif){: .align-center width="300px"}
 
 ![7-seg-in-use](../assets/images/7-seg-in-use.gif){: .align-center width="500px"}
 ## Conclusion
