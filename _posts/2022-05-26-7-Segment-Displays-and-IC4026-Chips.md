@@ -24,8 +24,7 @@ A 7seg display can only display one-digit numbers (0 to 9), as can the IC4026, a
 
 ## Circuit/Schematic
 
-![7-seg-4026-pinout](../assets/images/7-seg-4026-pinout.gif){
-: .align-center width="300px"}
+![7-seg-4026-pinout](../assets/images/7-seg-4026-pinout.gif){: .align-center width="300px"}
 
 ![7-seg-4026-circuit-diagram](../assets/images/7-seg-4026-circuit-diagram.gif){: .align-center width="500px"}
 
