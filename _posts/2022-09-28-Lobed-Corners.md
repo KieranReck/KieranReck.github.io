@@ -13,15 +13,15 @@ gallery1:
 
 gallery2:
   - url: /assets/images/Rad-Metalwork(small-tool-diagram).jpg
-    image_path: /assets/Rad-Metalwork(small-tool-diagram).jpg
+    image_path: /assets/images/Rad-Metalwork(small-tool-diagram).jpg
     alt: "Tool Path for a small diameter milling tool."
   - url: /assets/images/Tool-Bend-Diagram.png
     image_path: /assets/images/Tool-Bend-Diagram.png
     alt: "Milling tool bending due to length required for deep cuts"
 
 gallery3:
-  - url: /assets/images/Lobe-Assy(frontView).jpg
-    image_path: /assets/images/Lobe-Assy(frontView).jpg
+  - url: /assets/images/Lobe-Assy(front-View).jpg
+    image_path: /assets/images/Lobe-Assy(front-View).jpg
   - url: /assets/images/Lobe-Metalwork(Front-View).jpg
     image_path: /assets/images/Lobe-Metalwork(Front-View).jpg
 ---
