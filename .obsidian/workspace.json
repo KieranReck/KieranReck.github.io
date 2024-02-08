@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
+                "file": "_posts/2022-09-28-Lobed-Corners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
+                "file": "_posts/2022-09-28-Lobed-Corners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
+                "file": "_posts/2022-09-28-Lobed-Corners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md"
+                "file": "_posts/2022-09-28-Lobed-Corners.md"
               }
             }
           }
@@ -148,31 +148,36 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "assets/images/7-seg-in-use-header.jpg",
-    "assets/images/PXL_20220117_221232843.jpg",
-    "assets/images/7-seg-in-use-header.gif",
-    "assets/images/7-seg-in-use.gif",
-    "assets/images/1_display (HD).gif",
-    "assets/images/7-seg-in-use(4by3).gif",
+    "assets/images/Rad - Metalwork (large tool unmachined areas).jpg",
+    "assets/images/Rad - Metalwork (Front View).jpg.~tmp",
+    "assets/images/Lobe - Assy (front View).jpg.~tmp",
+    "assets/images/Rad - Metalwork (ISO).jpg",
+    "assets/images/Rad - Metalwork (ISO).PNG.~tmp",
+    "assets/images/Rad - Metalwork (Front View).jpg",
+    "assets/images/Rad - Metalwork (Front View).PNG.~tmp",
+    "assets/images/Rad - Metalwork (small tool diagram).jpg",
+    "assets/images/Rad - Metalwork (small tool diagram).PNG.~tmp",
+    "assets/images/Rad - Metalwork (2 Tools Diagram).jpg",
+    "assets/images/Rad - Metalwork (large tool diagram (unmachined areas)) 1.jpg",
+    "assets/images/Rad - Metalwork (large tool diagram (unmachined areas)) 1.PNG.~tmp",
+    "assets/images/Lobe - Assy (front View).PNG.~tmp",
+    "assets/images/Lobe - Assy (front View).jpg",
+    "assets/images/Lobe - Metalwork (Front View).jpg",
+    "assets/images/Lobe - Metalwork (Front View).PNG.~tmp",
+    "assets/images/Lobe - Metalwork (large tool diagram).jpg",
+    "assets/images/Lobe - Metalwork (large tool diagram).PNG.~tmp",
+    "assets/images/Lobe - Metalwork (Front View).PNG",
+    "assets/images/Lobe - Assy (front View).PNG",
     "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2022-09-28-Lobed-Corners.md",
+    "_posts/2022-05-06-IF-It-Works.md",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
-    "assets/images/7-seg-Meme-Counter.jpg",
-    "assets/images/7-seg-Meme-Counter (2).jpg",
-    "assets/images/Picture2.png",
-    "assets/images/7-seg-display-Diagram.png",
-    "assets/images/7-seg-Digits.png",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
-    "_posts/2022-05-06-IF-It-Works.md",
     "_posts/2022-04-14-Cardboard-Prototypes.md",
     "_posts/2022-04-11-Goalposts.md",
     "assets/images/~ardboard-Module.tmp",
-    "assets/images/Cardboard-Module.jpg.~tmp",
-    "assets/images/~amera-with-paper-spacer.tmp",
-    "assets/images/~ardboard-module-header.tmp",
-    "assets/images/cardboard-module-header.jpg.~tmp",
-    "assets/images/~oalposts-header.tmp",
     "_pages/portfolio.md",
     "_pages/Image Tests.md",
     "_pages/Professional.md",

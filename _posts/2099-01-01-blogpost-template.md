@@ -22,4 +22,9 @@ tags:
 {: .align-center width="400px"} - Needs to be inline with the image
 {: .notice--primary} - needs to be the line below the **single line** of text
 
+>[!success] Useful Liquid Tags - Adding a Gallery
+>
+>{% include gallery id="gallery" layout="half" caption="..." %}
+>Layout="half"(2 images wide) or default 3 images wide
+
 ***
