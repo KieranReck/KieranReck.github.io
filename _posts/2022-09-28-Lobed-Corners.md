@@ -6,24 +6,24 @@ header:
     teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
 
 gallery1:
-  - url: /assets/images/Rad - Metalwork (ISO).jpg
-    image_path: /assets/images/Rad - Metalwork (ISO).jpg
-  - url: /assets/images/Rad - Metalwork (Front View).jpg
-    image_path: /assets/images/Rad - Metalwork (Front View).jpg"
+  - url: /assets/images/Rad-Metalwork(ISO).jpg
+    image_path: /assets/images/Rad-Metalwork(ISO).jpg
+  - url: /assets/images/Rad-Metalwork(Front-View).jpg
+    image_path: /assets/images/Rad-Metalwork(Front-View).jpg
 
 gallery2:
-  - url: /assets/images/Rad - Metalwork (small tool diagram).jpg
-    image_path: /assets/Rad - Metalwork (small tool diagram).jpg
+  - url: /assets/images/Rad-Metalwork(small-tool-diagram).jpg
+    image_path: /assets/Rad-Metalwork(small-tool-diagram).jpg
     alt: "Tool Path for a small diameter milling tool."
-  - url: /assets/images/Tool Bend Diagram.png
-    image_path: /assets/images/Tool Bend Diagram.png
+  - url: /assets/images/Tool-Bend-Diagram.png
+    image_path: /assets/images/Tool-Bend-Diagram.png
     alt: "Milling tool bending due to length required for deep cuts"
 
 gallery3:
-  - url: /assets/images/Lobe - Assy (front View).jpg
-    image_path: /assets/images/Lobe - Assy (front View).jpg
-  - url: /assets/images/Lobe - Metalwork (Front View).jpg
-    image_path: /assets/images/Lobe%20-%20Metalwork%20(Front%20View).jpg
+  - url: /assets/images/Lobe-Assy(frontView).jpg
+    image_path: /assets/images/Lobe-Assy(frontView).jpg
+  - url: /assets/images/Lobe-Metalwork(Front-View).jpg
+    image_path: /assets/images/Lobe-Metalwork(Front-View).jpg
 ---
 
 Picture this, you have designed a housing for some delicate electronics, it strikes the perfect balance between aesthetics, protection, and thermal transfer, machined out of a single block of aluminium to keep things simple, but you get your first quote back from the machinist and it is astronomical. After some digging you find out that your beautiful design has one very expensive flaw, a large area of material needs to be removed but you have only allowed space for a small radius in the corners.
@@ -36,13 +36,11 @@ Machinists like to perform a cut in the minimum number of operations, this leads
 
 What if they use a large tool for most of the cut and swap to the small one just for the corners? That tool swap takes time and now you are adding wear to two tools. The price stays high.
 
-![[Rad - Metalwork (2 Tools Diagram).jpg]]{: .align-center}
-Tool Path for two tools, one large and one small.
+![Rad-Metalwork(2Tools-Diagram)](../assets/images/Rad-Metalwork(2Tools-Diagram).jpg){: .align-center}
 
 So, what if they used a large diameter tool? It wouldn't be able to remove all of the required material in the corners. You could add a process to swap to a smaller tool just for the corners, but that takes additional time and time is money.
 
-![Rad - Metalwork (large tool unmachined areas)](../assets/images/Rad%20-%20Metalwork%20(large%20tool%20unmachined%20areas).jpg){: .align-center}
-Tool Path for a large diameter milling tool.
+![Rad-Metalwork(large-tool-unmachined-areas)](../assets/images/Rad-Metalwork(large-tool-unmachined-areas).jpg){: .align-center}
 
 Now, what if we approach this design with a DFM (Design For Manufacture) mindset? How would you tweak the profile to achieve the same functionality but allow for just the large cutter to be used? 
 
@@ -52,7 +50,7 @@ By flaring the corners you open up your radii significantly whilst leaving all o
 
 {% include gallery id="gallery3" layout="half" %} 
 
-![Lobe - Metalwork (large tool diagram)](../assets/images/Lobe%20-%20Metalwork%20(large%20tool%20diagram).jpg){: .align-center}
+![Lobe-Metalwork(large-tool-diagram)](../assets/images/Lobe-Metalwork(large-tool-diagram).jpg){: .align-center}
 Tool Path for a large diameter milling tool when the design include lobed corners.
 
 ### Lessons learned
@@ -61,4 +59,5 @@ Tool Path for a large diameter milling tool when the design include lobed corner
 - When performing a deep cut, small diameter mill tools are placed under greater stress, causing them to bend, wear quicker, and increase the change of breaking
 - If your design desperately requires these small radii they can be achieved, but at a cost.
 - If your design allows it, add lobes to the corners to allow the use of larger tools.
+
 ***
