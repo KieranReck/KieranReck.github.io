@@ -3,7 +3,7 @@ title: "Lobed Corners - A DFM Secret"
 layout: posts
 tagline: ""
 header:
-    teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
+    teaser: /assets/images/Lobe-Metalwork(large-tool-diagram).jpg
 
 gallery1:
   - url: /assets/images/Rad-Metalwork(ISO).jpg

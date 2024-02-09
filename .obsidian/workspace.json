@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-09-28-Lobed-Corners.md",
+                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-28-Lobed-Corners.md",
+                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-28-Lobed-Corners.md",
+                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-28-Lobed-Corners.md"
+                "file": "_posts/2023-01-06-Protecting-sealing-faces.md"
               }
             }
           }
@@ -148,36 +148,37 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "assets/images/sealing-face-screw-on-table.jpg",
+    "assets/images/sealing-face-screw-on-table.PNG.~tmp",
+    "assets/images/sealing-face-screw-underside.jpg",
+    "assets/images/sealing-face-screw-underside.PNG.~tmp",
+    "assets/images/sealing-face-screw-underside.PNG",
+    "assets/images/sealing-face-screw-on-table.PNG",
+    "assets/images/Underside Iso.PNG",
+    "assets/images/On table.PNG",
+    "assets/images/~ealing-face-recessed2.tmp",
+    "assets/images/~ealing-face-recessed.tmp",
+    "assets/images/sealing-face-recessed2.jpg",
+    "assets/images/sealing-face-recessed.jpg",
+    "assets/images/O-Ring-Axial.jpg.~tmp",
+    "assets/images/O-Ring-Axial.jpg",
+    "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2023-01-06-Protecting-sealing-faces.md",
+    "_posts/2022-09-28-Lobed-Corners.md",
     "assets/images/Tool-Bend-Diagram.png",
     "assets/images/Lobe-Metalwork(large-tool-diagram).jpg",
-    "assets/images/Lobe-Metalwork(Front-View).jpg",
-    "assets/images/Lobe-Assy(front-View).jpg",
-    "assets/images/Rad-Metalwork(large-tool-unmachined-areas).jpg",
-    "assets/images/Rad-Metalwork(2Tools-Diagram).jpg",
-    "assets/images/Rad-Metalwork(small-tool-diagram).jpg",
-    "assets/images/Rad-Metalwork(Front-View).jpg",
-    "assets/images/Rad-Metalwork(ISO).jpg",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-05-06-IF-It-Works.md",
-    "_posts/2022-09-28-Lobed-Corners.md",
-    "assets/images/Rad - Metalwork (large tool unmachined areas).jpg",
     "assets/images/Rad - Metalwork (Front View).jpg.~tmp",
     "assets/images/Lobe - Assy (front View).jpg.~tmp",
-    "assets/images/Rad - Metalwork (ISO).jpg",
     "assets/images/Rad - Metalwork (ISO).PNG.~tmp",
     "assets/images/Rad - Metalwork (Front View).PNG.~tmp",
     "assets/images/Rad - Metalwork (small tool diagram).PNG.~tmp",
-    "assets/images/Rad - Metalwork (large tool diagram (unmachined areas)) 1.PNG.~tmp",
-    "assets/images/Lobe - Assy (front View).PNG.~tmp",
-    "assets/images/Lobe - Metalwork (Front View).PNG.~tmp",
-    "assets/images/Lobe - Metalwork (large tool diagram).PNG.~tmp",
-    "_posts/2099-01-01-blogpost-template.md",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-04-14-Cardboard-Prototypes.md",
     "_posts/2022-04-11-Goalposts.md",
-    "assets/images/~ardboard-Module.tmp",
     "_pages/portfolio.md",
     "_pages/Image Tests.md",
     "_pages/Professional.md",
