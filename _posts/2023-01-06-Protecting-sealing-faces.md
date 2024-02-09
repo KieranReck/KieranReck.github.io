@@ -10,7 +10,7 @@ Vacuum seals have got to be tight. Reaching pressures of 5x10⁻⁶ Pa requires 
 
 
 <figure>
-	<a href=/assets/images/O-Ring-Axial.jpg></a>
+	<a href="/assets/images/sealing-face-o-ring.jpg"><img src="/assets/images/sealing-face-o-ring.jpg"></a>
 	<figcaption>Diagram: ‘Face Type’ O-Ring Seal. Dark Orange = O-Ring Groove | Light Orange = Face Seal</figcaption>
 </figure>
 
