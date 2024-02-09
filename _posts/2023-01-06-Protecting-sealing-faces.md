@@ -10,19 +10,16 @@ Vacuum seals have got to be tight. Reaching pressures of 5x10⁻⁶ Pa requires 
 
 
 <figure>
-	<div style="text-align: center;">
-		<a href="/assets/images/sealing-face-o-ring.jpg"><img src="/assets/images/sealing-face-o-ring.jpg"></a>
-	</div>
+	<a href="/assets/images/sealing-face-o-ring.jpg"><img src="/assets/images/sealing-face-o-ring.jpg"></a>
 	<figcaption>Diagram: ‘Face Type’ O-Ring Seal. Dark Orange = O-Ring Groove | Light Orange = Face Seal</figcaption>
 </figure>
 
 
 As you can imagine, the surfaces of the O-Ring Groove and Sealing Face need to be smooth, machined to 0.4Ra, with an emphasis on having no radial scratches that could create a leak path under the O-Ring. This surface finish is simple enough to machine but keeping it from getting damaged can be difficult, the natural tendency to place a part on the table face-down is hard to resist and doing so would scratch the surface, so it is good practice to design parts which protect these faces.
 
+***
 
 These are the two main methods I use:
-
-***
 
 ### Recessed Sealing Face
 The simplest method is to recess your sealing face into another surface, that way when the part is placed on the table it doesn't rest on the sealing face. This also gives machinist a clear boundary for where the tightly controlled 0.4Ra surface is, rather than simply applying it to the whole surface. If you choose this method though, remember that your O-Ring groove will need to be shallower to ensure that you get the same compression on the O-Ring.
