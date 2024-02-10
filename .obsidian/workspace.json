@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
+                "file": "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7b3301bd1d87de0",
+  "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
+    "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
     "assets/images/MIDI-optoisolators-header.png.~tmp",
     "assets/images/MIDI-optoisolators-header.png",
     "assets/images/Why-Include-the-Diode(annotated)-v2.png",
@@ -170,8 +171,6 @@
     "assets/images/Internal-Schematic(6N138&6N139).png",
     "assets/images/6N138-and-6N137-Circuit-Diagram.png",
     "assets/images/MIDI-Connection-Schematic(From-MIDI-Association).png",
-    "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
-    "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
     "_posts/2099-01-01-blogpost-template 1.md",
     "assets/images/unprotected-MIDI-header.png.~tmp",
     "assets/images/unprotected-MIDI.png",
@@ -185,7 +184,6 @@
     "assets/images/sealing-face-screw-underside.PNG.~tmp",
     "assets/images/~ealing-face-recessed2.tmp",
     "assets/images/~ealing-face-recessed.tmp",
-    "assets/images/O-Ring-Axial.jpg.~tmp",
     "_posts/2022-09-28-Lobed-Corners.md",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-05-06-IF-It-Works.md",

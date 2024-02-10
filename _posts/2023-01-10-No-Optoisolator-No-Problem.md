@@ -14,9 +14,10 @@ Technically, you don't need an optoisolator for a MIDI Input circuit to work, al
 
 Because of this lack of protection, I tend to only use this version of the circuit during the early stages of prototyping when I am only risking an Arduino and potentially a USB MIDI Interface. I wouldn't dare plug it into a several-hundred-pound instrument.
 
-So, I can do nothing more to recommend that you 110% never ever forever never use this circuit and instead use one of the many versions outlined online or [here](/midi-input-with-6n137-6n138-or-6n139/) ... but here is the schematic anyway, next to the actual recommended circuits in case you change your mind.
+So, I can do nothing more to recommend that you 110% never ever forever never use this circuit and instead use one of the many versions outlined online or [here](/MIDI-6N137-vs-6N138-vs-6N139/) ... but here is the schematic anyway, next to the actual recommended circuits in case you change your mind.
 
 Do harm with this information as you will.
 
 ![](../assets/images/unprotected-MIDI.png){: .align-center}
+
 ***
