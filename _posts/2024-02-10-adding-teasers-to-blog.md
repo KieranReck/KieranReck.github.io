@@ -19,6 +19,7 @@ List view now shows your post's 'teaser image' in the list view
 ## How?
 
 In the file `_includes/archive-single.html` you simply add the following liquid commands to the line just before `</article>` 
+
 ```markdown
 {% if include.type == "list" and teaser %}
   <div class="archive__item-teaser">
