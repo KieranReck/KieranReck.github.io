@@ -5,7 +5,7 @@ tagline: ""
 header:
     teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
 ---
-
+![](../assets/images/blog-without-teasers.png)
 ``` HTML
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
