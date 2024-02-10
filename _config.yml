@@ -296,7 +296,7 @@ defaults:
       show_date: true
       comments: # true
       share: true
-      related: false
+      related: true
       entries_layout: grid
   # _pages
   - scope:
