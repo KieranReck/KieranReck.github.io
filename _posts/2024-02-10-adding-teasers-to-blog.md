@@ -32,7 +32,7 @@ and that is is.
 
 Just in case it isn't obvious where I mean, below is a copy of my entire `_includes/archive-single.html` file:
 
-```html
+```markdown
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
