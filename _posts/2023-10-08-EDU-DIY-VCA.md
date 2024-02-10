@@ -52,7 +52,7 @@ I did run into one issue, VCA 1 never fully closes. Even though it has been cali
 
 # Lessons Learned
 - I was wrong about the pinout of the Thonkiconn 3.5mm Sockets in my VCO build. The long pin is the ground, not the switch!
-	![](../assets/images/Thonkiconn-Pinout.jpg){: .width="200px"}
+	![](../assets/images/Thonkiconn-Pinout.jpg){: .align-center width="200px"}
 - It is super easy to create a little standalone status LED circuit using a transistor and resistor which only needs flying leads, it doesn't need to be baked into your stripboard.
 
 ***
