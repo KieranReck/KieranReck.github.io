@@ -1,7 +1,7 @@
 ---
 title: Hobby
 layout: tag
-permalink: /tags/Hobby/
+permalink: /hobby/
 taxonomy: Hobby
 ---
 
