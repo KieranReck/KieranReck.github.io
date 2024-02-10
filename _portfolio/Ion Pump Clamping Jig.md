@@ -91,11 +91,11 @@ The resounding feedback from the engineers who use it was "please can we have mo
 
 ## Lessons Learned
 
-- The limits of how close holes can be to a sheet metal bend (learn more in [this blog post](/sheet-metal-lessons/))
+- The limits of how close holes can be to a sheet metal bend (learn more in [this blog post](Sheet-Metal-Lessons/))
 
 - Designing and working with welded sheet metal assemblies.
 
-- [https://geomiq.com/](https://geomiq.com/) offer an extensive and free sheet metal design guide.
+- [https://geomiq.com/](https://geomiq.com/sheet-metal-design-guide/) offer an extensive and free sheet metal design guide.
 
-- Sometimes the goalposts move (learn more in [this blog post](/goalposts/)), ensure that you involve the technicians who will work directly with the jig, even if they aren't the main authority.
+- Sometimes the goalposts move (learn more in [this blog post](/Goalposts/)), ensure that you involve the technicians who will work directly with the jig, even if they aren't the main authority.
 
