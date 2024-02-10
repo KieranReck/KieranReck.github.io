@@ -27,4 +27,20 @@ tags:
 >{% include gallery id="gallery" layout="half" caption="..." %}
 >Layout="half"(2 images wide) or default 3 images wide
 
+>[!caution] Useful HTML Tags - Adding a  single/half/third figure
+```
+<figure class="half">
+    <a href="/assets/images/sealing-face-recessed.jpg"><img src="/assets/images/sealing-face-recessed.jpg"></a>
+    <a href="/assets/images/sealing-face-recessed2.jpg"><img src="/assets/images/sealing-face-recessed2.jpg"></a>
+    <figcaption>Photo: Sealing face is the ‘inner’ section of the top face.  
+(O-Ring groove is found on the mating part).</figcaption>
+</figure>
+```
+
+
+
+
+
+
+
 ***

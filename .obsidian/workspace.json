@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
+                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7b3301bd1d87de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
+                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-06-Protecting-sealing-faces.md",
+                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-06-Protecting-sealing-faces.md"
+                "file": "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md"
               }
             }
           }
@@ -146,34 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8352a94d991323",
+  "active": "d7b3301bd1d87de0",
   "lastOpenFiles": [
+    "assets/images/MIDI-optoisolators-header.png.~tmp",
+    "assets/images/MIDI-optoisolators-header.png",
+    "assets/images/Why-Include-the-Diode(annotated)-v2.png",
+    "assets/images/Internal-Schematic(6N137).png.~tmp",
+    "assets/images/Internal-Schematic(6N138&6N139).png.~tmp",
+    "assets/images/Internal-Schematic(6N137).png",
+    "assets/images/Internal-Schematic(6N138&6N139).png",
+    "assets/images/6N138-and-6N137-Circuit-Diagram.png",
+    "assets/images/MIDI-Connection-Schematic(From-MIDI-Association).png",
+    "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
+    "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
+    "_posts/2099-01-01-blogpost-template 1.md",
+    "assets/images/unprotected-MIDI-header.png.~tmp",
+    "assets/images/unprotected-MIDI.png",
+    "assets/images/unprotected-MIDI-header.png",
+    "assets/images/Various-MIDI-Circuits - Copy.png",
+    "assets/images/Various-MIDI-Circuits.png",
+    "_posts/2023-01-06-Protecting-sealing-faces.md",
     "assets/images/sealing-face-screw-underside.jpg.~tmp",
     "assets/images/sealing-face-screw-on-table.jpg.~tmp",
-    "assets/images/sealing-face-o-ring.jpg",
-    "assets/images/sealing-face-screw-on-table.jpg",
     "assets/images/sealing-face-screw-on-table.PNG.~tmp",
-    "assets/images/sealing-face-screw-underside.jpg",
     "assets/images/sealing-face-screw-underside.PNG.~tmp",
-    "assets/images/sealing-face-screw-underside.PNG",
-    "assets/images/sealing-face-screw-on-table.PNG",
-    "assets/images/Underside Iso.PNG",
-    "assets/images/On table.PNG",
     "assets/images/~ealing-face-recessed2.tmp",
     "assets/images/~ealing-face-recessed.tmp",
-    "assets/images/sealing-face-recessed2.jpg",
-    "assets/images/sealing-face-recessed.jpg",
     "assets/images/O-Ring-Axial.jpg.~tmp",
-    "assets/images/O-Ring-Axial.jpg",
-    "_posts/2099-01-01-blogpost-template.md",
-    "_posts/2023-01-06-Protecting-sealing-faces.md",
     "_posts/2022-09-28-Lobed-Corners.md",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-05-06-IF-It-Works.md",
-    "assets/images/Rad - Metalwork (Front View).jpg.~tmp",
-    "assets/images/Lobe - Assy (front View).jpg.~tmp",
-    "assets/images/Rad - Metalwork (ISO).PNG.~tmp",
-    "assets/images/Rad - Metalwork (Front View).PNG.~tmp",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
