@@ -16,7 +16,7 @@ Width: 12 HP
 
 Depth: 50mm (Board 1 & 2 stripboard)
 
-40mm (Board 1 stripboard)
+Depth: 40mm (Board 1 stripboard)
 
 # Features
 
