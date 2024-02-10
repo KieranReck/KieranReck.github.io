@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/Lobe-Metalwork(large-tool-diagram).jpg
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+  - Lessons Learned
+  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+  - Professional
 
 gallery1:
   - url: /assets/images/Rad-Metalwork(ISO).jpg

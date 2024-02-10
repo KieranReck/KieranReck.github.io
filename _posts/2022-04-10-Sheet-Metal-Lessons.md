@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/sheet-metal-main.jpg
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+  - Lessons Learned
+  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+  - Professional
 ---
 The sheet metal brackets I designed for an upcoming jig arrived and one thing was very apparent, I had put the large holes too close to the bend.
 

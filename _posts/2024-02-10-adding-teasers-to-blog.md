@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/blog-with-teasers-header.png
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+  - Code
+# --------
+#  - Hobby
+#  - Professional
 ---
 
 The [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes) for Jekyll/Github Pages is great, but the blog view ("archive-single") only displays your posts teaser images in 'Grid View' by default. I want to change that.

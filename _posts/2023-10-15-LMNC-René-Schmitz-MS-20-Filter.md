@@ -7,11 +7,13 @@ header:
 tags:
   - Electronics
   - Modular Synth
-#  - Eurorack Module
+  - Eurorack Module
 #  - Lessons Learned
 #  - Design for Manufacture
-# ------
+#  - Code
+# --------
   - Hobby
+#  - Professional
 ---
 
 The heavy metal filter of the synth world, the MS-20 VCF is known for its harmonics and resonance the world over. This multi-mode version includes 3 inputs, Low Pass, High Pass, resonance, and CV controlled Cutoff with an adjustable attenuator.

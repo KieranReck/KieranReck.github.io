@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/7-seg-in-use-header.jpg
+tags:
+  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+#  - Professional
 ---
 
 It’s time to undertake a raw unadulterated electronics project, one where I don't use code, using common off-the-shelf IC chips bent to my whim to perform a task. Obviously, IC chips exist for all sorts of applications, so there won't be much 'bending', but it will give me a chance to dive deeper into electronic circuitry and understand what goes into developing it.

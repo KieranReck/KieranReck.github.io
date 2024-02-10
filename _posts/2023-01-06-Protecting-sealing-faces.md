@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/sealing-face-recessed.jpg
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+  - Professional
 ---
 
 Vacuum seals have got to be tight. Reaching pressures of 5x10⁻⁶ Pa requires a perfect seal at every joint and static 'face type' O-Ring seals are great for this. They seal between a groove (which retains the O-Ring) and a flat surface (which compresses the O-ring), this combo squishes the O-Ring to fill the space creating a repeatable and reusable seal.

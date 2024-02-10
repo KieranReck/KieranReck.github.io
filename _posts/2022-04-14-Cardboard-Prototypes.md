@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/cardboard-module-header.jpg
+tags:
+#  - Electronics
+  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+#  - Professional
 gallery:
   - url: /assets/images/Cardboard-Module.jpg
     image_path: /assets/images/Cardboard-Module.jpg

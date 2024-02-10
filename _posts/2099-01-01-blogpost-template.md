@@ -4,15 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
-categories:
-#  - Hobby
-#  - Professional
 tags:
 #  - Electronics
 #  - Modular Synth
 #  - Eurorack Module
 #  - Lessons Learned
 #  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+#  - Professional
 ---
 
 
@@ -36,11 +37,3 @@ tags:
 (O-Ring groove is found on the mating part).</figcaption>
 </figure>
 ```
-
-
-
-
-
-
-
-***

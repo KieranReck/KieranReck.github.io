@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/VCA-Header-Photo(captioned).jpg
+tags:
+  - Electronics
+  - Modular Synth
+  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+  - Hobby
+#  - Professional
 ---
 
 Nothing original from me here, just a stripboard version of the dual [MKI x ES EDU VCA](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vca/), with added status LEDs on the CV inputs.

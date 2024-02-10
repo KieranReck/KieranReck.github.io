@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/power-down-alarm-header.jpg
+tags:
+  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+  - Hobby
+#  - Professional
 ---
 
 A friend of mine always forgets to put the handbrake on, it’s amazing that her car is ever where she left it. So for Christmas, I gifted her this doohicky.

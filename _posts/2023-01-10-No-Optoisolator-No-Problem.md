@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/unprotected-MIDI-header.png
+tags:
+  - Electronics
+  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+#  - Professional
 ---
 
 I DO NOT, I REPEAT, **DO NOT CONDONE** THE USE OF A MIDI INPUT CIRCUIT WHICH DOESN'T INCLUDE AN OPTOISOLATOR (such as the 6N137 / 6N138 / 6N139 chips)

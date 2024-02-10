@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/more-ritz-klein-header.jpg
+tags:
+  - Electronics
+  - Modular Synth
+  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+  - Hobby
+#  - Professional
 ---
 
 The More-ritz Klein VCO, it's the Moritz VCO, with more! What more? More Moritz of course. I have combined the mki x es.EDU VCO module with Moritz's additional triangle wave circuit and added flavour with a mixed output that combines all three waveforms to create complex sonic goodness.

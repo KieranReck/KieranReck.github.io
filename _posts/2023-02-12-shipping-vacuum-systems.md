@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/Pressurised(leaky)-header.png
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+  - Lessons Learned
+  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+  - Professional
 ---
 
 If you had to ship a system that needs to be immaculately clean, so clean that even the air needs to be removed (such an [Ultra High Vacuum Chamber](https://en.wikipedia.org/wiki/Ultra-high_vacuum)), how would you do it? How would you ensure that all your hard work and efforts spent cleaning the internals don't go to waste? If your first thought was to suck out all the air inside and place it under a vacuum then good news, you are normal, but also kind of wrong.

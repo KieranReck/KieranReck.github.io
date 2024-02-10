@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/prism-bending-light.jpg
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+  - Professional
 ---
 How do you look around corners? Well, for an upcoming project, I'm hoping with this:
 

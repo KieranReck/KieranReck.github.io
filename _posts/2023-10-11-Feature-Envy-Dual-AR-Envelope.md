@@ -4,6 +4,16 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/Feature-Envy-Header-Photo(Captioned).jpg
+tags:
+  - Electronics
+  - Modular Synth
+  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+  - Hobby
+#  - Professional
 ---
 
 This envious little module is the ADSR Envelope stripped down to its very core, Attack, Release, and nothing more. This stupidly simple circuit consists of a single TL072 Op Amp chip, two potentiometers, and basic components. It was so small that I crammed two into this module.

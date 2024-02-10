@@ -4,6 +4,17 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/camera-with-paper-spacer.jpg
+tags:
+#  - Electronics
+#  - Modular Synth
+#  - Eurorack Module
+#  - Lessons Learned
+#  - Design for Manufacture
+#  - Code
+# --------
+#  - Hobby
+#  - Professional
+
 gallery:
   - url: /assets/images/camera-with-paper-spacer.jpg
     image_path: /assets/images/camera-with-paper-spacer.jpg
