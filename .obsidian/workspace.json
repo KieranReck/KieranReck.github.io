@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/Hobby.md",
+                "file": "_pages/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/Hobby.md",
+                "file": "_pages/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/Hobby.md",
+                "file": "_pages/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/Hobby.md"
+                "file": "_pages/tags.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "_pages/tags.md",
     "_pages/Hobby.md",
+    "_pages/Hobby.html",
+    "_pages/tags.md",
     "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "_posts/2023-10-11-Feature-Envy-Dual-AR-Envelope.md",
     "_pages/categories.md",
@@ -186,13 +187,11 @@
     "assets/images/Internal-Schematic(6N138&6N139).png.~tmp",
     "assets/images/unprotected-MIDI-header.png.~tmp",
     "_posts/2023-01-06-Protecting-sealing-faces.md",
-    "assets/images/sealing-face-screw-underside.jpg.~tmp",
     "_posts/2022-09-28-Lobed-Corners.md",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-05-06-IF-It-Works.md",
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
-    "_posts/2022-04-10-Sheet-Metal-Lessons.md",
-    "_posts/2022-04-14-Cardboard-Prototypes.md"
+    "_posts/2022-04-10-Sheet-Metal-Lessons.md"
   ]
 }
