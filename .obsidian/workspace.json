@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-02-12-shipping-vacuum-systems.md",
+                "file": "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-12-shipping-vacuum-systems.md",
+                "file": "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-12-shipping-vacuum-systems.md",
+                "file": "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-12-shipping-vacuum-systems.md"
+                "file": "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md"
               }
             }
           }
@@ -148,24 +148,26 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "assets/images/Pressurised(leaky)-header.png",
-    "assets/images/Pressurised(leaky) - Copy.png",
-    "assets/images/Pressurised(leaky).png",
-    "assets/images/Pressurised.png",
-    "assets/images/Under-Vacuum(leaky).png",
-    "assets/images/Under-Vacuum.png",
-    "_posts/2099-01-01-blogpost-template 1.md",
+    "assets/images/Pasted image 20230827072656.png",
+    "assets/images/circuit-20230827-0726.png",
+    "assets/images/Pasted image 20230827195929.png",
+    "assets/images/Pasted image 20230827195058.png",
+    "assets/images/mki-x-es.EDU-VCO-Pitch-Control-Voltage-Divider-Schematic(watermarked).png",
+    "assets/images/mki-x-es.EDU-VCO-PCB-Schematic(watermarked).png",
+    "assets/images/MORE-RITZ-Klein-VCO-Stripboard-v1.0.png",
+    "assets/images/more-ritz-klein-side.jpg",
+    "assets/images/more-ritz-klein-rear.jpg",
+    "assets/images/more-ritz-klein-rack-update.jpg",
+    "assets/images/more-ritz-klein-header.jpg",
+    "assets/images/IMG_3426.heic",
     "_posts/2023-02-12-shipping-vacuum-systems.md",
+    "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
+    "_posts/2099-01-01-blogpost-template 1.md",
     "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
     "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
     "assets/images/MIDI-optoisolators-header.png.~tmp",
-    "assets/images/MIDI-optoisolators-header.png",
-    "assets/images/Why-Include-the-Diode(annotated)-v2.png",
     "assets/images/Internal-Schematic(6N137).png.~tmp",
     "assets/images/Internal-Schematic(6N138&6N139).png.~tmp",
-    "assets/images/Internal-Schematic(6N137).png",
-    "assets/images/Internal-Schematic(6N138&6N139).png",
-    "assets/images/6N138-and-6N137-Circuit-Diagram.png",
     "assets/images/unprotected-MIDI-header.png.~tmp",
     "_posts/2023-01-06-Protecting-sealing-faces.md",
     "assets/images/sealing-face-screw-underside.jpg.~tmp",
@@ -173,7 +175,6 @@
     "assets/images/sealing-face-screw-on-table.PNG.~tmp",
     "assets/images/sealing-face-screw-underside.PNG.~tmp",
     "assets/images/~ealing-face-recessed2.tmp",
-    "assets/images/~ealing-face-recessed.tmp",
     "_posts/2022-09-28-Lobed-Corners.md",
     "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
     "_posts/2022-05-06-IF-It-Works.md",
