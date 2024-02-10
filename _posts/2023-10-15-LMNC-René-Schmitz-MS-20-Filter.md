@@ -6,7 +6,7 @@ header:
     teaser: /assets/images/VCF-Header-Photo(captioned).jpg
 tags:
   - Electronics
-#  - Modular Synth
+  - Modular Synth
 #  - Eurorack Module
 #  - Lessons Learned
 #  - Design for Manufacture
