@@ -56,7 +56,7 @@ As well as condensing the original designs, I made two additional changes:
  - Transconductance Operational Amplifiers (OTAs) are effectively Op Amps, but the input voltages control an output current instead of an output voltage. When set up as a voltage controlled 'integrator' they can be used to create filters
 - The basics of VCFs, what it means to be a 1st or 2nd order filter, and what a two-pole filter is
 - What Diode Clipping is and how it can be used to tame feedback and resonance.
- - Op Amp Phase Reversal and how it can cause the signal to drop off if the input is too 'hot' https://northcoastsynthesis.com/news/whats-the-deal-with-phase-reversal/
+ - Op Amp Phase Reversal and how it can cause the signal to drop off if the input is too 'hot' [https://northcoastsynthesis.com/news/whats-the-deal-with-phase-reversal/](https://northcoastsynthesis.com/news/whats-the-deal-with-phase-reversal/)
 
 # Rack Update
 ![](../assets/images/VCF-Rack-Update.jpg)

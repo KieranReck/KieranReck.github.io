@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_portfolio/Ion Pump Clamping Jig.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_portfolio/Ion Pump Clamping Jig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_portfolio/Ion Pump Clamping Jig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md"
+                "file": "_portfolio/Ion Pump Clamping Jig.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "sheet-metal-lessons.md",
+    "_portfolio/Ion Pump Clamping Jig.md",
+    "_posts/2022-04-11-Goalposts.md",
+    "_pages/portfolio.md",
+    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "assets/images/VCF-Header-Photo(captioned).jpg",
     "assets/images/VCF Header Photo(captioned).jpg",
     "assets/images/VCF-Diagonal-Front.jpg",
@@ -158,9 +163,7 @@
     "assets/images/VCF Side View.jpg",
     "assets/images/VCF Rear.jpg",
     "assets/images/LMNC Rene Schmitz MS20 Filter v1.0.png",
-    "assets/images/MS20-Sallen-Key-LPF.png",
     "_posts/2099-01-01-blogpost-template 1.md",
-    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "_posts/2023-10-11-Feature-Envy-Dual-AR-Envelope.md",
     "assets/images/Feature-Envy-Header-Photo(Captioned).jpg.~tmp",
     "_posts/2023-10-08-EDU-DIY-VCA.md",
@@ -185,8 +188,6 @@
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-04-14-Cardboard-Prototypes.md",
-    "_posts/2022-04-11-Goalposts.md",
-    "_pages/portfolio.md",
     "_pages/Image Tests.md",
     "_pages/Professional.md",
     "_posts/{{.md",
