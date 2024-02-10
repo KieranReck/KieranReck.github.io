@@ -91,7 +91,7 @@ The resounding feedback from the engineers who use it was "please can we have mo
 
 ## Lessons Learned
 
-- The limits of how close holes can be to a sheet metal bend (learn more in [this blog post](Sheet-Metal-Lessons/))
+- The limits of how close holes can be to a sheet metal bend (learn more in [this blog post](/Sheet-Metal-Lessons/))
 
 - Designing and working with welded sheet metal assemblies.
 
