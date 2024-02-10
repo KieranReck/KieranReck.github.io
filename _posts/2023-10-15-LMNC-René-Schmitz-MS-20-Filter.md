@@ -4,6 +4,8 @@ layout: posts
 tagline: ""
 header:
     teaser: /assets/images/VCF-Header-Photo(captioned).jpg
+tags:
+- modular
 ---
 
 The heavy metal filter of the synth world, the MS-20 VCF is known for its harmonics and resonance the world over. This multi-mode version includes 3 inputs, Low Pass, High Pass, resonance, and CV controlled Cutoff with an adjustable attenuator.
