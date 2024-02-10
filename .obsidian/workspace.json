@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_pages/categories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_pages/categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+                "file": "_pages/categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md"
+                "file": "_pages/categories.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+    "_pages/categories.md",
     "_posts/2024-02-10-adding-teasers-to-blog.md",
     "_posts/2099-01-01-blogpost-template.md",
-    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "_pages/tags.md",
     "_pages/portfolio.md",
     "_posts/2099-02-10-markup-syntax-highlighting.md",
@@ -192,7 +193,6 @@
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-04-14-Cardboard-Prototypes.md",
-    "_pages/Image Tests.md",
-    "_pages/Professional.md"
+    "_pages/Image Tests.md"
   ]
 }
