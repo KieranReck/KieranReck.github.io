@@ -9,6 +9,11 @@ header:
 The [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes) for Jekyll/Github Pages is great, but the blog view ("archive-single") only displays your posts teaser images in 'Grid View' by default. I want to change that.
 
 ```html
+{% if include.type == "list" and teaser %}
+	<div class="archive__item-teaser">
+		<img src="{{ teaser | relative_url }}" alt="">
+	</div>
+{% endif %}
 {% raw %}<nav class="pagination" role="navigation">
   {% if page.previous %}
     <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
