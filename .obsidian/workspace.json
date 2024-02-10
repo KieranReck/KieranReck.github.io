@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_portfolio/Ion Pump Clamping Jig.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_portfolio/Ion Pump Clamping Jig.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_portfolio/Ion Pump Clamping Jig.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_portfolio/Ion Pump Clamping Jig.md"
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
-    "sheet-metal-lessons.md",
+    "_posts/2099-01-01-blogpost-template 1.md",
     "_portfolio/Ion Pump Clamping Jig.md",
+    "_posts/2024-02-10-adding-teasers-to-blog.md",
+    "assets/images/blog-with-teasers.png",
+    "sheet-metal-lessons.md",
     "_posts/2022-04-11-Goalposts.md",
     "_pages/portfolio.md",
     "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
@@ -162,8 +165,6 @@
     "assets/images/VCF Diagonal Front.jpg",
     "assets/images/VCF Side View.jpg",
     "assets/images/VCF Rear.jpg",
-    "assets/images/LMNC Rene Schmitz MS20 Filter v1.0.png",
-    "_posts/2099-01-01-blogpost-template 1.md",
     "_posts/2023-10-11-Feature-Envy-Dual-AR-Envelope.md",
     "assets/images/Feature-Envy-Header-Photo(Captioned).jpg.~tmp",
     "_posts/2023-10-08-EDU-DIY-VCA.md",
