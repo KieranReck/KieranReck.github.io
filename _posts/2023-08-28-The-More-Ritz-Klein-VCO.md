@@ -34,6 +34,7 @@ Lastly, I added a Wave Mixing circuit which allows you to blend all three wavefo
 # Schematic
 
 ![](../assets/images/circuit-20230827-0726.png)
+
 ![](../assets/images/Pasted%20image%2020230827072656.png)
 Falstad JSCircuit Simulation can be found here: [https://tinyurl.com/228fq3w4](https://tinyurl.com/228fq3w4)
 
