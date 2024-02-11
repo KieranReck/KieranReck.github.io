@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md",
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-01-15-Power-Down-Alarm.md"
+                "file": "_posts/2024-02-10-adding-teasers-to-blog.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2022-01-15-Power-Down-Alarm.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
     "_posts/2022-04-11-Goalposts.md",
@@ -192,7 +193,6 @@
     "assets/images/MIDI-optoisolators-header.png.~tmp",
     "assets/images/Internal-Schematic(6N137).png.~tmp",
     "assets/images/Internal-Schematic(6N138&6N139).png.~tmp",
-    "assets/images/unprotected-MIDI-header.png.~tmp",
-    "_posts/2022-01-15-Power-Down-Alarm.md"
+    "assets/images/unprotected-MIDI-header.png.~tmp"
   ]
 }
