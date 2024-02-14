@@ -5,9 +5,7 @@ search: false
 
 @charset "utf-8";
 
-$code-background-color: red;
-$code-background-color-dark: pink;
-$link-color: red; 
+$link-color: blue; 
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
