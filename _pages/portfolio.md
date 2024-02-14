@@ -7,6 +7,7 @@ collection: portfolio
 entries_layout: grid
 sort_by: number
 sort_order: forward
+classes: wide
 gallery1:
   - url: /assets/images/solidworks-vector-logo-400x172.png
     image_path: /assets/images/solidworks-vector-logo-400x172.png
