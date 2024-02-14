@@ -156,6 +156,7 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_includes/mermaid.html",
     "assets/images/sidebar-removed-tags.png",
     "assets/images/sidebar-removed-collection.png",
     "assets/images/sidebar-reserved-std.png",
@@ -200,7 +201,6 @@
     "assets/images/Pasted image 20240210105506.png",
     "assets/images/blog-with-teasers-header.png",
     "assets/images/blog-without-teasers.png.~tmp",
-    "assets/images/blog-with-teasers.png",
-    "assets/images/blog-without-teasers.png"
+    "assets/images/blog-with-teasers.png"
   ]
 }

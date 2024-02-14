@@ -2,6 +2,7 @@
 title: "Removing the Reserved Author Profile Space in 'Minimal-Mistakes' Jekyll Theme"
 layout: posts
 tagline: ""
+mermaid: true
 header:
     teaser: /assets/images/blog-with-teasers-header.png
 tags:
@@ -67,7 +68,8 @@ For my solution, I chose to modify one of these,`_page.scss`, giving me the abil
 Here are the steps to take:
 1. open up your `_sass/minimal-mistakes/_page.scss` file
 2. search for any instances of `$right-sidebar-width`, at the time of writing this, there are 6 of them. Four are right near the top of the page and two are further down.
-3. 'Comment out' these instances like so:
+3. 'Comment out' these instances like below:
+4. Save the file and push your changes either via github or jekyll or whatever method you use. I use github commits.
 
 ```scss
 .initial-content,
@@ -145,7 +147,6 @@ this is where my 2nd modification ends -------------------------------> */
   text-transform: uppercase;
 }
 ```
-4. Save the file and push your changes either via github or jekyll or whatever method you use. I use github commits.
 
 At this point, if you have any pages in your side which rely on the `_pages.scss` partial, they will now fill to the left into the space which used to be reserved for the author profile. Neat!
 {: .notice--success}
@@ -154,6 +155,7 @@ So, we have changed our SCSS partial, but what if I still want some of my pages 
 
 Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations.
 
+{% mermaid %}
 ```mermaid
 ---
 title: Old Structure
@@ -181,6 +183,7 @@ _archive.scss
 _page.scss
 end
 ```
+{% endmermaid %}
 
 So, I took advantage of this. I created two new files, `_layouts/collection_no_sidebar.html` and  `_layouts/tag_no_sidebar.html`, which are copies of their standard brethren, and changed the frontmatter in each file so that they now called `single.html` instead of `archive.html`
 
@@ -200,6 +203,8 @@ layout: single
 
 
 This updates our structure to look like the following:
+
+{% mermaid %}
 ```mermaid
 ---
 title: New Structure
@@ -231,6 +236,7 @@ _archive.scss
 _page.scss
 end
 ```
+{% endmermaid %}
 # Adding Your Own Layouts
 
 Once you have implemented the change to `_page.scss` mentioned above, you are free to create layouts both with and without space reserved for the sidebar. It is as simple as:
