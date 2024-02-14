@@ -155,6 +155,8 @@ So, we have changed our SCSS partial, but what if I still want some of my pages 
 
 Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations.
 
+[![](https://mermaid.ink/img/pako:eNp1kcFOAyEQhl-FcC4-wB681Hiq0ciVxIwwXYgwbGDQNE3fXVpTu6vZG8zH8P8z_1Ha7FAOUilliANHHMRzdEJzaZZbQUMXZGgf85f1UFjsXs93KNaHT7zznKJQ6l68XSvV1mqoBhrjLz7zCcYrtDlGtBwy3frnHxryOeEam3LlugYZxjXUTbX3scDkxQ4OubF6DBHrcpaF839OZ8bmPm6yhpDcQkpvtVYvfXEBYtf6s6b5Vnqn3MiEJUFwPZSjISGMZI8JjRz60UH5MNLQqb-DxlkfyMqhZ4Ub2SYHjA8BumySw76r9Sq6wLk8_aR8Cfv0DUFFtjQ?type=png)](https://mermaid.live/edit#pako:eNp1kcFOAyEQhl-FcC4-wB681Hiq0ciVxIwwXYgwbGDQNE3fXVpTu6vZG8zH8P8z_1Ha7FAOUilliANHHMRzdEJzaZZbQUMXZGgf85f1UFjsXs93KNaHT7zznKJQ6l68XSvV1mqoBhrjLz7zCcYrtDlGtBwy3frnHxryOeEam3LlugYZxjXUTbX3scDkxQ4OubF6DBHrcpaF839OZ8bmPm6yhpDcQkpvtVYvfXEBYtf6s6b5Vnqn3MiEJUFwPZSjISGMZI8JjRz60UH5MNLQqb-DxlkfyMqhZ4Ub2SYHjA8BumySw76r9Sq6wLk8_aR8Cfv0DUFFtjQ)
+
 ```mermaid
 
 flowchart LR
