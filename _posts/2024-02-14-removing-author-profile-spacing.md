@@ -236,6 +236,10 @@ end
 ```
 
 ```mermaid
+---
+title: mermaid tests
+---
+
 graph TD;
     A-->B;
     A-->C;
