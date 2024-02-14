@@ -10,6 +10,9 @@ main:
     url: /blog/
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/kieran-reck-780842229"
+  - title: "Contact"
+    url: /contact/
+
  # - title: "Contact"
  #   url: 
   # - title: "About"
