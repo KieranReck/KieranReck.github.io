@@ -235,6 +235,14 @@ _page.scss
 end
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 # Adding Your Own Layouts
 
 Once you have implemented the change to `_page.scss` mentioned above, you are free to create layouts both with and without space reserved for the sidebar. It is as simple as:
