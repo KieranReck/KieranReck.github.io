@@ -155,7 +155,6 @@ So, we have changed our SCSS partial, but what if I still want some of my pages 
 
 Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations.
 
-{% mermaid %}
 ```mermaid
 ---
 title: Old Structure
@@ -183,7 +182,7 @@ _archive.scss
 _page.scss
 end
 ```
-{% endmermaid %}
+
 
 So, I took advantage of this. I created two new files, `_layouts/collection_no_sidebar.html` and  `_layouts/tag_no_sidebar.html`, which are copies of their standard brethren, and changed the frontmatter in each file so that they now called `single.html` instead of `archive.html`
 
@@ -204,7 +203,6 @@ layout: single
 
 This updates our structure to look like the following:
 
-{% mermaid %}
 ```mermaid
 ---
 title: New Structure
@@ -236,7 +234,7 @@ _archive.scss
 _page.scss
 end
 ```
-{% endmermaid %}
+
 # Adding Your Own Layouts
 
 Once you have implemented the change to `_page.scss` mentioned above, you are free to create layouts both with and without space reserved for the sidebar. It is as simple as:
