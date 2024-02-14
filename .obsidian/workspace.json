@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
+                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "295485399763d51a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
+                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-10-adding-teasers-to-blog.md",
+                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-10-adding-teasers-to-blog.md"
+                "file": "_posts/2024-02-14-removing-author-profile-spacing.md"
               }
             }
           }
@@ -148,6 +156,12 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "contact.md",
+    "_posts/2024-02-14-removing-author-profile-spacing.md",
+    "hobby.md",
+    "_posts/2024-02-10-adding-teasers-to-blog.md",
+    "_posts/2099-01-01-blogpost-template.md",
+    "portfolio.md",
     "_layouts/tag_no_sidebar.html",
     "_layouts/tag copy.html",
     "_layouts/archive-taxonomy_no_sidebar.html",
@@ -169,16 +183,12 @@
     "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
     "_posts/2023-10-08-EDU-DIY-VCA.md",
     "_posts/2023-10-11-Feature-Envy-Dual-AR-Envelope.md",
-    "_posts/2024-02-10-adding-teasers-to-blog.md",
     "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
-    "_posts/2099-01-01-blogpost-template.md",
     "_posts/2099-02-10-markup-syntax-highlighting.md",
     "_pages/tags.md",
     "_pages/Hobby.md",
     "_pages/Hobby.html",
     "_pages/categories.md",
-    "_pages/portfolio.md",
-    "_posts/2013-08-16-markup-syntax-highlighting.md",
     "assets/images/Pasted image 20240210105506.png",
     "assets/images/blog-with-teasers-header.png",
     "assets/images/blog-without-teasers.png.~tmp",
@@ -190,9 +200,7 @@
     "assets/images/2024-02-10-adding-teasers-to-blog-20240210103658318.webp",
     "assets/images/2024-02-10-adding-teasers-to-blog-20240210103648266.webp",
     "assets/images/2024-02-10-adding-teasers-to-blog-20240210103635974.webp",
-    "_portfolio/Ion Pump Clamping Jig.md",
     "assets/images/VCF-Header-Photo(captioned).jpg",
-    "assets/images/Feature-Envy-Header-Photo(Captioned).jpg.~tmp",
-    "assets/images/Thonkiconn-Pinout.jpg.~tmp"
+    "assets/images/Feature-Envy-Header-Photo(Captioned).jpg.~tmp"
   ]
 }
