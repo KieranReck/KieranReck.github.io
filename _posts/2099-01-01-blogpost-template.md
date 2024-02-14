@@ -2,6 +2,7 @@
 title: "enter title here..."
 layout: posts
 tagline: ""
+mermaid: false
 header:
     teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
 tags:
@@ -11,6 +12,7 @@ tags:
 #  - Lessons Learned
 #  - Design for Manufacture
 #  - Code
+#  - Jekyll / Github Pages
 # --------
 #  - Hobby
 #  - Professional
@@ -21,6 +23,7 @@ tags:
 
 >[!tip] Useful Liquid Tags - Delete before posting
 {: .align-center width="400px"} - Needs to be inline with the image
+>
 {: .notice--primary} - needs to be the line below the **single line** of text
 
 >[!success] Useful Liquid Tags - Adding a Gallery
@@ -37,3 +40,15 @@ tags:
 (O-Ring groove is found on the mating part).</figcaption>
 </figure>
 ```
+
+>[!note] Adding A Mermaid Diagram/Graph
+>- Remember to set the frontmatter to `mermaid: true`, then just create a mermaid graph as per usual
+>- Bare in mind that it uses an old version of mermaid, so some feature such as graph titles break functionality
+
+>[!danger] Code Block Not Displaying Right?
+>encase your code in the following liquid tags to ensure it doesn't get processed:
+>```html
+{% raw %}
+>
+{% endraw %}
+>```

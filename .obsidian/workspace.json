@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-14-removing-author-profile-spacing.md",
+                "file": "_posts/2099-01-01-blogpost-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-14-removing-author-profile-spacing.md"
+                "file": "_posts/2099-01-01-blogpost-template.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "9c8352a94d991323",
   "lastOpenFiles": [
+    "_posts/2024-02-10-adding-teasers-to-blog.md",
     "_posts/2024-02-14-removing-author-profile-spacing.md",
+    "_posts/2099-02-10-markup-syntax-highlighting.md",
+    "_posts/2099-01-01-blogpost-template.md",
+    "assets/images/sidebar-removed-header.png",
     "_includes/mermaid.html",
     "assets/images/sidebar-removed-tags.png",
     "assets/images/sidebar-removed-collection.png",
@@ -161,8 +165,6 @@
     "assets/images/Firefox_Screenshot_2024-02-14T17-03-41.997Z.png",
     "contact.md",
     "hobby.md",
-    "_posts/2024-02-10-adding-teasers-to-blog.md",
-    "_posts/2099-01-01-blogpost-template.md",
     "portfolio.md",
     "_layouts/tag_no_sidebar.html",
     "_layouts/tag copy.html",
@@ -186,12 +188,10 @@
     "_posts/2023-10-08-EDU-DIY-VCA.md",
     "_posts/2023-10-11-Feature-Envy-Dual-AR-Envelope.md",
     "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
-    "_posts/2099-02-10-markup-syntax-highlighting.md",
     "_pages/tags.md",
     "_pages/Hobby.md",
     "_pages/Hobby.html",
     "assets/images/Pasted image 20240210105506.png",
-    "assets/images/blog-with-teasers-header.png",
-    "assets/images/blog-with-teasers.png"
+    "assets/images/blog-with-teasers-header.png"
   ]
 }
