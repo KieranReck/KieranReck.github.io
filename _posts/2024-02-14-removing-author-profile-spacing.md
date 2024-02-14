@@ -156,9 +156,7 @@ So, we have changed our SCSS partial, but what if I still want some of my pages 
 Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations.
 
 ```mermaid
----
-title: Old Structure
----
+
 flowchart LR
 
 archive.html --> _archive.scss
@@ -204,9 +202,7 @@ layout: single
 This updates our structure to look like the following:
 
 ```mermaid
----
-title: New Structure
----
+
 flowchart LR
 
 archive.html --> _archive.scss
@@ -236,9 +232,6 @@ end
 ```
 
 ```mermaid
----
-title: mermaid tests
----
 
 graph TD;
     A-->B;
