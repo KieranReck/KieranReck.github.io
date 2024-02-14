@@ -21,19 +21,20 @@ The [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes) for 
 
 In theory this is fine, you layout every page the same, with a more 'blog style' narrow width, but this ignores the fact that Minimal Mistakes comes with a class for extending your pages into the reserved space on the right, making your pages look uneven when your author profile is turned off. 
 
-![](../assets/images/blog-without-teasers.png)
-
->[!warning] Image Here
->example std page  vs  wide page
-
+## Standard Page Layout
+<figure class="half">
+    <a href="/assets/images/sidebar-reserved-std.png"><img src="/assets/images/sidebar-reserved-std.png"></a>
+    <a href="/assets/images/sidebar-reserved-wide.png"><img src="/assets/images/sidebar-reserved-wide.png"></a>
+    <figcaption>Left: Standard Page Layout  ||  Right: Standard Page + Wide Class</figcaption>
+</figure>
 This looks bad on a webpage intended to show off your portfolio, so I sought a method to fix it, with a surprising amount of success, introducing **two new layouts to the theme:**
 
->[!warning] Image Here showing
->Display Both New Layouts, with Titles
+
+## New Page Layouts
 <figure class="half">
-    <a href="/assets/images/tag_no_sidebar.jpg"><img src="/assets/images/tag_no_sidebar.jpg"></a>
-    <a href="/assets/images/collection_no_sidebar.jpg"><img src="/assets/images/collection_no_sidebar.jpg"></a>
-    <figcaption>`Left: tag_no_sidebar.HTML`  ||  Right: `Collection_no_Sidebar.html`</figcaption>
+    <a href="/assets/images/sidebar-removed-collection.png"><img src="/assets/images/sidebar-removed-collection.png"></a>
+    <a href="/assets/images/sidebar-removed-tags.png"><img src="/assets/images/sidebar-removed-tags.png"></a>
+    <figcaption>Left: collection_no_sidebar.html  ||  Right: tag_no_sidebar.html</figcaption>
 </figure>
 # Usage Instructions
 Simply call for the new layouts in the frontmatter of your page the way you usually would and away you go. These layouts pair well with `classes: wide`, giving your pages which span the full max width of your website structure, plus giving you a full width header that extends to the extremes of your monitor.
