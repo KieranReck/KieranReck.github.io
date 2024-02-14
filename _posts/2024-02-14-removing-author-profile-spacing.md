@@ -67,6 +67,7 @@ Here are the steps to take:
 1. open up your `_sass/minimal-mistakes/_page.scss` file
 2. search for any instances of `$right-sidebar-width`, at the time of writing this, there are 6 of them. Four are right near the top of the page and two are further down.
 3. 'Comment out' these instances like so:
+
 ```scss
 .initial-content,
 .search-content {
@@ -150,7 +151,7 @@ At this point, if you have any pages in your side which rely on the `_pages.scss
 ## 2. Adapting the Structure
 So, we have changed our SCSS partial, but what if I still want some of my pages to reserve space for the author profile? Well, my [Contact](/contact/) page does just this!
 
-Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations .
+Sadly, whilst I could figure out that it was the `_layout` files that dictated which scss partial was used for styling a page, I couldn't figure out *how* if was being done. The layout files work in a cascading fashion, each adding their few niche elements and then linking to the next layer down, with `archive.html` and `single.html` being the two 'final' destinations.
 
 ```mermaid
 ---
