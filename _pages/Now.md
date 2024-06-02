@@ -4,9 +4,11 @@ browser_title: Now \| Kieran Reck
 permalink: /now/
 layout: tags
 author_profile: true
+related: false
 ---
+Last Updated: 02 June 2024
 
-So, all of this is great, but what am I up to currently?
+So, all of this is great, but what am I actually up to currently?
 
 ## Professional
 As of Feb 2024 I joined <https://rapidx.bio/> as employee number 3, **Founding Engineer** is the job title.
@@ -24,3 +26,5 @@ That being said, I am slowly chipping away at taking the [M8 Headless project](h
 
 ## Hobbies
 Continuing to find time to get some indoor bouldering/rock climbing time
+
+---
