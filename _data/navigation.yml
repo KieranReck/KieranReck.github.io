@@ -8,6 +8,8 @@ main:
     url: /hobby/
   - title: "Blog"
     url: /blog/
+  - title: "Now"
+    url: /now/
   # - title: "LinkedIn"
   #   url: "https://www.linkedin.com/in/kieran-reck-780842229"
   - title: "Contact"
