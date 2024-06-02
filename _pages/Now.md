@@ -6,9 +6,10 @@ layout: posts
 author_profile: true
 related: false
 ---
-Last Updated: 02 June 2024
 
 So, all of this is great, but what am I actually up to currently?
+Last Updated: 02 June 2024
+{: .notice--success}
 
 ## Professional
 As of Feb 2024 I joined <https://rapidx.bio/> as employee number 3, **Founding Engineer** is the job title.
