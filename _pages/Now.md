@@ -2,7 +2,7 @@
 title: "Now"
 browser_title: Now \| Kieran Reck
 permalink: /now/
-layout: tags
+layout: posts
 author_profile: true
 related: false
 ---
