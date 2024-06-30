@@ -14,10 +14,10 @@ gallery1:
     alt: "The Underside"  
 gallery2:
   - url: /assets/images/3D-printed-drill-jig-3.jpg
-    image_path: /assets/images/3D-printed-drill-jig-1.jpg
+    image_path: /assets/images/3D-printed-drill-jig-3.jpg
     alt: "5mm Alignment Hole"
   - url: /assets/images/3D-printed-drill-jig-4.jpg
-    image_path: /assets/images/3D-printed-drill-jig-2.jpg
+    image_path: /assets/images/3D-printed-drill-jig-4.jpg
     alt: "Drilling Complete (showing 2.5mm holes 16mm apart)"  
 tags:
 #  - Electronics
@@ -37,7 +37,7 @@ I created some quick 3D printed drilling jigs to add some tiny little 1.5mm hole
 
 The alignment of the final holes wasn't perfectly placed in the heatsink, likely an error with a seam in the 3D print or something, but the consistency was great and that is what I was really after, the [LED Star Boards](https://www.ledsupply.com/leds/cree-xlamp-xpe-high-power-led-star) mount nicely!
 
-{% include gallery id="gallery1" layout="half" caption="The Jig" %}  
+{% include gallery id="gallery1" layout="half" caption="" %}  
 
 # How The are Used
 The order of operations is as follows:
@@ -49,7 +49,7 @@ The order of operations is as follows:
 6. Pull out the heatsink, rotate 180degress, put back into jig
 7. Drill hole number 2
 
-{% include gallery id="gallery2" layout="half" caption="The Jig" %}  
+{% include gallery id="gallery2" layout="half" caption="" %}  
 
 # Variants
 I created three different jigs, each for drilling different hole patterns, each one aligns to the original 5mm hole your drilled to ensure your holes are in the correct place
@@ -57,5 +57,3 @@ I created three different jigs, each for drilling different hole patterns, each 
 2. 1.5mm holes spaced 11.6mm apart
 3. 2.5mm holes spaced 16.0mm apart
 ![](../assets/images/3D-printed-drill-jig-5.jpg){: .align-center}
-
-***

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2099-01-01-Dirtywave-M8-Tracker.md",
+                "file": "_posts/2024-06-30-3D-printed-drilling-jig.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2099-01-01-Dirtywave-M8-Tracker.md",
+                "file": "_posts/2024-06-30-3D-printed-drilling-jig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2099-01-01-Dirtywave-M8-Tracker.md",
+                "file": "_posts/2024-06-30-3D-printed-drilling-jig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2099-01-01-Dirtywave-M8-Tracker.md"
+                "file": "_posts/2024-06-30-3D-printed-drilling-jig.md"
               }
             }
           }
@@ -149,13 +149,19 @@
   "active": "eb82a72ccd0eac86",
   "lastOpenFiles": [
     "_posts/2099-01-01-blogpost-template.md",
+    "_posts/2099-01-01-Dirtywave-M8-Tracker.md",
+    "_posts/2022-09-28-Lobed-Corners.md",
+    "_posts/2023-01-06-Protecting-sealing-faces.md",
+    "_posts/2023-01-10-No-Optoisolator-No-Problem.md",
+    "_posts/2023-02-12-shipping-vacuum-systems.md",
+    "_posts/2023-02-13-MIDI-6N137-vs-6N138-vs-6N139.md",
+    "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
+    "_posts/2023-10-08-EDU-DIY-VCA.md",
+    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
+    "_posts/2024-02-10-adding-teasers-to-blog.md",
+    "_posts/2024-02-14-removing-author-profile-spacing.md",
     "_posts/2024-06-30-3D-printed-drilling-jig.md",
     "_posts/2099-02-10-markup-syntax-highlighting.md",
-    "_posts/2099-01-01-Dirtywave-M8-Tracker.md",
-    "_posts/2023-10-08-EDU-DIY-VCA.md",
-    "_posts/2023-08-28-The-More-Ritz-Klein-VCO.md",
-    "_posts/2024-02-14-removing-author-profile-spacing.md",
-    "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "assets/images/3D-printed-drill-jig-5.jpg",
     "assets/images/3D-printed-drill-jig-4.jpg",
     "assets/images/3D-printed-drill-jig-3.jpg",
@@ -181,18 +187,12 @@
     "_posts/2022-01-15-Power-Down-Alarm.md",
     "_pages/Contact copy.html",
     "_pages/tags copy.md",
-    "_posts/2024-02-10-adding-teasers-to-blog.md",
     "_includes/mermaid.html",
     "contact.md",
     "hobby.md",
     "portfolio.md",
     "_posts/2022-03-22-How-Do-You-See-Around-Corners.md",
     "_posts/2022-04-10-Sheet-Metal-Lessons.md",
-    "_posts/2022-04-11-Goalposts.md",
-    "_posts/2022-05-06-IF-It-Works.md",
-    "_posts/2022-05-26-7-Segment-Displays-and-IC4026-Chips.md",
-    "_posts/2022-09-28-Lobed-Corners.md",
-    "_posts/2023-01-06-Protecting-sealing-faces.md",
-    "_posts/2023-02-12-shipping-vacuum-systems.md"
+    "_posts/2022-04-11-Goalposts.md"
   ]
 }
