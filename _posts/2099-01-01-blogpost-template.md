@@ -5,6 +5,10 @@ tagline: ""
 mermaid: false
 header:
     teaser: /assets/images/< enter 4:3 CROPPED IMAGE filename + extension here >
+gallery:
+  - url: /assets/images/
+    image_path: /assets/images/
+    alt: " "
 tags:
 #  - Electronics
 #  - Modular Synth
@@ -13,13 +17,15 @@ tags:
 #  - Design for Manufacture
 #  - Code
 #  - Jekyll / Github Pages
+#  - 3D Printing
 # --------
 #  - Hobby
 #  - Professional
 ---
 
+Type article here
 
-
+***
 
 >[!tip] Useful Liquid Tags - Delete before posting
 {: .align-center width="400px"} - Needs to be inline with the image
