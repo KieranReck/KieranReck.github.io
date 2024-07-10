@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2232c29c2a1976c9",
+        "id": "6f60f6ec2114a7e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b191240845b4b1fe",
+            "id": "74c4e6d06e0e2ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fe6b48913eac30e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -154,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b191240845b4b1fe",
+  "active": "74c4e6d06e0e2ed0",
   "lastOpenFiles": [
-    "_posts/2024-06-30-3D-printed-drilling-jig.md",
     "_posts/2024-07-09-M8-HEADLESS.md",
+    "assets/images/homepage-hobby-header1.jpg",
+    "_posts/2024-06-30-3D-printed-drilling-jig.md",
     "_posts/2099-01-01-blogpost-template.md",
     "assets/images/M8_Headless_Stripboard_Prototype.jpg.~tmp",
     "assets/images/M8_Headless_Stripboard_Prototype.jpg",
@@ -187,7 +180,6 @@
     "_posts/2023-10-15-LMNC-René-Schmitz-MS-20-Filter.md",
     "_posts/2024-02-14-removing-author-profile-spacing.md",
     "assets/images/3D-printed-drill-jig-5.jpg",
-    "assets/images/3D-printed-drill-jig-4.jpg",
     "assets/images/M8_Headless_Schematic_V1.pdf",
     "assets/images/M8 Headless PCB Gerbers v2.1(unchecked).zip",
     "assets/images/M8 Headless PCB Gerbers v1.2.zip",
