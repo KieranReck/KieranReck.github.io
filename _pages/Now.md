@@ -28,6 +28,6 @@ Recently I started messing around and learning some basic python through a proje
 There are apps out there that already do this, but I thought it would be a nice beginner project regardless.
 
 ## Hobbies
-With my [M8 Headless Project](/_posts/2024-07-09-M8-HEADLESS.md) complete it sparked an interest in music production and theory, whilst youtube shorts simaltaniously realised that I am a fan of metal music and led me to videos by [Nick Broomhall](https://www.youtube.com/channel/UCi_t2g66DL2SVW9YVHt9yaA). These resulted in me buying a used electric guitar, so I'm taking lessons. 
+With my [M8 Headless Project](/M8-HEADLESS) complete it sparked an interest in music production and theory, whilst youtube shorts simaltaniously realised that I am a fan of metal music and led me to videos by [Nick Broomhall](https://www.youtube.com/channel/UCi_t2g66DL2SVW9YVHt9yaA). These resulted in me buying a used electric guitar, so I'm taking lessons. 
 
 ---
