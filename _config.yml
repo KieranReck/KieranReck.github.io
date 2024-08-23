@@ -93,7 +93,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/kieran-reck-780842229"
+    - "https://www.linkedin.com/in/kieran-reck"
 
 # Analytics
 analytics:
@@ -131,14 +131,14 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/kieran-reck-780842229"
+      url: "https://www.linkedin.com/in/kieran-reck"
 
 # Site Footer
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/kieran-reck-780842229"
+      url: "https://www.linkedin.com/in/kieran-reck"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
