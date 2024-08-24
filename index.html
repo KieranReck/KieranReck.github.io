@@ -98,7 +98,7 @@ latest:
 </style>
 </head>
 <body>
-  <div class="row">
+  <!-- <div class="row">
       <div class="column-triple left-triple">
           <a href="{{ recent_post1.url }}"><img src="{{header_location1}}"></a>
           <h2>{{ recent_post1.title }}</h2>
@@ -119,6 +119,29 @@ latest:
           <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
           <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
           <p><a href="{{ recent_post3.url }}">Read More..</a></p>
-      </div>
+      </div> -->
+
+  <div class="row">
+    <div class="column-triple left-triple">
+      <a href="{{ recent_post3.url }}"><img src="{{header_location3}}"></a>
+      <h2>{{ recent_post3.title }}</h2>
+      <p class="blogdate">Posted: {{ recent_post3.date | date: "%d %B %Y" }}</p>
+      <p>{{ recent_post3.excerpt | truncate: 155 }}</p>
+      <p><a href="{{ recent_post3.url }}">Read More..</a></p>
+    </div>
+    <div class="column-triple middle-triple">
+        <a href="{{ recent_post2.url }}"><img src="{{header_location2}}"></a>
+        <h2>{{ recent_post2.title }}</h2>
+        <p class="blogdate">Posted: {{ recent_post2.date | date: "%d %B %Y" }}</p>
+        <p>{{ recent_post2.excerpt | truncate: 155 }}</p>
+        <p><a href="{{ recent_post2.url }}">Read More..</a></p>
+    </div>
+    <div class="column-triple right-triple">
+      <a href="{{ recent_post1.url }}"><img src="{{header_location1}}"></a>
+      <h2>{{ recent_post1.title }}</h2>
+      <p class="blogdate">Posted: {{ recent_post1.date | date: "%d %B %Y" }}</p>
+      <p>{{ recent_post1.excerpt | truncate: 155 }}</p>
+      <p><a href="{{ recent_post1.url }}">Read More..</a></p>
+    </div>
   </div>
 </body>
