@@ -55,7 +55,9 @@ As well as condensing the original designs, I made two additional changes:
 1. I swapped the 10k input resistors to 20k thanks to this ([https://lookmumnocomputer.discourse.group/t/lmnc-ms20-filter-low-output/660/54](https://lookmumnocomputer.discourse.group/t/lmnc-ms20-filter-low-output/660/54)) thread regarding how if the input signal is too hot it goes silent due to [Phase Reversal](https://northcoastsynthesis.com/news/whats-the-deal-with-phase-reversal/) on the TL074.
 2. I added a 100k/47k voltage divider to the toggle switch to bring the volume of the Highpass down to a level similar to the Lowpass.
 
->[!warning] WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation. 
+WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation.
+{: .notice--warning}
+
 ![](../assets/images/LMNC%20Rene%20Schmitz%20MS20%20Filter%20v1.0.png)
 
 ![](../assets/images/VCF-Diagonal-Front.jpg)

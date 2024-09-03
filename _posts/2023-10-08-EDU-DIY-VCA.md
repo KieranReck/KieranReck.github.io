@@ -42,7 +42,9 @@ Seen as I had a little leftover space and can't resist blinking lights, I have a
 ![](../assets/images/status-LED-Mounted.jpg)
 
 # Stripboard Layout
->[!warning] WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation. 
+WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation.
+{: .notice--warning}
+
 ![](../assets/images/Moritz-Klein-VCA-Stripboard-V2.0.png)
 
 ![](../assets/images/VCA-Diagonal-Front.jpg)

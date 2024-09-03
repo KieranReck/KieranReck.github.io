@@ -59,7 +59,8 @@ I have mentioned it already, but the full circuit was a little too complex as a 
 - Board 1 is everything you need to build the base 'mki x es.EDU VCO', all within a single 12 HP board, just 2 HP wider than the PCB project.
 - Board 2 is the 'Extension Board', this is where the build becomes cumbersome. This board contains the Triangle circuitry, as well as the Wavemixing circuitry.
 
->[!warning] WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation. 
+WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation.
+{: .notice--warning}
 
 ![](../assets/images/MORE-RITZ-Klein-VCO-Stripboard-v2.0.png)
 

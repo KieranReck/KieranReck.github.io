@@ -41,7 +41,8 @@ Falstad JSCircuit Simulation can be found here: [https://tinyurl.com/23rnx7ux](h
 ![](../assets/images/Feature-Envy-Schematic(Single-AR).png)
 # Stripboard
 
->[!warning] WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation. 
+WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation.
+{: .notice--warning}
 
 ![](../assets/images/Feature-Envy-AR-Envelope-Stripboardv1.0.png)
 
