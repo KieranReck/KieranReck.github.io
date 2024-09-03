@@ -30,7 +30,19 @@ Type article here
 >[!tip] Useful Liquid Tags - Delete before posting
 {: .align-center width="400px"} - Needs to be inline with the image
 >
-{: .notice--primary} - needs to be the line below the **single line** of text
+> {: .notice--primary} - needs to be the line below the **single line** of text
+> 'notice' options include: `primary`, `info`, `warning`, `danger`, `success`
+> the colours of these are:  themed     blue    orange     red       green  
+>
+> If you want a multiline notice, there is a liquid method, or just use HTML:
+>```
+    <div class="notice--success">
+        <h4>Message</h4>
+        <p>A basic message.</p>
+    </div>
+>```
+> further info here: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/ 
+
 
 >[!success] Useful Liquid Tags - Adding a Gallery
 >
