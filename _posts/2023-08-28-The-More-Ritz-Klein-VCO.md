@@ -59,7 +59,9 @@ I have mentioned it already, but the full circuit was a little too complex as a 
 - Board 1 is everything you need to build the base 'mki x es.EDU VCO', all within a single 12 HP board, just 2 HP wider than the PCB project.
 - Board 2 is the 'Extension Board', this is where the build becomes cumbersome. This board contains the Triangle circuitry, as well as the Wavemixing circuitry.
 
-![](../assets/images/MORE-RITZ-Klein-VCO-Stripboard-v1.0.png)
+>[!warning] WARNING - In this layout I am using the 2N3904 NPN and 2N3906 PNP transistors. These have a non-standard pintout (with the E and C pins swapped). Double check your chosen transistors to confirm orientation. 
+
+![](../assets/images/MORE-RITZ-Klein-VCO-Stripboard-v2.0.png)
 
 <figure class="half">
     <a href="/assets/images/more-ritz-klein-rear.jpg"><img src="/assets/images/more-ritz-klein-rear.jpg"></a>
@@ -80,5 +82,3 @@ Nevertheless, here are the more unexpected lessons I learned along the way:
 - The Tip of a Switched 3.5mm Jack Socket is connected to the Ground Pin when no cable is present. This is also how Normalised Sockets work
 - You cannot split an output between a Jack and another source. Unconnected Jacks are grounded, which means that all of your signal is sent straight to ground unless the jack is connected to something.
 - Don't use pin headers to do multi-layer stripboards. They work well for PCBs, but they are super hard to solder onto the one-sided stripboard where the connector is on the same side as the solder
-
-***
