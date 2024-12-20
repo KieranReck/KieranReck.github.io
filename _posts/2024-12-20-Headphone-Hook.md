@@ -36,7 +36,7 @@ tags:
 #  - Professional
 ---
 I designed a headphone hook which also provides a place to plug my guitar cable when it isn't in use. 
-![[headphone-hook-cover.webp]]{: .align-center}
+![](../assets/images/headphone-hook-cover.webp){: .align-center}
 
 No more will I have to deal with a cable wrapped around my chair, there shall be order!
 
@@ -51,4 +51,4 @@ But still, look how cool it could have been:
 
 {% include gallery id="gallery2" caption="Print-In-Place Spring" %}
 
-![[headphone-hook-front.webp]]{: .align-center}
+![](../assets/images/headphone-hook-front.webp){: .align-center}
