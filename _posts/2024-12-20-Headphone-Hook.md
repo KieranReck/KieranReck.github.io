@@ -40,7 +40,7 @@ I designed a headphone hook which also provides a place to plug my guitar cable 
 
 No more will I have to deal with a cable wrapped around my chair, there shall be order!
 
-{% include gallery1 id="gallery1" layout="half" caption="Before vs After" %}
+{% include gallery id="gallery1" layout="half" caption="Before vs After" %}
 
 ## Print-In-Place Spring
 I tried to get a little clever with this design by adding a print in place spring, one which mimic's the retention mechanism of a guitar jack and would hold the jack securely in place. 
@@ -49,6 +49,6 @@ Ultimately, the spring was a failure. It was too thin and weak to actually impar
 
 But still, look how cool it could have been:
 
-{% include gallery2 id="gallery2" caption="Print-In-Place Spring" %}
+{% include gallery id="gallery2" caption="Print-In-Place Spring" %}
 
 ![[headphone-hook-front.webp]]{: .align-center}
