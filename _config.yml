@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hi@kieranreck.co.uk"
+      url: "hello@kieranreck.co.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -159,7 +159,7 @@ footer:
       # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hi@kieranreck.co.uk"
+      url: "hello@kieranreck.co.uk"
 
 
 # Reading Files
