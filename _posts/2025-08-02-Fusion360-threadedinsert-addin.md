@@ -23,7 +23,7 @@ A vibe coded Autodesk Fusion / Fusion360 add-in for managing threaded insert wor
 ![Utilities Ribon Including Threaded Inserts Add In](../assets/images/fusion360-threadedinserts-addin-UtilitiesRibon.png){: .align-center}
 
 
-<video width="100%" autoplay muted>
+<video width="100%" autoplay loop muted>
     <source src="../assets/images/fusion360-threadedinserts-addin-DemoVideo.mp4" type="video/mp4">
     Your browser does not support the videos.
 </video>
