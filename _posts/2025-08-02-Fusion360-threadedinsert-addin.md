@@ -4,7 +4,7 @@ layout: posts
 tagline: ""
 mermaid: false
 header:
-    teaser: /assets/images/fusion360-threadedinserts-addin-600px
+    teaser: /assets/images/fusion360-threadedinserts-addin-600px.png
 tags:
 #  - Electronics
 #  - Modular Synth
@@ -23,10 +23,12 @@ A vibe coded Autodesk Fusion / Fusion360 add-in for managing threaded insert wor
 ![Utilities Ribon Including Threaded Inserts Add In](../assets/images/fusion360-threadedinserts-addin-UtilitiesRibon.png){: .align-center}
 
 
-![Threaded Inserts Add In Demo Video](../assets/images/fusion360-threadedinserts-addin-DemoVideo.mp4){: .align-center}
+<video width="100%" autoplay muted>
+    <source src="../assets/images/fusion360-threadedinserts-addin-DemoVideo.mp4" type="video/mp4">
+    Your browser does not support the videos.
+</video>
 
-
-**For more info, visit the project's GitHub: [https://github.com/KieranReck/fusion360-threadedinserts-addin](https://github.com/KieranReck/fusion360-threadedinserts-addin)
+For more info, visit the project's GitHub: [https://github.com/KieranReck/fusion360-threadedinserts-addin](https://github.com/KieranReck/fusion360-threadedinserts-addin)
 {: .notice--success}
 
 ***
