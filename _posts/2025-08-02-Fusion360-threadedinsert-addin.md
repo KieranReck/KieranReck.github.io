@@ -15,7 +15,7 @@ tags:
 #  - Jekyll / Github Pages
   - 3D Printing
 # --------
-#  - Hobby
+  - Hobby
   - Professional
 ---
 A vibe coded Autodesk Fusion / Fusion360 add-in for managing threaded insert workflows. This tool helps teams identify and mark threaded insert holes using unique diameter parameters and applying a visual appearance.
