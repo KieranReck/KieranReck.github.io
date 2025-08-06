@@ -44,5 +44,3 @@ A keyboard Shortcut can also be added, albeit through a slightly different metho
 
 For more info, visit the project's GitHub: [https://github.com/KieranReck/fusion360-timelinesketchvisibilitytoggle-addin/tree/main](https://github.com/KieranReck/fusion360-timelinesketchvisibilitytoggle-addin/tree/main)
 {: .notice--success}
-
-***
