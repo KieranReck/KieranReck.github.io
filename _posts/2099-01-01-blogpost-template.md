@@ -34,14 +34,16 @@ Type article here
 > 'notice' options include: `primary`, `info`, `warning`, `danger`, `success`
 > the colours of these are:  themed     blue    orange     red       green  
 >
-> If you want a multiline notice, there is a liquid method, or just use HTML:
->```
+> If you want a multiline notice, there is a liquid method (further info here: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/ )
+> 
+> or just use HTML:
+```
     <div class="notice--success">
         <h4>Message</h4>
         <p>A basic message.</p>
     </div>
->```
-> further info here: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/ 
+```
+
 
 
 >[!success] Useful Liquid Tags - Adding a Gallery
