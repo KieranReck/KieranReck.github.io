@@ -9,15 +9,15 @@ gallery:
   - url: /assets/images/RECK-THORNS-600px.png
     image_path: /assets/images/RECK-THORNS-600px.png
     alt: "Yellow On Transparent"
-  - url: /assets/images/RECK-THORNS-600px-BlackOnWhite.png
-    image_path: /assets/images/RECK-THORNS-600px-BlackOnWhite.png
-    alt: "Black On White"
-  - url: /assets/images/RECK-THORNS-600px-BlackOnPink.png
-    image_path: /assets/images/RECK-THORNS-600px-BlackOnPink.png
-    alt: "Black On Pink"
   - url: /assets/images/RECK-THORNS-600px-RedOnWhite.png
     image_path: /assets/images/RECK-THORNS-600px-RedOnWhite.png
     alt: "Red On White"
+  - url: /assets/images/RECK-THORNS-600px-BlackOnPink.png
+    image_path: /assets/images/RECK-THORNS-600px-BlackOnPink.png
+    alt: "Black On Pink"
+  - url: /assets/images/RECK-THORNS-600px-WhiteOnBlack.png
+    image_path: /assets/images/RECK-THORNS-600px-WhiteOnBlack.png
+    alt: "White On Black"
 tags:
 #  - Electronics
 #  - Modular Synth
@@ -60,7 +60,7 @@ Lattice Deformation for the shape. Pull individual nodes for the texture.
 
 **Step 6: Rock out**
 
->{% include gallery id="gallery" layout="half" caption="Logos" %}
+>{% include gallery id="gallery" layout="half" %}
 
 Why stop there? This would look sick engraved onto my headphones
 
